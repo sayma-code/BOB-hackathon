@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangladesh Economic Transformation - Debt Reduction Strategy</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">
+                    <i class="fas fa-chart-line"></i>
+                    <span>Bangladesh Economic Transformation</span>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#solutions">Solutions</a></li>
+                    <li><a href="#implementation">Implementation</a></li>
+                    <li><a href="#about">About</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Transform Bangladesh's Economy</h1>
+                <p class="subtitle">A comprehensive strategy to reduce debt and boost economic growth</p>
+                
+                <!-- Current Debt Display -->
+                <div class="debt-display">
+                    <div class="debt-card">
+                        <h2>Current National Debt</h2>
+                        <div class="debt-amount">
+                            <span class="currency">$</span>
+                            <span id="debt-value">96.5</span>
+                            <span class="unit">Billion</span>
+                        </div>
+                        <p class="debt-info">As of 2024 | 28.5% of GDP</p>
+                        <div class="debt-breakdown">
+                            <div class="breakdown-item">
+                                <span class="label">External Debt:</span>
+                                <span class="value">$62.8B</span>
+                            </div>
+                            <div class="breakdown-item">
+                                <span class="label">Domestic Debt:</span>
+                                <span class="value">$33.7B</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Debt Repayment Timeline -->
+                    <div class="debt-repayment-timeline">
+                        <h3><i class="fas fa-rocket"></i> Fastest Path to Debt Freedom</h3>
+                        <p class="timeline-subtitle">Combining all solutions for maximum impact</p>
+                        
+                        <div class="repayment-stats">
+                            <div class="repayment-stat">
+                                <div class="stat-icon"><i class="fas fa-dollar-sign"></i></div>
+                                <div class="stat-content">
+                                    <div class="stat-value">$21.05B</div>
+                                    <div class="stat-label">Annual Payment</div>
+                                </div>
+                            </div>
+                            <div class="repayment-stat">
+                                <div class="stat-icon"><i class="fas fa-calendar-check"></i></div>
+                                <div class="stat-content">
+                                    <div class="stat-value">4.6 Years</div>
+                                    <div class="stat-label">To Debt-Free</div>
+                                </div>
+                            </div>
+                            <div class="repayment-stat">
+                                <div class="stat-icon"><i class="fas fa-chart-line"></i></div>
+                                <div class="stat-content">
+                                    <div class="stat-value">21.8%</div>
+                                    <div class="stat-label">Debt Paid/Year</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="timeline-progress">
+                            <div class="timeline-year">
+                                <div class="year-marker">Year 1</div>
+                                <div class="year-amount">-$21.05B</div>
+                                <div class="year-remaining">$75.45B left</div>
+                            </div>
+                            <div class="timeline-year">
+                                <div class="year-marker">Year 2</div>
+                                <div class="year-amount">-$21.05B</div>
+                                <div class="year-remaining">$54.40B left</div>
+                            </div>
+                            <div class="timeline-year">
+                                <div class="year-marker">Year 3</div>
+                                <div class="year-amount">-$21.05B</div>
+                                <div class="year-remaining">$33.35B left</div>
+                            </div>
+                            <div class="timeline-year">
+                                <div class="year-marker">Year 4</div>
+                                <div class="year-amount">-$21.05B</div>
+                                <div class="year-remaining">$12.30B left</div>
+                            </div>
+                            <div class="timeline-year debt-free">
+                                <div class="year-marker">Year 5</div>
+                                <div class="year-amount">-$12.30B</div>
+                                <div class="year-remaining"><i class="fas fa-check-circle"></i> DEBT FREE!</div>
+                            </div>
+                        </div>
+
+                        <div class="solution-contributions">
+                            <h4>Annual Contribution by Solution:</h4>
+                            <div class="contribution-bars">
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span>Tax Revenue</span>
+                                        <span class="bar-value">$14.1B (67%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 67%; background: #2563eb;"></div>
+                                    </div>
+                                </div>
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span>Natural Resources</span>
+                                        <span class="bar-value">$3.6B (17%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 17%; background: #10b981;"></div>
+                                    </div>
+                                </div>
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span>Cultural Exports</span>
+                                        <span class="bar-value">$2.0B (9.5%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 9.5%; background: #f59e0b;"></div>
+                                    </div>
+                                </div>
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span>Graduate Employment</span>
+                                        <span class="bar-value">$1.16B (5.5%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 5.5%; background: #8b5cf6;"></div>
+                                    </div>
+                                </div>
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span>Foreign Employment</span>
+                                        <span class="bar-value">$175M (1%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 1%; background: #ec4899;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="timeline-cta">
+                            <p><strong>🎯 Result:</strong> Bangladesh becomes debt-free by 2029, saving $8-20B in interest payments!</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                    <!-- Alternative Path: Without Tax Revenue -->
+                    <div class="debt-repayment-timeline" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); margin-top: 1.5rem;">
+                        <h3><i class="fas fa-shield-alt"></i> Alternative Path: Without Tax Revenue Reforms</h3>
+                        <p class="timeline-subtitle">Using Natural Resources, Employment & Exports only</p>
+                        
+                        <div class="repayment-stats">
+                            <div class="repayment-stat">
+                                <div class="stat-icon"><i class="fas fa-dollar-sign"></i></div>
+                                <div class="stat-content">
+                                    <div class="stat-value">$6.95B</div>
+                                    <div class="stat-label">Annual Payment</div>
+                                </div>
+                            </div>
+                            <div class="repayment-stat">
+                                <div class="stat-icon"><i class="fas fa-calendar-check"></i></div>
+                                <div class="stat-content">
+                                    <div class="stat-value">13.9 Years</div>
+                                    <div class="stat-label">To Debt-Free</div>
+                                </div>
+                            </div>
+                            <div class="repayment-stat">
+                                <div class="stat-icon"><i class="fas fa-chart-line"></i></div>
+                                <div class="stat-content">
+                                    <div class="stat-value">7.2%</div>
+                                    <div class="stat-label">Debt Paid/Year</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="solution-contributions">
+                            <h4>Annual Contribution by Solution (No Tax Reform):</h4>
+                            <div class="contribution-bars">
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span><i class="fas fa-oil-can"></i> Natural Resources</span>
+                                        <span class="bar-value">$3.6B (51.8%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 51.8%; background: #10b981;"></div>
+                                    </div>
+                                </div>
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span><i class="fas fa-palette"></i> Cultural Exports</span>
+                                        <span class="bar-value">$2.0B (28.8%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 28.8%; background: #f59e0b;"></div>
+                                    </div>
+                                </div>
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span><i class="fas fa-graduation-cap"></i> Graduate Employment</span>
+                                        <span class="bar-value">$1.16B (16.7%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 16.7%; background: #8b5cf6;"></div>
+                                    </div>
+                                </div>
+                                <div class="contribution-bar">
+                                    <div class="bar-label">
+                                        <span><i class="fas fa-plane-departure"></i> Foreign Employment</span>
+                                        <span class="bar-value">$175M (2.5%)</span>
+                                    </div>
+                                    <div class="bar-track">
+                                        <div class="bar-fill" style="width: 2.5%; background: #ec4899;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="timeline-cta" style="background: rgba(239, 68, 68, 0.2); border-left-color: #ef4444;">
+                            <p><strong>⚠️ Key Insight:</strong> Natural Resources ($3.6B) becomes the PRIMARY driver, contributing 51.8% of debt repayment. However, timeline extends to 13.9 years vs. 4.6 years with tax reforms. <strong>Strategic resource control is CRITICAL but tax reform accelerates debt freedom by 9.3 years!</strong></p>
+                        </div>
+
+                        <div style="background: rgba(255, 255, 255, 0.1); padding: 1.5rem; border-radius: 12px; margin-top: 1.5rem;">
+                            <h4 style="margin-bottom: 1rem;"><i class="fas fa-balance-scale"></i> Comparison</h4>
+                            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+                                <div>
+                                    <strong style="color: #10b981;">With Tax Reform:</strong><br>
+                                    • $21.05B/year<br>
+                                    • 4.6 years to debt-free<br>
+                                    • Tax contributes 67%
+                                </div>
+                                <div>
+                                    <strong style="color: #f59e0b;">Without Tax Reform:</strong><br>
+                                    • $6.95B/year<br>
+                                    • 13.9 years to debt-free<br>
+                                    • Resources lead at 51.8%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="cta-buttons">
+                    <a href="#solutions" class="btn btn-primary">Explore Solutions</a>
+                    <a href="#implementation" class="btn btn-secondary">Implementation Plan</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Agricultural Crisis Alert -->
+    <section style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%); padding: 3rem 0; margin: 2rem 0;">
+        <div class="container">
+            <div style="background: rgba(255, 255, 255, 0.95); border-radius: 20px; padding: 2.5rem; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
+                <div style="text-align: center; margin-bottom: 2rem;">
+                    <h2 style="color: #dc2626; font-size: 2.5rem; margin-bottom: 1rem;">
+                        <i class="fas fa-exclamation-triangle"></i> THE AGRICULTURAL CRISIS
+                    </h2>
+                    <p style="font-size: 1.3rem; color: #1f2937; font-weight: 600;">
+                        44.7% of Bangladesh's workforce is trapped in extreme poverty
+                    </p>
+                </div>
+
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+                    <!-- Current Reality -->
+                    <div style="background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%); padding: 1.5rem; border-radius: 12px; border-left: 5px solid #dc2626;">
+                        <h3 style="color: #991b1b; margin-bottom: 1rem; font-size: 1.2rem;">
+                            <i class="fas fa-sad-tear"></i> Current Reality
+                        </h3>
+                        <div style="font-size: 2rem; font-weight: bold; color: #dc2626; margin-bottom: 0.5rem;">
+                            $1,526/year
+                        </div>
+                        <p style="color: #7f1d1d; margin: 0;">Agricultural worker earnings</p>
+                        <p style="color: #7f1d1d; margin: 0.5rem 0 0 0; font-size: 0.9rem;">
+                            <strong>$4.18/day</strong> - Below poverty line
+                        </p>
+                    </div>
+
+                    <!-- The Workforce -->
+                    <div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 1.5rem; border-radius: 12px; border-left: 5px solid #f59e0b;">
+                        <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.2rem;">
+                            <i class="fas fa-users"></i> The Workforce
+                        </h3>
+                        <div style="font-size: 2rem; font-weight: bold; color: #d97706; margin-bottom: 0.5rem;">
+                            31.7 Million
+                        </div>
+                        <p style="color: #78350f; margin: 0;">Agricultural workers</p>
+                        <p style="color: #78350f; margin: 0.5rem 0 0 0; font-size: 0.9rem;">
+                            <strong>44.7%</strong> of total employment
+                        </p>
+                    </div>
+
+                    <!-- The Productivity Gap -->
+                    <div style="background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%); padding: 1.5rem; border-radius: 12px; border-left: 5px solid #2563eb;">
+                        <h3 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.2rem;">
+                            <i class="fas fa-chart-line"></i> Global Gap
+                        </h3>
+                        <div style="font-size: 2rem; font-weight: bold; color: #1d4ed8; margin-bottom: 0.5rem;">
+                            40.7x Behind
+                        </div>
+                        <p style="color: #1e40af; margin: 0;">vs Developed countries</p>
+                        <p style="color: #1e40af; margin: 0.5rem 0 0 0; font-size: 0.9rem;">
+                            USA: <strong>$80,498/worker</strong>
+                        </p>
+                    </div>
+
+                    <!-- The Potential -->
+                    <div style="background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%); padding: 1.5rem; border-radius: 12px; border-left: 5px solid #10b981;">
+                        <h3 style="color: #065f46; margin-bottom: 1rem; font-size: 1.2rem;">
+                            <i class="fas fa-rocket"></i> The Potential
+                        </h3>
+                        <div style="font-size: 2rem; font-weight: bold; color: #059669; margin-bottom: 0.5rem;">
+                            $1.9 Trillion
+                        </div>
+                        <p style="color: #047857; margin: 0;">If matched USA productivity</p>
+                        <p style="color: #047857; margin: 0.5rem 0 0 0; font-size: 0.9rem;">
+                            <strong>$60,549</strong> more per worker/year
+                        </p>
+                    </div>
+                </div>
+
+                <!-- The Shocking Truth -->
+                <div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 2rem; border-radius: 12px; border: 3px solid #f59e0b; margin-bottom: 1.5rem;">
+                    <h3 style="color: #92400e; text-align: center; font-size: 1.5rem; margin-bottom: 1rem;">
+                        <i class="fas fa-balance-scale-left"></i> THE EFFICIENCY PARADOX
+                    </h3>
+                    <div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 2rem; align-items: center; text-align: center;">
+                        <div>
+                            <div style="font-size: 3rem; font-weight: bold; color: #d97706;">44.7%</div>
+                            <p style="color: #92400e; margin: 0.5rem 0 0 0; font-weight: 600;">of workforce</p>
+                        </div>
+                        <div style="font-size: 2rem; color: #92400e;">→</div>
+                        <div>
+                            <div style="font-size: 3rem; font-weight: bold; color: #dc2626;">11.2%</div>
+                            <p style="color: #92400e; margin: 0.5rem 0 0 0; font-weight: 600;">of GDP</p>
+                        </div>
+                    </div>
+                    <p style="text-align: center; color: #78350f; margin-top: 1rem; font-size: 1.1rem; font-weight: 600;">
+                        Agricultural workers are <span style="color: #dc2626; font-size: 1.3rem;">4.0x LESS PRODUCTIVE</span> than the national average
+                    </p>
+                </div>
+
+                <!-- Solution Teaser -->
+                <div style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); padding: 2rem; border-radius: 12px; text-align: center; color: white;">
+                    <h3 style="font-size: 1.8rem; margin-bottom: 1rem;">
+                        <i class="fas fa-lightbulb"></i> The Solution: Agricultural Modernization
+                    </h3>
+                    <p style="font-size: 1.2rem; margin-bottom: 1.5rem; opacity: 0.95;">
+                        Even a <strong>modest 20% productivity increase</strong> would add <strong>$10B annually</strong> to GDP
+                    </p>
+                    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                        <div style="background: rgba(255,255,255,0.2); padding: 1rem 1.5rem; border-radius: 8px;">
+                            <div style="font-size: 1.5rem; font-weight: bold;">$3.2B</div>
+                            <div style="font-size: 0.9rem;">Additional Tax Revenue</div>
+                        </div>
+                        <div style="background: rgba(255,255,255,0.2); padding: 1rem 1.5rem; border-radius: 8px;">
+                            <div style="font-size: 1.5rem; font-weight: bold;">30 years</div>
+                            <div style="font-size: 0.9rem;">To Debt Freedom</div>
+                        </div>
+                        <div style="background: rgba(255,255,255,0.2); padding: 1rem 1.5rem; border-radius: 8px;">
+                            <div style="font-size: 1.5rem; font-weight: bold;">31.7M</div>
+                            <div style="font-size: 0.9rem;">Lives Transformed</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solutions Overview -->
+    <section id="solutions" class="solutions">
+        <div class="container">
+            <h2 class="section-title">Revenue Generation Opportunities</h2>
+            <p class="section-subtitle">Strategic initiatives to reduce debt and boost economic growth</p>
+            
+            <div class="solutions-grid">
+                <!-- Trade Balance Card -->
+                <div class="solution-card" onclick="location.href='trade-balance.html'">
+                    <div class="card-icon">
+                        <i class="fas fa-balance-scale"></i>
+                    </div>
+                    <h3>Trade Balance</h3>
+                    <div class="impact-badge">$19.0B Potential</div>
+                    <div class="debt-timeline-badge" style="background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); color: white; padding: 0.5rem 1rem; border-radius: 8px; margin: 0.5rem 0; font-size: 0.9rem; text-align: center;">
+                        <i class="fas fa-hourglass-half"></i> <strong>Not applicable for direct debt payment</strong> (reduces deficit, not debt)
+                    </div>
+                    <p>Reduce $21.2B trade deficit through import substitution and export diversification</p>
+                    <ul class="key-points">
+                        <li>Import Substitution: $19.0B</li>
+                        <li>Manufactures: $19.0B</li>
+                        <li>Machinery: $1.5B</li>
+                        <li>Agriculture: $2.0B</li>
+                    </ul>
+                    <div class="card-footer">
+                        <span class="timeline"><i class="fas fa-clock"></i> 5-10 years</span>
+                        <span class="roi"><i class="fas fa-chart-line"></i> 6.4x ROI</span>
+                    </div>
+                </div>
+
+                <!-- Tax Revenue Card -->
+                <div class="solution-card" onclick="location.href='tax-revenue.html'">
+                    <div class="card-icon">
+                        <i class="fas fa-coins"></i>
+                    </div>
+                    <h3>Tax Revenue</h3>
+                    <div class="impact-badge">$15.0B Potential</div>
+                    <div class="debt-timeline-badge" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 0.5rem 1rem; border-radius: 8px; margin: 0.5rem 0; font-size: 0.9rem; text-align: center;">
+                        <i class="fas fa-check-circle"></i> <strong>Debt-Free in 6.8 years</strong> (40% allocation = $14.1B/year)
+                    </div>
+                    <p>Increase tax-to-GDP ratio from 7.5% to 15% through reforms and digitalization</p>
+                    <ul class="key-points">
+                        <li>Digital Tax System</li>
+                        <li>Broaden Tax Base</li>
+                        <li>Reduce Evasion</li>
+                        <li>Simplify Compliance</li>
+                    </ul>
+                    <div class="card-footer">
+                        <span class="timeline"><i class="fas fa-clock"></i> 3-5 years</span>
+                        <span class="roi"><i class="fas fa-chart-line"></i> 15x ROI</span>
+                    </div>
+                </div>
+
+                <!-- Foreign Employment Card -->
+                <div class="solution-card" onclick="location.href='foreign-employment.html'">
+                    <div class="card-icon">
+                        <i class="fas fa-plane-departure"></i>
+                    </div>
+                    <h3>Foreign Employment</h3>
+                    <div class="impact-badge">$8.7B Potential</div>
+                    <div class="debt-timeline-badge" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white; padding: 0.5rem 1rem; border-radius: 8px; margin: 0.5rem 0; font-size: 0.9rem; text-align: center;">
+                        <i class="fas fa-clock"></i> <strong>Debt-Free in 551 years</strong> (2% tax = $175M/year) - Support role only
+                    </div>
+                    <p>Send 3.05M additional workers abroad to increase remittances from $21.5B to $30.2B</p>
+                    <ul class="key-points">
+                        <li>Middle East: 2.0M workers</li>
+                        <li>Europe: 1.5M workers</li>
+                        <li>North America: 1.0M workers</li>
+                        <li>Asia-Pacific: 1.3M workers</li>
+                    </ul>
+                    <div class="card-footer">
+                        <span class="timeline"><i class="fas fa-clock"></i> 10 years</span>
+                        <span class="roi"><i class="fas fa-chart-line"></i> 25x ROI</span>
+                    </div>
+                </div>
+
+                <!-- Cultural Exports Card -->
+                <div class="solution-card" onclick="location.href='cultural-exports.html'">
+                    <div class="card-icon">
+                        <i class="fas fa-palette"></i>
+                    </div>
+                    <h3>Cultural & Creative</h3>
+                    <div class="impact-badge">$6.9B Potential</div>
+                    <div class="debt-timeline-badge" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white; padding: 0.5rem 1rem; border-radius: 8px; margin: 0.5rem 0; font-size: 0.9rem; text-align: center;">
+                        <i class="fas fa-clock"></i> <strong>Debt-Free in 48.3 years</strong> (30% allocation = $2.0B/year)
+                    </div>
+                    <p>Grow cultural exports from $370M to $6.95B through textiles, handicrafts, and digital services</p>
+                    <ul class="key-points">
+                        <li>Digital Creative: $1.8B</li>
+                        <li>Textiles & Fashion: $1.8B</li>
+                        <li>Handicrafts: $1.5B</li>
+                        <li>Food & Tourism: $1.2B</li>
+                    </ul>
+                    <div class="card-footer">
+                        <span class="timeline"><i class="fas fa-clock"></i> 5-10 years</span>
+                        <span class="roi"><i class="fas fa-chart-line"></i> 6.4x ROI</span>
+                    </div>
+                </div>
+
+                <!-- Graduate Employment Card -->
+                <div class="solution-card" onclick="location.href='graduate-employment.html'">
+                    <div class="card-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <h3>Graduate Employment</h3>
+                    <div class="impact-badge">$7.8B Potential</div>
+                    <div class="debt-timeline-badge" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white; padding: 0.5rem 1rem; border-radius: 8px; margin: 0.5rem 0; font-size: 0.9rem; text-align: center;">
+                        <i class="fas fa-clock"></i> <strong>Debt-Free in 83.2 years</strong> (15% tax = $1.16B/year)
+                    </div>
+                    <p>Increase graduate earnings from $2.5B to $10.3B through upskilling and better opportunities</p>
+                    <ul class="key-points">
+                        <li>Upskilling: 150K graduates</li>
+                        <li>Foreign Jobs: 100K graduates</li>
+                        <li>Freelancing: 50K graduates</li>
+                        <li>Entrepreneurship: 30K</li>
+                    </ul>
+                    <div class="card-footer">
+                        <span class="timeline"><i class="fas fa-clock"></i> 5-10 years</span>
+                        <span class="roi"><i class="fas fa-chart-line"></i> 4.5x ROI</span>
+                    </div>
+                </div>
+
+                <!-- Natural Resources Card -->
+                <div class="solution-card" onclick="location.href='natural-resources.html'">
+                    <div class="card-icon">
+                        <i class="fas fa-oil-can"></i>
+                    </div>
+                    <h3>Natural Resources</h3>
+                    <div class="impact-badge">$5.2B Potential</div>
+                    <div class="debt-timeline-badge" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 0.5rem 1rem; border-radius: 8px; margin: 0.5rem 0; font-size: 0.9rem; text-align: center; border: 2px solid #fbbf24;">
+                        <i class="fas fa-crown"></i> <strong>Debt-Free in 26.8 years</strong> (70% = $3.6B/year)<br>
+                        <small style="font-size: 0.85rem;">⭐ STRATEGIC: Fastest without tax reform + Sovereignty</small>
+                    </div>
+                    <p>Reclaim control of fuel resources and develop domestic production capabilities</p>
+                    <ul class="key-points">
+                        <li>Gas Production: $3.5B</li>
+                        <li>Coal Development: $1.4B</li>
+                        <li>Renewable Energy: $300M</li>
+                        <li>Local Ownership: 70%</li>
+                    </ul>
+                    <div class="card-footer">
+                        <span class="timeline"><i class="fas fa-clock"></i> 5-10 years</span>
+                        <span class="roi"><i class="fas fa-chart-line"></i> Immediate</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Total Impact Summary -->
+            <div class="total-impact">
+                <h3>Total Economic Impact</h3>
+                <div class="impact-grid">
+                    <div class="impact-item">
+                        <div class="impact-value">$62.6B</div>
+                        <div class="impact-label">Annual Revenue Potential</div>
+                    </div>
+                    <div class="impact-item">
+                        <div class="impact-value">$28.7B</div>
+                        <div class="impact-label">Total Investment Required</div>
+                    </div>
+                    <div class="impact-item">
+                        <div class="impact-value">10.8x</div>
+                        <div class="impact-label">Average ROI</div>
+                    </div>
+                    <div class="impact-item">
+                        <div class="impact-value">10M+</div>
+                        <div class="impact-label">Jobs Created</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Implementation Section -->
+    <section id="implementation" class="implementation">
+        <div class="container">
+            <h2 class="section-title">Implementation Roadmap</h2>
+            <p class="section-subtitle">A phased approach to economic transformation</p>
+
+            <div class="timeline">
+                <!-- Phase 1 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker">1</div>
+                    <div class="timeline-content">
+                        <h3>Phase 1: Foundation (Years 1-2)</h3>
+                        <p class="phase-investment">Investment: $5.0B</p>
+                        <div class="phase-details">
+                            <h4>Key Initiatives:</h4>
+                            <ul>
+                                <li><strong>Institutional Setup:</strong> Establish coordinating authorities for each sector</li>
+                                <li><strong>Quick Wins:</strong> Digital tax system, remittance cost reduction</li>
+                                <li><strong>Training Infrastructure:</strong> 100 skill centers, 50 language centers</li>
+                                <li><strong>Policy Framework:</strong> Import substitution strategy, export promotion</li>
+                                <li><strong>Bilateral Agreements:</strong> G2G with 20 countries for employment</li>
+                            </ul>
+                            <div class="phase-targets">
+                                <div class="target-item">
+                                    <i class="fas fa-bullseye"></i>
+                                    <span>Revenue: +$8B</span>
+                                </div>
+                                <div class="target-item">
+                                    <i class="fas fa-users"></i>
+                                    <span>Jobs: 1M</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Phase 2 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker">2</div>
+                    <div class="timeline-content">
+                        <h3>Phase 2: Expansion (Years 3-5)</h3>
+                        <p class="phase-investment">Investment: $10.0B</p>
+                        <div class="phase-details">
+                            <h4>Key Initiatives:</h4>
+                            <ul>
+                                <li><strong>Scale Operations:</strong> 300 training centers, 100 industrial parks</li>
+                                <li><strong>Manufacturing:</strong> Local production of imports, quality standards</li>
+                                <li><strong>Foreign Employment:</strong> 250K workers/year to multiple destinations</li>
+                                <li><strong>Cultural Industries:</strong> 240 creative centers, global marketing</li>
+                                <li><strong>Education Reform:</strong> Curriculum modernization, career services</li>
+                            </ul>
+                            <div class="phase-targets">
+                                <div class="target-item">
+                                    <i class="fas fa-bullseye"></i>
+                                    <span>Revenue: +$25B</span>
+                                </div>
+                                <div class="target-item">
+                                    <i class="fas fa-users"></i>
+                                    <span>Jobs: 4M</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Phase 3 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker">3</div>
+                    <div class="timeline-content">
+                        <h3>Phase 3: Maturity (Years 6-10)</h3>
+                        <p class="phase-investment">Investment: $13.7B</p>
+                        <div class="phase-details">
+                            <h4>Key Initiatives:</h4>
+                            <ul>
+                                <li><strong>Full Capacity:</strong> All programs at maximum scale</li>
+                                <li><strong>Premium Markets:</strong> Focus on high-value exports and services</li>
+                                <li><strong>Innovation:</strong> R&D centers, technology parks, startups</li>
+                                <li><strong>Resource Control:</strong> 70% local ownership of natural resources</li>
+                                <li><strong>Global Branding:</strong> Bangladesh as quality destination</li>
+                            </ul>
+                            <div class="phase-targets">
+                                <div class="target-item">
+                                    <i class="fas fa-bullseye"></i>
+                                    <span>Revenue: +$62.6B</span>
+                                </div>
+                                <div class="target-item">
+                                    <i class="fas fa-users"></i>
+                                    <span>Jobs: 10M+</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Implementation Requirements -->
+            <div class="requirements">
+                <h3>Critical Success Factors</h3>
+                <div class="requirements-grid">
+                    <div class="requirement-card">
+                        <i class="fas fa-landmark"></i>
+                        <h4>Political Will</h4>
+                        <p>Strong government commitment to long-term reforms</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-handshake"></i>
+                        <h4>Public-Private Partnership</h4>
+                        <p>Collaboration between government and private sector</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-shield-alt"></i>
+                        <h4>Transparency</h4>
+                        <p>Anti-corruption measures and accountability</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-globe"></i>
+                        <h4>International Partnerships</h4>
+                        <p>Bilateral agreements and technology transfer</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-chart-line"></i>
+                        <h4>Monitoring & Evaluation</h4>
+                        <p>Regular assessment and course correction</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-users-cog"></i>
+                        <h4>Capacity Building</h4>
+                        <p>Training and skill development at all levels</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">About This Project</h2>
+            <div class="about-content">
+                <p>This comprehensive economic transformation strategy for Bangladesh is based on extensive analysis of:</p>
+                <ul class="about-list">
+                    <li><i class="fas fa-check"></i> Trade balance and import-export patterns (2000-2024)</li>
+                    <li><i class="fas fa-check"></i> Tax revenue gaps and collection efficiency</li>
+                    <li><i class="fas fa-check"></i> Foreign employment and remittance potential</li>
+                    <li><i class="fas fa-check"></i> Cultural and creative industries opportunities</li>
+                    <li><i class="fas fa-check"></i> Graduate education and employment outcomes</li>
+                    <li><i class="fas fa-check"></i> Natural resource management and ownership</li>
+                    <li><i class="fas fa-check"></i> Comparative analysis with first-world countries</li>
+                </ul>
+                <p>The strategy identifies <strong>$62.6 billion in annual revenue potential</strong> through strategic interventions across multiple sectors, requiring <strong>$28.7 billion investment</strong> over 10 years with an average <strong>10.8x ROI</strong>.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Bangladesh Economic Transformation</h4>
+                    <p>A comprehensive strategy for debt reduction and economic growth</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#solutions">Solutions</a></li>
+                        <li><a href="#implementation">Implementation</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Data Sources</h4>
+                    <ul>
+                        <li>World Bank</li>
+                        <li>Bangladesh Bank</li>
+                        <li>BMET</li>
+                        <li>Industry Associations</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Hoping Government Actually Work Department. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

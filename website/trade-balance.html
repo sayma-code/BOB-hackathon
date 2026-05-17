@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trade Balance Solution - Bangladesh Economic Transformation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .detail-page {
+            padding: 4rem 0;
+            background-color: var(--light-color);
+        }
+        
+        .back-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 600;
+            margin-bottom: 2rem;
+            transition: all 0.3s;
+        }
+        
+        .back-button:hover {
+            gap: 1rem;
+        }
+        
+        .detail-header {
+            background: linear-gradient(135deg, var(--primary-color) 0%, #1e40af 100%);
+            color: var(--white);
+            padding: 3rem;
+            border-radius: 20px;
+            margin-bottom: 3rem;
+        }
+        
+        .detail-header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .detail-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .stat-box {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 1.5rem;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--accent-color);
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin-top: 0.5rem;
+        }
+        
+        .content-section {
+            background: var(--white);
+            padding: 2rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow);
+        }
+        
+        .content-section h2 {
+            color: var(--dark-color);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid var(--primary-color);
+        }
+        
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+        
+        .data-table th,
+        .data-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .data-table th {
+            background-color: var(--light-color);
+            font-weight: 600;
+            color: var(--dark-color);
+        }
+        
+        .data-table tr:hover {
+            background-color: var(--light-color);
+        }
+        
+        .highlight-box {
+            background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+            border-left: 4px solid var(--secondary-color);
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin: 1.5rem 0;
+        }
+        
+        .warning-box {
+            background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+            border-left: 4px solid var(--accent-color);
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin: 1.5rem 0;
+        }
+        
+        .action-steps {
+            counter-reset: step-counter;
+            list-style: none;
+        }
+        
+        .action-steps li {
+            counter-increment: step-counter;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            background: var(--light-color);
+            border-radius: 10px;
+            position: relative;
+            padding-left: 4rem;
+        }
+        
+        .action-steps li::before {
+            content: counter(step-counter);
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 40px;
+            height: 40px;
+            background: var(--primary-color);
+            color: var(--white);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">
+                    <i class="fas fa-chart-line"></i>
+                    <span>Bangladesh Economic Transformation</span>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.html#solutions">Solutions</a></li>
+                    <li><a href="index.html#implementation">Implementation</a></li>
+                    <li><a href="index.html#about">About</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Detail Page Content -->
+    <section class="detail-page">
+        <div class="container">
+            <a href="index.html#solutions" class="back-button">
+                <i class="fas fa-arrow-left"></i>
+                Back to Solutions
+            </a>
+
+            <!-- Header -->
+            <div class="detail-header">
+                <h1><i class="fas fa-balance-scale"></i> Trade Balance Solution</h1>
+                <p>Reduce $21.2 billion trade deficit through strategic import substitution and export diversification</p>
+                
+                <div class="detail-stats">
+                    <div class="stat-box">
+                        <div class="stat-value">$21.2B</div>
+                        <div class="stat-label">Current Trade Deficit</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-value">$19.0B</div>
+                        <div class="stat-label">Reduction Potential</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-value">$10.2B</div>
+                        <div class="stat-label">Investment Required</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-value">6.4x</div>
+                        <div class="stat-label">Return on Investment</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Current Situation -->
+            <div class="content-section">
+                <h2>Current Trade Situation (2024)</h2>
+                <p>Bangladesh faces a significant trade imbalance with imports far exceeding exports:</p>
+                
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th>Amount (Billion USD)</th>
+                            <th>Percentage</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Total Imports</strong></td>
+                            <td>$65.8B</td>
+                            <td>100%</td>
+                        </tr>
+                        <tr>
+                            <td>Manufactures</td>
+                            <td>$40.6B</td>
+                            <td>61.7%</td>
+                        </tr>
+                        <tr>
+                            <td>Fuels</td>
+                            <td>$12.5B</td>
+                            <td>19.0%</td>
+                        </tr>
+                        <tr>
+                            <td>Food</td>
+                            <td>$8.5B</td>
+                            <td>12.9%</td>
+                        </tr>
+                        <tr>
+                            <td>Agricultural Raw Materials</td>
+                            <td>$4.2B</td>
+                            <td>6.4%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Total Exports</strong></td>
+                            <td>$44.6B</td>
+                            <td>-</td>
+                        </tr>
+                        <tr style="background-color: #fee2e2;">
+                            <td><strong>Trade Deficit</strong></td>
+                            <td><strong>-$21.2B</strong></td>
+                            <td>-</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div class="warning-box">
+                    <strong><i class="fas fa-exclamation-triangle"></i> Critical Issue:</strong>
+                    The trade deficit represents 6.3% of GDP and puts pressure on foreign exchange reserves, contributing to currency devaluation and debt accumulation.
+                </div>
+            </div>
+
+            <!-- Import Substitution Strategy -->
+            <div class="content-section">
+                <h2>Import Substitution Strategy</h2>
+                <p>Focus on producing locally what we currently import, reducing dependency and saving foreign exchange:</p>
+
+                <h3>1. Manufactures ($19.0B Potential)</h3>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Product Category</th>
+                            <th>Current Import</th>
+                            <th>Local Production Potential</th>
+                            <th>Investment Needed</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Textiles & Fashion</td>
+                            <td>$10.0B</td>
+                            <td>$6.8B (68%)</td>
+                            <td>$2.6B</td>
+                        </tr>
+                        <tr>
+                            <td>Chemicals & Pharma</td>
+                            <td>$6.1B</td>
+                            <td>$3.5B (57%)</td>
+                            <td>$1.9B</td>
+                        </tr>
+                        <tr>
+                            <td>Electronics & Electrical</td>
+                            <td>$5.0B</td>
+                            <td>$2.9B (58%)</td>
+                            <td>$1.6B</td>
+                        </tr>
+                        <tr>
+                            <td>Metals & Metal Products</td>
+                            <td>$4.8B</td>
+                            <td>$2.9B (61%)</td>
+                            <td>$1.6B</td>
+                        </tr>
+                        <tr>
+                            <td>Others</td>
+                            <td>$4.8B</td>
+                            <td>$3.0B (62%)</td>
+                            <td>$1.0B</td>
+                        </tr>
+                        <tr style="background-color: #dcfce7;">
+                            <td><strong>Total</strong></td>
+                            <td><strong>$30.7B</strong></td>
+                            <td><strong>$19.0B</strong></td>
+                            <td><strong>$8.7B</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div class="highlight-box">
+                    <strong><i class="fas fa-lightbulb"></i> Key Insight:</strong>
+                    64% of analyzed manufactures imports ($19.0B out of $29.7B) can be produced locally with $8.7B investment, offering 6.4x annual ROI.
+                </div>
+
+                <h3>2. Machinery & Transport ($1.5B Potential)</h3>
+                <ul>
+                    <li>Agricultural machinery: $400M potential</li>
+                    <li>Construction equipment: $300M potential</li>
+                    <li>Industrial machinery: $500M potential</li>
+                    <li>Transport equipment: $300M potential</li>
+                </ul>
+
+                <h3>3. Agricultural Raw Materials ($2.0B Potential)</h3>
+                <ul>
+                    <li>Cotton: $800M potential</li>
+                    <li>Oilseeds: $400M potential</li>
+                    <li>Rubber: $300M potential</li>
+                    <li>Others: $500M potential</li>
+                </ul>
+            </div>
+
+            <!-- Implementation Plan -->
+            <div class="content-section">
+                <h2>Implementation Plan</h2>
+                
+                <h3>Phase 1: Quick Wins (Years 1-2) - $2.0B Investment</h3>
+                <ol class="action-steps">
+                    <li>
+                        <strong>Textile Accessories Manufacturing</strong><br>
+                        Support 500 SMEs to produce buttons, zippers, labels locally. Investment: $150M, Impact: $680M import reduction.
+                    </li>
+                    <li>
+                        <strong>Pharmaceutical API Production</strong><br>
+                        Establish 10 API manufacturing facilities. Investment: $200M, Impact: $1.2B import reduction.
+                    </li>
+                    <li>
+                        <strong>Cement & Ceramics Expansion</strong><br>
+                        Increase clinker production and premium ceramics. Investment: $150M, Impact: $645M import reduction.
+                    </li>
+                    <li>
+                        <strong>Food Processing</strong><br>
+                        Develop packaged food industry. Investment: $200M, Impact: $500M import reduction.
+                    </li>
+                </ol>
+
+                <h3>Phase 2: Medium-term (Years 3-5) - $4.0B Investment</h3>
+                <ol class="action-steps">
+                    <li>
+                        <strong>Textile Backward Linkage</strong><br>
+                        Expand spinning and weaving capacity. Investment: $2.0B, Impact: $5.6B import reduction.
+                    </li>
+                    <li>
+                        <strong>Electronics Component Manufacturing</strong><br>
+                        Establish component ecosystem. Investment: $800M, Impact: $1.25B import reduction.
+                    </li>
+                    <li>
+                        <strong>Steel Industry Development</strong><br>
+                        Build integrated steel mill. Investment: $1.0B, Impact: $2.1B import reduction.
+                    </li>
+                </ol>
+
+                <h3>Phase 3: Long-term (Years 6-10) - $4.2B Investment</h3>
+                <ol class="action-steps">
+                    <li>
+                        <strong>Petrochemical Complex</strong><br>
+                        Develop integrated petrochemical facility. Investment: $1.4B, Impact: $1.7B import reduction.
+                    </li>
+                    <li>
+                        <strong>Advanced Electronics</strong><br>
+                        Component and device manufacturing. Investment: $1.0B, Impact: $1.65B import reduction.
+                    </li>
+                    <li>
+                        <strong>Specialty Chemicals</strong><br>
+                        Industrial chemicals and dyes. Investment: $800M, Impact: $1.28B import reduction.
+                    </li>
+                </ol>
+            </div>
+
+            <!-- Success Factors -->
+            <div class="content-section">
+                <h2>Critical Success Factors</h2>
+                <div class="requirements-grid">
+                    <div class="requirement-card">
+                        <i class="fas fa-industry"></i>
+                        <h4>Industrial Policy</h4>
+                        <p>Clear import substitution strategy with sector priorities and timelines</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-certificate"></i>
+                        <h4>Quality Standards</h4>
+                        <p>Mandatory certification and testing to ensure international quality</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-graduation-cap"></i>
+                        <h4>Skill Development</h4>
+                        <p>Training programs for workers in new manufacturing sectors</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-flask"></i>
+                        <h4>R&D Investment</h4>
+                        <p>Research and development for technology absorption and innovation</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-handshake"></i>
+                        <h4>Technology Transfer</h4>
+                        <p>Partnerships with international companies for know-how</p>
+                    </div>
+                    <div class="requirement-card">
+                        <i class="fas fa-dollar-sign"></i>
+                        <h4>Financial Support</h4>
+                        <p>Low-interest loans and subsidies for priority industries</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Expected Outcomes -->
+            <div class="content-section">
+                <h2>Expected Outcomes</h2>
+                <div class="impact-grid">
+                    <div class="impact-item">
+                        <div class="impact-value">$19.0B</div>
+                        <div class="impact-label">Annual Import Reduction</div>
+                    </div>
+                    <div class="impact-item">
+                        <div class="impact-value">3.5M</div>
+                        <div class="impact-label">Jobs Created</div>
+                    </div>
+                    <div class="impact-item">
+                        <div class="impact-value">90%</div>
+                        <div class="impact-label">Trade Deficit Reduction</div>
+                    </div>
+                    <div class="impact-item">
+                        <div class="impact-value">$10.2B</div>
+                        <div class="impact-label">Total Investment</div>
+                    </div>
+                </div>
+
+                <div class="highlight-box" style="margin-top: 2rem;">
+                    <strong><i class="fas fa-trophy"></i> Ultimate Goal:</strong>
+                    Transform Bangladesh from import-dependent to manufacturing powerhouse, reducing trade deficit by 90% and creating 3.5 million jobs while establishing foundation for sustainable economic growth.
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Bangladesh Economic Transformation</h4>
+                    <p>A comprehensive strategy for debt reduction and economic growth</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.html#solutions">Solutions</a></li>
+                        <li><a href="index.html#implementation">Implementation</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Bangladesh Economic Transformation Project. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
