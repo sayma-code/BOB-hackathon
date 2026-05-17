@@ -1,0 +1,15 @@
+Field,Annual_Graduates,Employment_Rate_Percent,Avg_Starting_Salary_BDT,Avg_Starting_Salary_USD,Avg_5Year_Salary_BDT,Avg_5Year_Salary_USD,Underemployment_Rate_Percent,Foreign_Employment_Potential,Domestic_Demand,Global_Avg_Salary_USD,Skill_Gap,Better_Earning_Options,Potential_Increase_USD,Salary_Gap_USD,Potential_Annual_Increase_USD
+Computer Science & IT,50000,75,35000,320,80000,730,15,Very High,Very High,5000,Medium,"Freelancing, foreign jobs, startups, upskilling",2000,4270,24000
+Electrical & Electronics Engineering,30000,70,30000,275,70000,640,20,High,High,4500,Medium-High,"Specialized certifications, foreign jobs, R&D",1800,3860,21600
+Civil Engineering,25000,65,28000,255,65000,595,25,High,High,4000,Medium,"Project management, foreign projects, specialization",1500,3405,18000
+Mechanical Engineering,20000,60,27000,245,60000,545,30,Medium-High,Medium,4200,High,"Automation, robotics, foreign jobs, manufacturing",1600,3655,19200
+Business Administration (BBA/MBA),80000,55,25000,230,60000,545,35,Medium,High,4500,Medium-High,"Specialized MBA, certifications, entrepreneurship",1500,3955,18000
+Accounting & Finance,40000,65,28000,255,70000,640,25,High,High,5000,Medium,"CA, CFA, ACCA, foreign jobs, consulting",2000,4360,24000
+Medicine (MBBS),8000,90,50000,455,120000,1090,5,Very High,Very High,8000,Low-Medium,"Specialization, foreign practice, private practice",4000,6910,48000
+Nursing,12000,85,20000,180,40000,365,10,Very High,High,3500,Medium,"Foreign jobs (Europe, Middle East, USA)",2000,3135,24000
+Pharmacy,10000,70,25000,230,55000,500,20,Medium-High,High,4000,Medium,"Clinical pharmacy, research, foreign jobs",1500,3500,18000
+Mathematics & Statistics,8000,50,22000,200,50000,455,40,High,Medium,5500,High,"Data science, AI/ML, actuarial science, research",2500,5045,30000
+Physics & Chemistry,10000,45,20000,180,45000,410,45,Medium,Low-Medium,5000,High,"Research, teaching abroad, industry R&D, upskilling",2000,4590,24000
+Economics,15000,55,24000,220,55000,500,35,Medium-High,Medium,5000,Medium-High,"Data analytics, policy research, international orgs",2000,4500,24000
+Law,12000,60,30000,275,80000,730,30,Medium,High,6000,Medium,"Corporate law, international law, LLM abroad",2500,5270,30000
+Agriculture,8000,55,22000,200,45000,410,35,Medium,Medium,4000,Medium,"Agri-tech, research, consulting, entrepreneurship",1500,3590,18000
