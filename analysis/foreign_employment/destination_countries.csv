@@ -1,0 +1,7 @@
+Region,Countries,Current_Workers_Million,Potential_Additional_Million,Avg_Salary_USD,Job_Types,Skill_Level,Language,Demand
+Middle East,"Saudi Arabia, UAE, Qatar, Kuwait, Oman, Bahrain",4.5,2.0,400,"Construction, domestic work, services, retail",Low to Medium,"Arabic (basic), English",Very High
+Southeast Asia,"Malaysia, Singapore, Brunei",1.2,0.8,500,"Manufacturing, construction, services",Low to Medium,"English, Malay",High
+Europe,"UK, Italy, Greece, Spain, Germany",0.8,1.5,1500,"Healthcare, IT, hospitality, agriculture",Medium to High,"English, local languages",High (aging population)
+North America,"USA, Canada",0.5,1.0,2500,"IT, healthcare, engineering, services",High,English,High (skilled workers)
+East Asia,"Japan, South Korea",0.3,0.5,1800,"Manufacturing, caregiving, agriculture",Medium,"Japanese, Korean",Very High (aging population)
+Australia & NZ,"Australia, New Zealand",0.2,0.3,2000,"Agriculture, healthcare, IT, trades",Medium to High,English,High

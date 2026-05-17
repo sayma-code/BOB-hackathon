@@ -1,0 +1,29 @@
+Category,Item,Annual_Import_Value_Million_USD,Primary_Importers,Domestic_Manufacturing,Domestic_Capability,Required_Investment_Million_USD,Technical_Complexity,Potential_for_Local_Production,Notes
+Power Generation,Gas Turbines,150,"China, India, USA, Germany",No,Limited - Assembly only,200,Very High,Low - Requires advanced technology,"Used in power plants, highly technical"
+Power Generation,Steam Turbines,100,"China, India, Japan",No,None,150,Very High,Low,Coal/gas power plants
+Power Generation,Generators & Alternators,80,"China, India, Turkey",Yes - Limited,Small generators only,50,Medium,High - Already some production,"Small generators made locally, large ones imported"
+Textile Machinery,Spinning Machines,200,"China, India, Germany, Japan",No,Parts manufacturing only,100,High,Medium - Large textile industry exists,Critical for garment industry
+Textile Machinery,Weaving Looms,150,"China, India, Italy",No,Maintenance & repair,80,High,Medium,Essential for textile sector
+Textile Machinery,Dyeing & Finishing Equipment,120,"China, Turkey, Italy",No,Limited,60,Medium-High,Medium-High,Textile processing equipment
+Construction Equipment,Excavators,100,"China, Japan, South Korea",No,Assembly possible,80,Medium-High,Medium - Assembly & parts,Heavy construction equipment
+Construction Equipment,Cranes,70,"China, Germany, Japan",Limited,Small cranes only,50,Medium,High - Steel industry exists,Construction & port operations
+Construction Equipment,Concrete Mixers & Pumps,40,"China, India",Yes - Limited,Small units,20,Low-Medium,Very High - Simple technology,Already some local production
+Agricultural Machinery,Tractors,90,"India, China, Belarus",Assembly only,Assembly from CKD kits,100,Medium-High,"Medium - Assembly exists, need engine production",BMTF assembles tractors from CKD
+Agricultural Machinery,Harvesters & Threshers,50,"China, India",Limited,Simple threshers,30,Medium,High - Agricultural country,Local workshops make simple versions
+Agricultural Machinery,Irrigation Pumps,60,"China, India",Yes,Good - Multiple manufacturers,10,Low-Medium,Very High - Already producing,Strong local industry exists
+Motor Vehicles,Cars & SUVs,300,"Japan, India, China, South Korea",Assembly only,CKD assembly,500,Very High,Low-Medium - Need full supply chain,"Pragoti, Walton assemble vehicles"
+Motor Vehicles,Buses & Trucks,200,"India, China, Japan",Assembly & body building,"Body building strong, chassis imported",200,High,Medium-High - Body building exists,Local body builders are skilled
+Motor Vehicles,Motorcycles,150,"China, India, Japan",Yes - Assembly,Assembly from CKD,80,Medium,High - Multiple assemblers,"Walton, Runner, others assemble locally"
+Motor Vehicles,Auto Parts & Components,250,"China, India, Japan, Thailand",Limited,Simple parts only,150,Medium-High,High - Huge demand exists,"Batteries, tires made locally; engines imported"
+Marine Transport,Ships & Vessels,180,"China, Japan, South Korea",Yes - Growing,Small to medium ships,200,High,High - Shipbuilding industry exists,"Western Marine, Ananda Shipyard export ships"
+Marine Transport,Ship Engines & Equipment,100,"China, Japan, Germany",No,Maintenance only,120,Very High,Low-Medium,Marine engines are complex
+Railway,Locomotives,80,"China, India, USA",No,Maintenance & repair,200,Very High,Low,Specialized technology
+Railway,Railway Coaches & Wagons,60,"China, India",Limited,Repair & refurbishment,80,Medium-High,Medium - Steel industry exists,BR workshops do repairs
+Electronics,Transformers,70,"China, India, Turkey",Yes,Distribution transformers,40,Medium,High - Already producing,"REB Transformers, others produce locally"
+Electronics,Electric Motors,80,"China, India, Germany",Limited,Small motors,50,Medium,High,Industrial motors mostly imported
+Electronics,Cables & Wires,60,"China, India",Yes,Good production,20,Low-Medium,Very High - Already strong,"BSRM, others produce cables"
+Machine Tools,CNC Machines,90,"China, Japan, Germany, Taiwan",No,None,150,Very High,Low - Advanced technology,Precision manufacturing equipment
+Machine Tools,Lathes & Milling Machines,50,"China, India, Taiwan",Limited,Simple machines,60,Medium-High,Medium,Basic machines can be made
+Industrial Equipment,Industrial Pumps,70,"China, India, Germany",Limited,Simple pumps,40,Medium,High,"Water pumps made, industrial pumps imported"
+Industrial Equipment,Air Compressors,40,"China, India, Japan",Limited,Small compressors,30,Medium,High,Industrial compressors imported
+Medical Equipment,Medical Devices & Equipment,100,"China, India, USA, Germany",Very Limited,Basic items only,80,High,Medium - Growing healthcare sector,"Mostly imported, some basic items made"

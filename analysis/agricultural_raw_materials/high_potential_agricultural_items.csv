@@ -1,0 +1,9 @@
+Category,Item,Annual_Import_Million_USD,Annual_Import_Quantity_MT,Primary_Importers,Current_Local_Production,Local_Production_Potential,Climate_Suitability,Land_Availability,Water_Requirement,Investment_Needed_Million_USD,Time_to_Scale_Years,Potential_Local_Production_Percentage,Import_Reduction_Potential_Million_USD,Challenges,Recommendations
+Textile Fibers,Jute Products (Processed),50,30000,"India, China",Excellent - Major producer,Very High,Excellent,Good,High,20,1,95,47.5,Processing technology,"Upgrade processing, value addition"
+Wood Products,Bamboo,80,200000,"India, Myanmar",Good,Very High,Excellent,Good - Marginal lands,Medium,30,2-3,80,64.0,Processing infrastructure,"Bamboo plantations, processing units"
+Leather,Raw Hides and Skins,150,50000,"India, Pakistan, Australia",Good,High,Good,N/A - Livestock byproduct,N/A,50,2,70,105.0,"Collection system, quality","Improve livestock sector, collection network"
+Oils & Fats,Mustard/Rapeseed Oil,100,80000,"India, Canada",Good,Very High,Excellent,Good,Low-Medium,50,1-2,90,90.0,Yield improvement,"Expand cultivation, modern processing"
+Animal Feed,Corn/Maize,150,400000,"India, Myanmar, Argentina",Good,Very High,Excellent,Good,Medium,60,1-2,80,120.0,"Storage, post-harvest loss","Expand cultivation, storage facilities"
+Spices,Dried Chili,80,40000,"India, Myanmar, China",Good,Very High,Excellent,Good,Medium,30,1,85,68.0,Post-harvest processing,"Drying facilities, quality control"
+Spices,Turmeric,50,25000,India,Good,Very High,Excellent,Good,Medium,20,1,90,45.0,Quality standardization,"Quality improvement, processing"
+Spices,Garlic,70,100000,"China, India",Limited,High,Good,Good,Medium,40,1-2,70,49.0,"Storage, seed quality","Cold storage, quality seeds"
