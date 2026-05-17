@@ -1,0 +1,497 @@
+year,indicator_code,indicator_name,value
+2000,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),158.10754491018
+2000,AG.LND.AGRI.K2,Agricultural land (sq. km),94000.0
+2000,AG.LND.AGRI.ZS,Agricultural land (% of land area),72.2132595836214
+2000,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),62.5
+2000,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),59.91
+2000,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),46.47
+2000,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3302.2
+2000,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),40031663685.1521
+2000,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),516.853053993219
+2000,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",12124627310.6738
+2000,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",7.39026609189889
+2000,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.7181480755923
+2000,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),50759755864.0968
+2000,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",410.0
+2000,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",1550.0
+2000,SI.DST.02ND.20,Income share held by second 20%,12.1
+2000,SI.DST.03RD.20,Income share held by third 20%,15.6
+2000,SI.DST.04TH.20,Income share held by fourth 20%,21.0
+2000,SI.DST.05TH.20,Income share held by highest 20%,42.7
+2000,SI.DST.10TH.10,Income share held by highest 10%,27.9
+2000,SI.DST.FRST.10,Income share held by lowest 10%,3.7
+2000,SI.DST.FRST.20,Income share held by lowest 20%,8.6
+2000,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",75.6471533082527
+2000,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",65.0281384886667
+2000,SP.RUR.TOTL.ZS,Rural population (% of total population),76.6854885024756
+2001,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),174.590268577623
+2001,AG.LND.AGRI.K2,Agricultural land (sq. km),94030.0
+2001,AG.LND.AGRI.ZS,Agricultural land (% of land area),72.2363063685949
+2001,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),61.14
+2001,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),58.81
+2001,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),47.29
+2001,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3352.6
+2001,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),40235841363.9733
+2001,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),529.315681522686
+2001,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",11796200889.5478
+2001,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",2.75792682337257
+2001,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.8483405815259
+2001,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),51157911892.1475
+2001,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",420.0
+2001,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",1640.0
+2001,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",71.5875138697229
+2001,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",61.1129315798734
+2001,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),15.5
+2001,SP.RUR.TOTL.ZS,Rural population (% of total population),76.3000785231377
+2002,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),188.639161517024
+2002,AG.LND.AGRI.K2,Agricultural land (sq. km),93530.0
+2002,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.8521932857033
+2002,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),62.73
+2002,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),60.55
+2002,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),49.02
+2002,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3374.0
+2002,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),40571565383.9457
+2002,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),526.719059257934
+2002,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",11264478495.5598
+2002,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",-0.118901139086987
+2002,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",20.5841344226366
+2002,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),52338565275.5643
+2002,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",420.0
+2002,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",1710.0
+2002,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",66.9553368569623
+2002,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",56.9799792413193
+2002,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),14.6
+2002,SP.RUR.TOTL.ZS,Rural population (% of total population),75.8867616452668
+2003,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),160.266893534273
+2003,AG.LND.AGRI.K2,Agricultural land (sq. km),93280.0
+2003,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.6601367442575
+2003,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),64.15
+2003,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),62.25
+2003,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),51.81
+2003,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3479.8
+2003,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),44930345423.1433
+2003,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),540.141968921992
+2003,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",11919119170.9845
+2003,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.98385112085433
+2003,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",19.8127182977042
+2003,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),57605843839.6695
+2003,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",440.0
+2003,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",1800.0
+2003,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",61.6530581880076
+2003,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",52.5828940901922
+2003,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),14.8
+2003,SP.RUR.TOTL.ZS,Rural population (% of total population),75.4474442487375
+2004,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),170.671374186418
+2004,AG.LND.AGRI.K2,Agricultural land (sq. km),93230.0
+2004,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.6217254359684
+2004,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),62.56
+2004,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),61.12
+2004,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),52.74
+2004,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3439.4
+2004,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),47944436894.8531
+2004,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),564.645031869589
+2004,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",12544436894.8531
+2004,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",4.97351359570889
+2004,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",19.2669595662859
+2004,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),62559964229.613
+2004,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",490.0
+2004,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",1930.0
+2004,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",60.0878724855763
+2004,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",50.9373475207795
+2004,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),14.7
+2004,SP.RUR.TOTL.ZS,Rural population (% of total population),74.9905190113899
+2005,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),192.872642090988
+2005,AG.LND.AGRI.K2,Agricultural land (sq. km),93110.0
+2005,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.5295382960744
+2005,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),70.97
+2005,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),68.55
+2005,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),55.07
+2005,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3663.6
+2005,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),51248319993.3002
+2005,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),595.106012200744
+2005,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",12902415664.8716
+2005,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",4.38245497917711
+2005,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",18.5710395455964
+2005,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),66741897884.1414
+2005,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",530.0
+2005,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",2090.0
+2005,SI.DST.02ND.20,Income share held by second 20%,12.2
+2005,SI.DST.03RD.20,Income share held by third 20%,15.6
+2005,SI.DST.04TH.20,Income share held by fourth 20%,20.9
+2005,SI.DST.05TH.20,Income share held by highest 20%,42.5
+2005,SI.DST.10TH.10,Income share held by highest 10%,28.0
+2005,SI.DST.FRST.10,Income share held by lowest 10%,3.8
+2005,SI.DST.FRST.20,Income share held by lowest 20%,8.8
+2005,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",58.3255440380596
+2005,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",49.1202699901085
+2005,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),15.1
+2005,SP.RUR.TOTL.ZS,Rural population (% of total population),74.5230459298491
+2006,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),188.408168316832
+2006,AG.LND.AGRI.K2,Agricultural land (sq. km),92800.0
+2006,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.2913881846816
+2006,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),73.37
+2006,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),70.64
+2006,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),55.91
+2006,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3710.5
+2006,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),52499417440.7846
+2006,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),629.692590222237
+2006,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",12947654915.3759
+2006,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",5.55271778317687
+2006,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",18.0340165108542
+2006,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),69162037725.4456
+2006,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",550.0
+2006,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",2300.0
+2006,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",57.3570456050527
+2006,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",48.2603711047923
+2006,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),15.4
+2006,SP.RUR.TOTL.ZS,Rural population (% of total population),74.0520850007404
+2007,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),179.81000499002
+2007,AG.LND.AGRI.K2,Agricultural land (sq. km),92660.0
+2007,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.1838365214719
+2007,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),77.62
+2007,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),74.54
+2007,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),56.94
+2007,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3783.1
+2007,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),58827560189.47
+2007,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),669.265515764412
+2007,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",14176076845.4646
+2007,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",6.69249627696308
+2007,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",17.8065367823955
+2007,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),77464643918.9879
+2007,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",580.0
+2007,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",2520.0
+2007,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",56.965903530146
+2007,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",47.1852219014365
+2007,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),16.1
+2007,SP.RUR.TOTL.ZS,Rural population (% of total population),73.584696220689
+2008,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),195.064350868424
+2008,AG.LND.AGRI.K2,Agricultural land (sq. km),92530.0
+2008,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.0839671199201
+2008,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),84.01
+2008,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),80.64
+2008,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),60.65
+2008,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4154.3
+2008,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),69307178911.8219
+2008,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),688.990572749147
+2008,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",16124167061.4102
+2008,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",4.49386787228607
+2008,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",17.5956955421992
+2008,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),90477993030.7096
+2008,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",640.0
+2008,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",2720.0
+2008,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",56.4995438363949
+2008,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",46.1633005416539
+2008,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),16.9
+2008,SP.RUR.TOTL.ZS,Rural population (% of total population),73.12793958632
+2009,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),184.290524471148
+2009,AG.LND.AGRI.K2,Agricultural land (sq. km),92460.0
+2009,AG.LND.AGRI.ZS,Agricultural land (% of land area),71.0301912883153
+2009,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),84.55
+2009,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),80.52
+2009,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),57.98
+2009,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4126.4
+2009,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),76419661795.7796
+2009,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),698.243146386791
+2009,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",17527995678.9827
+2009,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.46608847086416
+2009,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",17.1046290519632
+2009,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),101403822815.232
+2009,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",700.0
+2009,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",2850.0
+2009,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",56.1168088041192
+2009,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",45.1793853891267
+2009,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),17.9
+2009,SP.RUR.TOTL.ZS,Rural population (% of total population),72.6888750942588
+2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),208.024322968907
+2010,AG.LND.AGRI.K2,Agricultural land (sq. km),92410.0
+2010,AG.LND.AGRI.ZS,Agricultural land (% of land area),70.9917799800261
+2010,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),89.65
+2010,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),85.25
+2010,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),60.74
+2010,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4262.6
+2010,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),85436063406.0155
+2010,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),724.016350513495
+2010,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",19598203511.7426
+2010,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",6.15194712083547
+2010,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",17.0011812592919
+2010,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),114093205737.914
+2010,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",780.0
+2010,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",3030.0
+2010,SI.DST.02ND.20,Income share held by second 20%,12.5
+2010,SI.DST.03RD.20,Income share held by third 20%,16.0
+2010,SI.DST.04TH.20,Income share held by fourth 20%,21.2
+2010,SI.DST.05TH.20,Income share held by highest 20%,41.5
+2010,SI.DST.10TH.10,Income share held by highest 10%,26.9
+2010,SI.DST.FRST.10,Income share held by lowest 10%,3.9
+2010,SI.DST.FRST.20,Income share held by lowest 20%,8.9
+2010,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",55.6120024273705
+2010,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",44.0470437180484
+2010,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),18.2
+2010,SP.RUR.TOTL.ZS,Rural population (% of total population),72.2745627411304
+2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),249.746915935394
+2011,AG.LND.AGRI.K2,Agricultural land (sq. km),91280.0
+2011,AG.LND.AGRI.ZS,Agricultural land (% of land area),70.1236844126911
+2011,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),93.78
+2011,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),88.81
+2011,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),66.21
+2011,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4367.1
+2011,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),95530241860.9667
+2011,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),764.044000559947
+2011,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",21618900745.3326
+2011,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",4.45636899387489
+2011,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.8099867573503
+2011,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),126960518030.501
+2011,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",870.0
+2011,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",3250.0
+2011,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",54.9058896995024
+2011,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",43.2592077169102
+2011,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),18.0
+2011,SP.RUR.TOTL.ZS,Rural population (% of total population),71.8899837287573
+2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),254.30935709739
+2012,AG.LND.AGRI.K2,Agricultural land (sq. km),91200.0
+2012,AG.LND.AGRI.ZS,Agricultural land (% of land area),70.0622263194284
+2012,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),94.27
+2012,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),90.18
+2012,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),71.61
+2012,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4396.5
+2012,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),98299205785.8159
+2012,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),787.89165913446
+2012,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",21566430410.319
+2012,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.01427141278985
+2012,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.1775631732753
+2012,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),132381918586.563
+2012,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",950.0
+2012,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",3680.0
+2012,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",54.148549106632
+2012,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",42.4456669558527
+2012,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),17.3
+2012,SP.RUR.TOTL.ZS,Rural population (% of total population),71.5212027105424
+2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),253.280642653537
+2013,AG.LND.AGRI.K2,Agricultural land (sq. km),91080.0
+2013,AG.LND.AGRI.ZS,Agricultural land (% of land area),69.9700391795345
+2013,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),96.58
+2013,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),94.25
+2013,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),83.42
+2013,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4492.1
+2013,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),109270901486.57
+2013,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),820.553735461623
+2013,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",23239755468.7663
+2013,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",2.4648875359993
+2013,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",15.4932779975908
+2013,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),148630473444.019
+2013,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",1010.0
+2013,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",3940.0
+2013,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",53.4719417454072
+2013,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",41.6527919458033
+2013,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),16.7
+2013,SP.RUR.TOTL.ZS,Rural population (% of total population),71.1592963893237
+2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),278.132224964281
+2014,AG.LND.AGRI.K2,Agricultural land (sq. km),90990.0
+2014,AG.LND.AGRI.ZS,Agricultural land (% of land area),69.900898824614
+2014,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),98.76
+2014,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),97.97
+2014,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),94.13
+2014,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4558.8
+2014,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),125468200069.017
+2014,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),845.680948186388
+2014,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",26540897205.5834
+2014,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",4.37187005255942
+2014,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",15.3516208986344
+2014,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),168853214206.68
+2014,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",1080.0
+2014,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",4190.0
+2014,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",56.9949193825216
+2014,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",39.1654510497522
+2014,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),15.6
+2014,SP.RUR.TOTL.ZS,Rural population (% of total population),70.8055557678987
+2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),297.810941171621
+2015,AG.LND.AGRI.K2,Agricultural land (sq. km),91622.4
+2015,AG.LND.AGRI.ZS,Agricultural land (% of land area),70.3867250518553
+2015,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),100.69
+2015,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),100.7
+2015,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),101.1
+2015,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4588.2
+2015,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),141358914056.472
+2015,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),886.912376471498
+2015,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",28848516252.0393
+2015,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.32838106268419
+2015,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",14.7829964369364
+2015,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),190332221808.999
+2015,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",1200.0
+2015,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",4440.0
+2015,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",60.122727553489
+2015,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",36.5649855911481
+2015,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),15.2
+2015,SP.RUR.TOTL.ZS,Rural population (% of total population),70.4604900522108
+2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),288.288357639838
+2016,AG.LND.AGRI.K2,Agricultural land (sq. km),91942.1
+2016,AG.LND.AGRI.ZS,Agricultural land (% of land area),70.6323269570562
+2016,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),100.55
+2016,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),101.33
+2016,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),104.77
+2016,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4624.0
+2016,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),177340893036.799
+2016,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),905.423294896181
+2016,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",35711930211.014
+2016,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",2.78626795141825
+2016,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",13.4647923176039
+2016,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),254207227699.906
+2016,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",1400.0
+2016,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",4790.0
+2016,SI.DST.02ND.20,Income share held by second 20%,12.4
+2016,SI.DST.03RD.20,Income share held by third 20%,16.1
+2016,SI.DST.04TH.20,Income share held by fourth 20%,21.4
+2016,SI.DST.05TH.20,Income share held by highest 20%,41.4
+2016,SI.DST.10TH.10,Income share held by highest 10%,26.8
+2016,SI.DST.FRST.10,Income share held by lowest 10%,3.7
+2016,SI.DST.FRST.20,Income share held by lowest 20%,8.6
+2016,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",63.0872996124255
+2016,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",33.9705500997019
+2016,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),14.4
+2016,SP.RUR.TOTL.ZS,Rural population (% of total population),70.1246084482035
+2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),302.542720033696
+2017,AG.LND.AGRI.K2,Agricultural land (sq. km),91873.3
+2017,AG.LND.AGRI.ZS,Agricultural land (% of land area),70.5794729968503
+2017,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),108.47
+2017,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),110.77
+2017,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),122.5
+2017,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4684.5
+2017,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),196542010320.222
+2017,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),954.032882081033
+2017,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",38059723938.1029
+2017,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.19600722706213
+2017,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.9572760433733
+2017,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),277679601303.089
+2017,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",1640.0
+2017,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",5050.0
+2017,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",59.5151817550646
+2017,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",31.8261668023854
+2017,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),13.4
+2017,SP.RUR.TOTL.ZS,Rural population (% of total population),69.7984201618201
+2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),318.46686309072
+2018,AG.LND.AGRI.K2,Agricultural land (sq. km),92023.0
+2018,AG.LND.AGRI.ZS,Agricultural land (% of land area),70.694476453868
+2018,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),108.0
+2018,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),110.54
+2018,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),124.46
+2018,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4778.5
+2018,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),217207965277.285
+2018,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),1035.30373959093
+2018,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",40106319550.566
+2018,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.5445399011226
+2018,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.4800771856196
+2018,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),305777695036.025
+2018,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2020.0
+2018,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",5710.0
+2018,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",61.5288557574441
+2018,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",30.6833168484786
+2018,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),12.0
+2018,SP.RUR.TOTL.ZS,Rural population (% of total population),69.4824343990041
+2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),320.445462644775
+2019,AG.LND.AGRI.K2,Agricultural land (sq. km),93970.0
+2019,AG.LND.AGRI.ZS,Agricultural land (% of land area),72.1902127986479
+2019,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),109.89
+2019,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),111.94
+2019,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),123.94
+2019,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4855.4
+2019,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),234894700483.893
+2019,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),1076.42245250605
+2019,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",42061125594.3548
+2019,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.26057768352028
+2019,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.9753231358984
+2019,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),360627233626.55
+2019,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2220.0
+2019,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",6290.0
+2019,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",63.2701670899894
+2019,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",29.4744619775738
+2019,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),10.9
+2019,SP.RUR.TOTL.ZS,Rural population (% of total population),69.1771603656988
+2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),325.386565272497
+2020,AG.LND.AGRI.K2,Agricultural land (sq. km),94300.0
+2020,AG.LND.AGRI.ZS,Agricultural land (% of land area),72.4437274333564
+2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),111.84
+2020,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),115.91
+2020,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),136.86
+2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4885.9
+2020,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),250383687973.973
+2020,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),1099.4473259373
+2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",44876362005.1668
+2020,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.42094793156549
+2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.9996868602485
+2020,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),383459686377.669
+2020,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2320.0
+2020,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",6920.0
+2020,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",66.5239843670587
+2020,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",29.9046264978568
+2020,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),10.8
+2020,SP.RUR.TOTL.ZS,Rural population (% of total population),68.8831072678476
+2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),395.72014579444
+2021,AG.LND.AGRI.K2,Agricultural land (sq. km),94180.0
+2021,AG.LND.AGRI.ZS,Agricultural land (% of land area),72.3515402934624
+2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.46
+2021,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),121.59
+2021,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),146.31
+2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4964.4
+2021,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),286292630441.326
+2021,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),1177.93400717848
+2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48424291473.762
+2021,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.17457182173638
+2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.6328584271282
+2021,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),430454772495.358
+2021,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2600.0
+2021,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",7830.0
+2021,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",69.318337483757
+2021,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",29.2208702210884
+2021,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),10.3
+2021,SP.RUR.TOTL.ZS,Rural population (% of total population),68.6007843113939
+2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),388.941232933807
+2022,AG.LND.AGRI.K2,Agricultural land (sq. km),94270.0
+2022,AG.LND.AGRI.ZS,Agricultural land (% of land area),72.3706433287272
+2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),119.1
+2022,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),125.2
+2022,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),153.13
+2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5089.7
+2022,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),317843355215.864
+2022,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),1253.10179441914
+2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",51615737117.6808
+2022,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.05395055358133
+2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.2176010351595
+2022,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2850.0
+2022,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",8790.0
+2022,SI.DST.02ND.20,Income share held by second 20%,12.8
+2022,SI.DST.03RD.20,Income share held by third 20%,16.5
+2022,SI.DST.04TH.20,Income share held by fourth 20%,21.8
+2022,SI.DST.05TH.20,Income share held by highest 20%,40.1
+2022,SI.DST.10TH.10,Income share held by highest 10%,25.5
+2022,SI.DST.FRST.10,Income share held by lowest 10%,3.7
+2022,SI.DST.FRST.20,Income share held by lowest 20%,8.8
+2022,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",70.8984530500263
+2022,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",28.0610624217642
+2022,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),10.6
+2022,SP.RUR.TOTL.ZS,Rural population (% of total population),68.326265273766
+2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),391.888102126796
+2023,AG.LND.AGRI.K2,Agricultural land (sq. km),93990.0
+2023,AG.LND.AGRI.ZS,Agricultural land (% of land area),72.311124788429
+2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5320.9
+2023,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),299958948132.06
+2023,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),1262.45721547606
+2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48131827349.4816
+2023,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.3714392206772
+2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.0036900209598
+2023,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2880.0
+2023,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",9510.0
+2023,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",74.969345794146
+2023,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",28.9598034354798
+2023,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),10.4
+2023,SP.RUR.TOTL.ZS,Rural population (% of total population),67.8421534963166
+2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5408.0
+2024,NE.CON.PRVT.CD,Household final consumption expenditure (current US$),315690120945.467
+2024,NE.CON.PRVT.PC.KD,Household final consumption expenditure per capita (constant 2015 US$),1321.93978486053
+2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",50254940777.9345
+2024,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3.30390524152024
+2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.1648014276903
+2024,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2820.0
+2024,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",10060.0
+2024,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment)",74.9488907948528
+2024,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment)",29.1055735300191
+2024,SP.RUR.TOTL.ZS,Rural population (% of total population),67.3216803676693

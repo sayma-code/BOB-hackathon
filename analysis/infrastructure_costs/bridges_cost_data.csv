@@ -1,0 +1,11 @@
+name,country,length_km,cost_usd_million,year,type,lanes,funding,cost_per_km,cost_per_lane_km
+Padma Bridge,Bangladesh,6.15,3600,2022,Road-Rail,4,China (loan),585.3658536585366,146.34146341463415
+Hong Kong-Zhuhai-Macau Bridge,China,55.0,20000,2018,Road,6,China (domestic),363.6363636363636,60.60606060606061
+Danyang-Kunshan Grand Bridge,China,164.8,8500,2011,Rail,2,China (domestic),51.57766990291262,25.78883495145631
+Bandra-Worli Sea Link,India,5.6,340,2009,Road,8,India (domestic),60.714285714285715,7.589285714285714
+Bogibeel Bridge,India,4.94,1000,2018,Road-Rail,3,India (domestic),202.42914979757083,67.47638326585695
+Akashi Kaikyo Bridge,Japan,3.91,4300,1998,Road,6,Japan (domestic),1099.7442455242967,183.29070758738277
+Great Seto Bridge,Japan,13.1,7000,1988,Road-Rail,4,Japan (domestic),534.3511450381679,133.58778625954199
+Incheon Bridge,South Korea,21.38,1900,2009,Road,6,South Korea (domestic),88.86810102899906,14.811350171499845
+Øresund Bridge,Denmark-Sweden,7.85,4000,2000,Road-Rail,4,EU (joint),509.55414012738856,127.38853503184714
+Penang Bridge,Malaysia,13.5,180,1985,Road,4,Japan (loan),13.333333333333334,3.3333333333333335

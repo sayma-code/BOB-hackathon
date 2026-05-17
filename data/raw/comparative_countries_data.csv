@@ -1,0 +1,724 @@
+country_code,country_name,year,indicator_code,indicator_name,value
+BGD,Bangladesh,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),111.84
+BGD,Bangladesh,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4885.9
+BGD,Bangladesh,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),18.8853836099419
+BGD,Bangladesh,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",44876362005.1668
+BGD,Bangladesh,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.9996868602485
+BGD,Bangladesh,2020,NY.GDP.MKTP.CD,GDP (current US$),373979442362.193
+BGD,Bangladesh,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.44801755122445
+BGD,Bangladesh,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),2248.85078828233
+BGD,Bangladesh,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),42.5476764075219
+BGD,Bangladesh,2020,SL.TLF.TOTL.IN,"Labor force, total",70314500.0
+BGD,Bangladesh,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.46
+BGD,Bangladesh,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4964.4
+BGD,Bangladesh,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),20.8766117836117
+BGD,Bangladesh,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48424291473.762
+BGD,Bangladesh,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.6328584271282
+BGD,Bangladesh,2021,NY.GDP.MKTP.CD,GDP (current US$),416271647911.014
+BGD,Bangladesh,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.93867912442445
+BGD,Bangladesh,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),2482.84917843357
+BGD,Bangladesh,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),43.4657157854774
+BGD,Bangladesh,2021,SL.TLF.TOTL.IN,"Labor force, total",72637932.0
+BGD,Bangladesh,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),119.1
+BGD,Bangladesh,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5089.7
+BGD,Bangladesh,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),20.2659753173734
+BGD,Bangladesh,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",51615737117.6808
+BGD,Bangladesh,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.2176010351595
+BGD,Bangladesh,2022,NY.GDP.MKTP.CD,GDP (current US$),460131689083.083
+BGD,Bangladesh,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.09982877575158
+BGD,Bangladesh,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),2716.48592780431
+BGD,Bangladesh,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),43.6687012820915
+BGD,Bangladesh,2022,SL.TLF.TOTL.IN,"Labor force, total",74651451.0
+BGD,Bangladesh,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5320.9
+BGD,Bangladesh,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),22.285488486933
+BGD,Bangladesh,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48131827349.4816
+BGD,Bangladesh,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.0036900209598
+BGD,Bangladesh,2023,NY.GDP.MKTP.CD,GDP (current US$),437415333018.291
+BGD,Bangladesh,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.77511237007889
+BGD,Bangladesh,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),2551.01773827307
+BGD,Bangladesh,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),45.3663393707013
+BGD,Bangladesh,2023,SL.TLF.TOTL.IN,"Labor force, total",74789575.0
+BGD,Bangladesh,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5408.0
+BGD,Bangladesh,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),22.2547977203389
+BGD,Bangladesh,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",50254940777.9345
+BGD,Bangladesh,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.1648014276903
+BGD,Bangladesh,2024,NY.GDP.MKTP.CD,GDP (current US$),450119432068.852
+BGD,Bangladesh,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.22325911250161
+BGD,Bangladesh,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),2593.41611680774
+BGD,Bangladesh,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),44.7360340472385
+BGD,Bangladesh,2024,SL.TLF.TOTL.IN,"Labor force, total",73619393.0
+ETH,Ethiopia,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.89
+ETH,Ethiopia,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2712.8
+ETH,Ethiopia,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),30.2340278652052
+ETH,Ethiopia,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",35087766941.5205
+ETH,Ethiopia,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",35.5582700374118
+ETH,Ethiopia,2020,NY.GDP.MKTP.CD,GDP (current US$),98676811061.4035
+ETH,Ethiopia,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.05953089054807
+ETH,Ethiopia,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),829.790982547947
+ETH,Ethiopia,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),63.6280222831778
+ETH,Ethiopia,2020,SL.TLF.TOTL.IN,"Labor force, total",49138941.0
+ETH,Ethiopia,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),114.29
+ETH,Ethiopia,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2660.6
+ETH,Ethiopia,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),28.9101982304795
+ETH,Ethiopia,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",40987900273.8693
+ETH,Ethiopia,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",37.5791137568863
+ETH,Ethiopia,2021,NY.GDP.MKTP.CD,GDP (current US$),109070960371.859
+ETH,Ethiopia,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.64153069257077
+ETH,Ethiopia,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),893.00983544905
+ETH,Ethiopia,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),63.4660144892329
+ETH,Ethiopia,2021,SL.TLF.TOTL.IN,"Labor force, total",49963936.0
+ETH,Ethiopia,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.51
+ETH,Ethiopia,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2690.9
+ETH,Ethiopia,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),24.2638688064282
+ETH,Ethiopia,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",46352752812.0
+ETH,Ethiopia,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",37.6422268385035
+ETH,Ethiopia,2022,NY.GDP.MKTP.CD,GDP (current US$),123140304666.0
+ETH,Ethiopia,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.32175988403378
+ETH,Ethiopia,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),982.103161506992
+ETH,Ethiopia,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),62.9652872545333
+ETH,Ethiopia,2022,SL.TLF.TOTL.IN,"Labor force, total",51764455.0
+ETH,Ethiopia,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2656.3
+ETH,Ethiopia,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48624556255.4517
+ETH,Ethiopia,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",35.7864807848152
+ETH,Ethiopia,2023,NY.GDP.MKTP.CD,GDP (current US$),135874093202.492
+ETH,Ethiopia,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.59424599357075
+ETH,Ethiopia,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1055.81091592527
+ETH,Ethiopia,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),62.1745084426461
+ETH,Ethiopia,2023,SL.TLF.TOTL.IN,"Labor force, total",53419507.0
+ETH,Ethiopia,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2631.6
+ETH,Ethiopia,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",52070359092.7573
+ETH,Ethiopia,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",34.7737782043855
+ETH,Ethiopia,2024,NY.GDP.MKTP.CD,GDP (current US$),149740297952.986
+ETH,Ethiopia,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.61277447511073
+ETH,Ethiopia,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1133.88279681719
+ETH,Ethiopia,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),61.0084469389365
+ETH,Ethiopia,2024,SL.TLF.TOTL.IN,"Labor force, total",55099611.0
+IDN,Indonesia,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),108.22
+IDN,Indonesia,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5461.8
+IDN,Indonesia,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),40.4899520829926
+IDN,Indonesia,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",145073719801.151
+IDN,Indonesia,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",13.6984142796138
+IDN,Indonesia,2020,NY.GDP.MKTP.CD,GDP (current US$),1059054842698.48
+IDN,Indonesia,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.06551182934165
+IDN,Indonesia,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),3853.70288774146
+IDN,Indonesia,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),29.3087481652973
+IDN,Indonesia,2020,SL.TLF.TOTL.IN,"Labor force, total",137375390.0
+IDN,Indonesia,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),108.64
+IDN,Indonesia,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5695.7
+IDN,Indonesia,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),36.1990816015577
+IDN,Indonesia,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",157570493811.041
+IDN,Indonesia,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",13.2801691376596
+IDN,Indonesia,2021,NY.GDP.MKTP.CD,GDP (current US$),1186509691086.73
+IDN,Indonesia,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.70288562827751
+IDN,Indonesia,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),4287.17313995098
+IDN,Indonesia,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),28.9871998196831
+IDN,Indonesia,2021,SL.TLF.TOTL.IN,"Labor force, total",135672770.0
+IDN,Indonesia,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),111.41
+IDN,Indonesia,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5833.8
+IDN,Indonesia,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),30.8527352858338
+IDN,Indonesia,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",163563932040.55
+IDN,Indonesia,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.3996501634108
+IDN,Indonesia,2022,NY.GDP.MKTP.CD,GDP (current US$),1319101183380.15
+IDN,Indonesia,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.30719722664799
+IDN,Indonesia,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),4730.83484836107
+IDN,Indonesia,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),29.2848629874109
+IDN,Indonesia,2022,SL.TLF.TOTL.IN,"Labor force, total",139637843.0
+IDN,Indonesia,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5828.8
+IDN,Indonesia,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),29.935375315129
+IDN,Indonesia,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",171799580955.573
+IDN,Indonesia,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.5294214769584
+IDN,Indonesia,2023,NY.GDP.MKTP.CD,GDP (current US$),1371169301563.62
+IDN,Indonesia,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.04902331835997
+IDN,Indonesia,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),4876.30774512252
+IDN,Indonesia,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),28.7792280576249
+IDN,Indonesia,2023,SL.TLF.TOTL.IN,"Labor force, total",143318723.0
+IDN,Indonesia,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),30.9729980083421
+IDN,Indonesia,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",176054814059.639
+IDN,Indonesia,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.6086658797584
+IDN,Indonesia,2024,NY.GDP.MKTP.CD,GDP (current US$),1396300098190.97
+IDN,Indonesia,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.03034469419038
+IDN,Indonesia,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),4925.43048751861
+IDN,Indonesia,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),27.9600749776458
+IDN,Indonesia,2024,SL.TLF.TOTL.IN,"Labor force, total",145198137.0
+IND,India,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),115.74
+IND,India,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3391.0
+IND,India,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),21.4094740100862
+IND,India,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",499355674307.637
+IND,India,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",18.6685376603727
+IND,India,2020,NY.GDP.MKTP.CD,GDP (current US$),2674851578587.27
+IND,India,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-5.77772470686801
+IND,India,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1907.04251637669
+IND,India,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),44.6754951957099
+IND,India,2020,SL.TLF.TOTL.IN,"Labor force, total",532528354.0
+IND,India,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),120.63
+IND,India,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3527.9
+IND,India,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),19.5524130311129
+IND,India,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",550236037721.842
+IND,India,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",17.3725615260314
+IND,India,2021,NY.GDP.MKTP.CD,GDP (current US$),3167270623260.47
+IND,India,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),9.68959249192875
+IND,India,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),2239.61384367482
+IND,India,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),44.0791868866382
+IND,India,2021,SL.TLF.TOTL.IN,"Labor force, total",550352877.0
+IND,India,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),123.29
+IND,India,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3564.0
+IND,India,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),18.6518069060743
+IND,India,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",553651248134.569
+IND,India,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.5461295925754
+IND,India,2022,NY.GDP.MKTP.CD,GDP (current US$),3346107287730.93
+IND,India,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.60936497768895
+IND,India,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),2347.44829434623
+IND,India,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),42.8609991503088
+IND,India,2022,SL.TLF.TOTL.IN,"Labor force, total",569155867.0
+IND,India,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3602.0
+IND,India,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),18.0442974446192
+IND,India,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",589187429060.35
+IND,India,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.1931893571591
+IND,India,2023,NY.GDP.MKTP.CD,GDP (current US$),3638489096033.86
+IND,India,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),9.19075493028345
+IND,India,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),2530.12031278204
+IND,India,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),43.5135811245793
+IND,India,2023,SL.TLF.TOTL.IN,"Labor force, total",589486854.0
+IND,India,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3632.5
+IND,India,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),18.5795533694083
+IND,India,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",636742788037.657
+IND,India,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.2854335605917
+IND,India,2024,NY.GDP.MKTP.CD,GDP (current US$),3909891533858.08
+IND,India,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.49476552383821
+IND,India,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),2694.73780859961
+IND,India,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),42.3547738876441
+IND,India,2024,SL.TLF.TOTL.IN,"Labor force, total",608500805.0
+KEN,Kenya,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),137.6
+KEN,Kenya,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1842.6
+KEN,Kenya,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),38.0454096339675
+KEN,Kenya,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",22851997890.4805
+KEN,Kenya,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.7027261604451
+KEN,Kenya,2020,NY.GDP.MKTP.CD,GDP (current US$),100657505750.545
+KEN,Kenya,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.272766327438816
+KEN,Kenya,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1927.66459027849
+KEN,Kenya,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),51.2114910190421
+KEN,Kenya,2020,SL.TLF.TOTL.IN,"Labor force, total",21267487.0
+KEN,Kenya,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),133.91
+KEN,Kenya,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1522.4
+KEN,Kenya,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),38.1042168095825
+KEN,Kenya,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",23561137205.7837
+KEN,Kenya,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.4770750957252
+KEN,Kenya,2021,NY.GDP.MKTP.CD,GDP (current US$),109703658904.994
+KEN,Kenya,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.59048947333467
+KEN,Kenya,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),2061.35622089594
+KEN,Kenya,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),51.2354676158147
+KEN,Kenya,2021,SL.TLF.TOTL.IN,"Labor force, total",22012863.0
+KEN,Kenya,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.97
+KEN,Kenya,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1477.4
+KEN,Kenya,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),36.8769031537885
+KEN,Kenya,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",24075706860.611
+KEN,Kenya,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.0361920649933
+KEN,Kenya,2022,NY.GDP.MKTP.CD,GDP (current US$),114448978152.637
+KEN,Kenya,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.85998104287999
+KEN,Kenya,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),2109.56288513137
+KEN,Kenya,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),47.8270916176174
+KEN,Kenya,2022,SL.TLF.TOTL.IN,"Labor force, total",22679572.0
+KEN,Kenya,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1757.5
+KEN,Kenya,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),40.4232521954815
+KEN,Kenya,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",23061311331.4392
+KEN,Kenya,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.4522060902205
+KEN,Kenya,2023,NY.GDP.MKTP.CD,GDP (current US$),107500884685.013
+KEN,Kenya,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.71999241214208
+KEN,Kenya,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1942.58802756191
+KEN,Kenya,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),47.1556460778454
+KEN,Kenya,2023,SL.TLF.TOTL.IN,"Labor force, total",23353083.0
+KEN,Kenya,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),34.992669732423
+KEN,Kenya,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",27043723857.2442
+KEN,Kenya,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.4728462758555
+KEN,Kenya,2024,NY.GDP.MKTP.CD,GDP (current US$),120339557905.932
+KEN,Kenya,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.72473994710138
+KEN,Kenya,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),2132.43452097647
+KEN,Kenya,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),46.5026257021267
+KEN,Kenya,2024,SL.TLF.TOTL.IN,"Labor force, total",24031329.0
+KHM,Cambodia,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.1
+KHM,Cambodia,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3441.3
+KHM,Cambodia,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),52.1880996073284
+KHM,Cambodia,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5932878727.28644
+KHM,Cambodia,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",17.0396522911435
+KHM,Cambodia,2020,NY.GDP.MKTP.CD,GDP (current US$),34818073901.4851
+KHM,Cambodia,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.55572193406549
+KHM,Cambodia,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),2081.73914242939
+KHM,Cambodia,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),36.8999777254893
+KHM,Cambodia,2020,SL.TLF.TOTL.IN,"Labor force, total",9480039.0
+KHM,Cambodia,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),131.19
+KHM,Cambodia,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3565.6
+KHM,Cambodia,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),56.7989386581107
+KHM,Cambodia,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",28.0325110484223
+KHM,Cambodia,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6219161717.4979
+KHM,Cambodia,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.9044143710096
+KHM,Cambodia,2021,NY.GDP.MKTP.CD,GDP (current US$),36790163687.4421
+KHM,Cambodia,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.08984284148661
+KHM,Cambodia,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),2167.40324198499
+KHM,Cambodia,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),37.1315873016896
+KHM,Cambodia,2021,SL.TLF.TOTL.IN,"Labor force, total",9341945.0
+KHM,Cambodia,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),130.37
+KHM,Cambodia,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3654.0
+KHM,Cambodia,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),58.4582111650594
+KHM,Cambodia,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",27.4923946808839
+KHM,Cambodia,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6616729923.53034
+KHM,Cambodia,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.5440859884848
+KHM,Cambodia,2022,NY.GDP.MKTP.CD,GDP (current US$),39994532959.6074
+KHM,Cambodia,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.12990110773977
+KHM,Cambodia,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),2325.03050040841
+KHM,Cambodia,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),36.1906415430912
+KHM,Cambodia,2022,SL.TLF.TOTL.IN,"Labor force, total",9850128.0
+KHM,Cambodia,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3722.1
+KHM,Cambodia,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),54.4507094975883
+KHM,Cambodia,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",50.3420177209934
+KHM,Cambodia,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7230271121.15493
+KHM,Cambodia,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",17.0784472455351
+KHM,Cambodia,2023,NY.GDP.MKTP.CD,GDP (current US$),42335646895.7984
+KHM,Cambodia,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.00733043811898
+KHM,Cambodia,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),2429.74853452838
+KHM,Cambodia,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),35.304617697339
+KHM,Cambodia,2023,SL.TLF.TOTL.IN,"Labor force, total",10027889.0
+KHM,Cambodia,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),46.1114046291379
+KHM,Cambodia,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7683819250.32535
+KHM,Cambodia,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",16.576872609135
+KHM,Cambodia,2024,NY.GDP.MKTP.CD,GDP (current US$),46352647037.2406
+KHM,Cambodia,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.97510939607335
+KHM,Cambodia,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),2627.87969756224
+KHM,Cambodia,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),34.1649557689114
+KHM,Cambodia,2024,SL.TLF.TOTL.IN,"Labor force, total",10200782.0
+LKA,Sri Lanka,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),107.34
+LKA,Sri Lanka,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4733.4
+LKA,Sri Lanka,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),69.3131980107832
+LKA,Sri Lanka,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6958800882.38926
+LKA,Sri Lanka,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.25132326058186
+LKA,Sri Lanka,2020,NY.GDP.MKTP.CD,GDP (current US$),84335574581.5072
+LKA,Sri Lanka,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.62451503749502
+LKA,Sri Lanka,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),3847.60137695639
+LKA,Sri Lanka,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),27.124059172471
+LKA,Sri Lanka,2020,SL.TLF.TOTL.IN,"Labor force, total",8485010.0
+LKA,Sri Lanka,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),117.02
+LKA,Sri Lanka,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4541.1
+LKA,Sri Lanka,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),67.8564357341891
+LKA,Sri Lanka,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7784080848.39921
+LKA,Sri Lanka,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.78994016463402
+LKA,Sri Lanka,2021,NY.GDP.MKTP.CD,GDP (current US$),88556698937.7033
+LKA,Sri Lanka,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.2074764951157
+LKA,Sri Lanka,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),3996.96240014909
+LKA,Sri Lanka,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),27.2756790552661
+LKA,Sri Lanka,2021,SL.TLF.TOTL.IN,"Labor force, total",8500316.0
+LKA,Sri Lanka,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.73
+LKA,Sri Lanka,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3033.2
+LKA,Sri Lanka,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),81.2809065665702
+LKA,Sri Lanka,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6263567408.25539
+LKA,Sri Lanka,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.44795287007937
+LKA,Sri Lanka,2022,NY.GDP.MKTP.CD,GDP (current US$),74143020262.8076
+LKA,Sri Lanka,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-7.34919301306745
+LKA,Sri Lanka,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),3342.63650253855
+LKA,Sri Lanka,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),26.4927667720376
+LKA,Sri Lanka,2022,SL.TLF.TOTL.IN,"Labor force, total",8527218.0
+LKA,Sri Lanka,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3804.3
+LKA,Sri Lanka,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),74.5886504230503
+LKA,Sri Lanka,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6801026293.12982
+LKA,Sri Lanka,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.12391264498649
+LKA,Sri Lanka,2023,NY.GDP.MKTP.CD,GDP (current US$),83716142582.1945
+LKA,Sri Lanka,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.3298481898334
+LKA,Sri Lanka,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),3798.89016573011
+LKA,Sri Lanka,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),26.456025466166
+LKA,Sri Lanka,2023,SL.TLF.TOTL.IN,"Labor force, total",8109783.0
+LKA,Sri Lanka,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),58.8897020425324
+LKA,Sri Lanka,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8213633487.85605
+LKA,Sri Lanka,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.2996858332285
+LKA,Sri Lanka,2024,NY.GDP.MKTP.CD,GDP (current US$),98963185509.6499
+LKA,Sri Lanka,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.00871930957159
+LKA,Sri Lanka,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),4515.56787322732
+LKA,Sri Lanka,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),26.3174160851635
+LKA,Sri Lanka,2024,SL.TLF.TOTL.IN,"Labor force, total",8304691.0
+MMR,Myanmar,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),96.55
+MMR,Myanmar,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3712.4
+MMR,Myanmar,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),17.2950651539903
+MMR,Myanmar,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",17712106109.1379
+MMR,Myanmar,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.4186525400503
+MMR,Myanmar,2020,NY.GDP.MKTP.CD,GDP (current US$),79006113670.2831
+MMR,Myanmar,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-9.04834717984643
+MMR,Myanmar,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1490.21683599469
+MMR,Myanmar,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),46.4675606772375
+MMR,Myanmar,2020,SL.TLF.TOTL.IN,"Labor force, total",23870997.0
+MMR,Myanmar,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),98.9
+MMR,Myanmar,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3740.7
+MMR,Myanmar,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),21.0676114738987
+MMR,Myanmar,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",15116967093.7884
+MMR,Myanmar,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.7852901568211
+MMR,Myanmar,2021,NY.GDP.MKTP.CD,GDP (current US$),66345291149.4433
+MMR,Myanmar,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-12.0163724829177
+MMR,Myanmar,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),1242.7213439951
+MMR,Myanmar,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),46.5899395765067
+MMR,Myanmar,2021,SL.TLF.TOTL.IN,"Labor force, total",22117425.0
+MMR,Myanmar,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),94.24
+MMR,Myanmar,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3795.4
+MMR,Myanmar,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),20.5015111684972
+MMR,Myanmar,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",13903814098.9144
+MMR,Myanmar,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.3343500768495
+MMR,Myanmar,2022,NY.GDP.MKTP.CD,GDP (current US$),62253049903.28
+MMR,Myanmar,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.0374934360085
+MMR,Myanmar,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),1158.05005055976
+MMR,Myanmar,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),45.8193782127211
+MMR,Myanmar,2022,SL.TLF.TOTL.IN,"Labor force, total",22343279.0
+MMR,Myanmar,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3795.9
+MMR,Myanmar,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),18.5621659533207
+MMR,Myanmar,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",15168820380.9524
+MMR,Myanmar,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.7222309725462
+MMR,Myanmar,2023,NY.GDP.MKTP.CD,GDP (current US$),66757619000.0
+MMR,Myanmar,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.958446625126115
+MMR,Myanmar,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1233.19666209269
+MMR,Myanmar,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),45.2453969645892
+MMR,Myanmar,2023,SL.TLF.TOTL.IN,"Labor force, total",22552833.0
+MMR,Myanmar,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3779.1
+MMR,Myanmar,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),15.2759866470065
+MMR,Myanmar,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",15431530794.9173
+MMR,Myanmar,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",20.8341766680744
+MMR,Myanmar,2024,NY.GDP.MKTP.CD,GDP (current US$),74068349523.8095
+MMR,Myanmar,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.97204641363362
+MMR,Myanmar,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1359.05001560107
+MMR,Myanmar,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),45.3568178680874
+MMR,Myanmar,2024,SL.TLF.TOTL.IN,"Labor force, total",22744175.0
+NPL,Nepal,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),113.73
+NPL,Nepal,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3203.3
+NPL,Nepal,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),23.3700917945979
+NPL,Nepal,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",39.0485631284493
+NPL,Nepal,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7415615787.43612
+NPL,Nepal,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.1800901918015
+NPL,Nepal,2020,NY.GDP.MKTP.CD,GDP (current US$),33433659301.2466
+NPL,Nepal,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.3696206292072
+NPL,Nepal,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1154.21517578318
+NPL,Nepal,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),24.9527582140169
+NPL,Nepal,2020,SL.TLF.TOTL.IN,"Labor force, total",7977675.0
+NPL,Nepal,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),112.82
+NPL,Nepal,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3063.2
+NPL,Nepal,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),23.7616294058189
+NPL,Nepal,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",39.9222686422289
+NPL,Nepal,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8131386326.66182
+NPL,Nepal,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.0214522788058
+NPL,Nepal,2021,NY.GDP.MKTP.CD,GDP (current US$),36924841394.2605
+NPL,Nepal,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.838149614115
+NPL,Nepal,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),1252.75076731986
+NPL,Nepal,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),24.9920844414884
+NPL,Nepal,2021,SL.TLF.TOTL.IN,"Labor force, total",8226953.0
+NPL,Nepal,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.66
+NPL,Nepal,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3218.5
+NPL,Nepal,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),22.1714628607957
+NPL,Nepal,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8613152357.33683
+NPL,Nepal,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",20.9143699815129
+NPL,Nepal,2022,NY.GDP.MKTP.CD,GDP (current US$),41182939600.6209
+NPL,Nepal,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.6313145568451
+NPL,Nepal,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),1385.91066274851
+NPL,Nepal,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),24.3207154496029
+NPL,Nepal,2022,SL.TLF.TOTL.IN,"Labor force, total",8325856.0
+NPL,Nepal,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3344.3
+NPL,Nepal,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),24.0384374799175
+NPL,Nepal,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8742647267.64352
+NPL,Nepal,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.2987131119409
+NPL,Nepal,2023,NY.GDP.MKTP.CD,GDP (current US$),41047772331.0994
+NPL,Nepal,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.98254843628392
+NPL,Nepal,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1382.33055769304
+NPL,Nepal,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),23.9506972536467
+NPL,Nepal,2023,SL.TLF.TOTL.IN,"Labor force, total",8335831.0
+NPL,Nepal,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),23.2748414884129
+NPL,Nepal,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",9386213890.3037
+NPL,Nepal,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.8720119555441
+NPL,Nepal,2024,NY.GDP.MKTP.CD,GDP (current US$),42914268286.7109
+NPL,Nepal,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.66537430744967
+NPL,Nepal,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1447.31004458428
+NPL,Nepal,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),23.4839369800344
+NPL,Nepal,2024,SL.TLF.TOTL.IN,"Labor force, total",8342811.0
+PAK,Pakistan,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),105.14
+PAK,Pakistan,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3353.4
+PAK,Pakistan,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),39.9870693569552
+PAK,Pakistan,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",65655410998.4781
+PAK,Pakistan,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.8541325548966
+PAK,Pakistan,2020,NY.GDP.MKTP.CD,GDP (current US$),300425609817.981
+PAK,Pakistan,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.27408744338709
+PAK,Pakistan,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1278.39735206896
+PAK,Pakistan,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),38.3114820459559
+PAK,Pakistan,2020,SL.TLF.TOTL.IN,"Labor force, total",75332749.0
+PAK,Pakistan,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),113.42
+PAK,Pakistan,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3489.4
+PAK,Pakistan,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),37.9965494190867
+PAK,Pakistan,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",78982613373.72
+PAK,Pakistan,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.6625080760743
+PAK,Pakistan,2021,NY.GDP.MKTP.CD,GDP (current US$),348516647445.148
+PAK,Pakistan,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.51388575852702
+PAK,Pakistan,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),1455.31922370186
+PAK,Pakistan,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),37.098033495337
+PAK,Pakistan,2021,SL.TLF.TOTL.IN,"Labor force, total",78814704.0
+PAK,Pakistan,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),104.13
+PAK,Pakistan,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3463.0
+PAK,Pakistan,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),34.5202602197744
+PAK,Pakistan,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",83701249085.4445
+PAK,Pakistan,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",22.3268646996031
+PAK,Pakistan,2022,NY.GDP.MKTP.CD,GDP (current US$),374890295666.694
+PAK,Pakistan,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.7781068690358
+PAK,Pakistan,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),1538.3228133171
+PAK,Pakistan,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),36.7314142033124
+PAK,Pakistan,2022,SL.TLF.TOTL.IN,"Labor force, total",80064041.0
+PAK,Pakistan,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3634.0
+PAK,Pakistan,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),39.4498353457572
+PAK,Pakistan,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",78874512938.1202
+PAK,Pakistan,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",23.426703596366
+PAK,Pakistan,2023,NY.GDP.MKTP.CD,GDP (current US$),336686348609.266
+PAK,Pakistan,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.414935997088406
+PAK,Pakistan,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1360.32417758419
+PAK,Pakistan,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),36.7740398149604
+PAK,Pakistan,2023,SL.TLF.TOTL.IN,"Labor force, total",81613188.0
+PAK,Pakistan,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),35.6282760521045
+PAK,Pakistan,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",88222928688.0339
+PAK,Pakistan,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",23.7432862338836
+PAK,Pakistan,2024,NY.GDP.MKTP.CD,GDP (current US$),371570000121.266
+PAK,Pakistan,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.04898287335465
+PAK,Pakistan,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1478.77277977996
+PAK,Pakistan,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),36.5441423834632
+PAK,Pakistan,2024,SL.TLF.TOTL.IN,"Labor force, total",83217450.0
+PHL,Philippines,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),102.93
+PHL,Philippines,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3769.4
+PHL,Philippines,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),25.3116389229833
+PHL,Philippines,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",36845479325.2052
+PHL,Philippines,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.1853110317615
+PHL,Philippines,2020,NY.GDP.MKTP.CD,GDP (current US$),361751145451.597
+PHL,Philippines,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-9.51829474045297
+PHL,Philippines,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),3227.57910235199
+PHL,Philippines,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),24.5081370532987
+PHL,Philippines,2020,SL.TLF.TOTL.IN,"Labor force, total",42533348.0
+PHL,Philippines,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),105.11
+PHL,Philippines,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3832.9
+PHL,Philippines,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),26.1303951987477
+PHL,Philippines,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",39681302647.1153
+PHL,Philippines,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.0691640204876
+PHL,Philippines,2021,NY.GDP.MKTP.CD,GDP (current US$),394087359848.11
+PHL,Philippines,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.71473313185116
+PHL,Philippines,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),3484.38593882819
+PHL,Philippines,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),24.325505789458
+PHL,Philippines,2021,SL.TLF.TOTL.IN,"Labor force, total",44699749.0
+PHL,Philippines,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),103.98
+PHL,Philippines,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3821.5
+PHL,Philippines,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),25.875290276635
+PHL,Philippines,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",38622895943.3116
+PHL,Philippines,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",9.55176804414326
+PHL,Philippines,2022,NY.GDP.MKTP.CD,GDP (current US$),404353369604.631
+PHL,Philippines,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.58098212785563
+PHL,Philippines,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),3548.06930572116
+PHL,Philippines,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),22.8363518329959
+PHL,Philippines,2022,SL.TLF.TOTL.IN,"Labor force, total",49481401.0
+PHL,Philippines,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3869.2
+PHL,Philippines,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),25.6668725797068
+PHL,Philippines,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",41084830895.3152
+PHL,Philippines,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",9.40036652870699
+PHL,Philippines,2023,NY.GDP.MKTP.CD,GDP (current US$),437055627244.424
+PHL,Philippines,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.51894967862863
+PHL,Philippines,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),3804.08274131097
+PHL,Philippines,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),22.0370920130941
+PHL,Philippines,2023,SL.TLF.TOTL.IN,"Labor force, total",50378922.0
+PHL,Philippines,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),26.2604550502335
+PHL,Philippines,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",41926533969.6326
+PHL,Philippines,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",9.08252678487007
+PHL,Philippines,2024,NY.GDP.MKTP.CD,GDP (current US$),461617509782.355
+PHL,Philippines,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.69201612823412
+PHL,Philippines,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),3984.8315387656
+PHL,Philippines,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),21.1858721910537
+PHL,Philippines,2024,SL.TLF.TOTL.IN,"Labor force, total",51307682.0
+THA,Thailand,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),97.97
+THA,Thailand,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3014.1
+THA,Thailand,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),38.1852515690645
+THA,Thailand,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",50.3227814999415
+THA,Thailand,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",43554459075.4815
+THA,Thailand,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.70285214673554
+THA,Thailand,2020,NY.GDP.MKTP.CD,GDP (current US$),500461898480.246
+THA,Thailand,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-6.05003846851622
+THA,Thailand,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),6985.64393892574
+THA,Thailand,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),31.3894710294934
+THA,Thailand,2020,SL.TLF.TOTL.IN,"Labor force, total",40252215.0
+THA,Thailand,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),102.1
+THA,Thailand,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3062.0
+THA,Thailand,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),40.2520564409155
+THA,Thailand,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",58.5114542035114
+THA,Thailand,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",44003061816.7824
+THA,Thailand,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.69291293050797
+THA,Thailand,2021,NY.GDP.MKTP.CD,GDP (current US$),506194668789.937
+THA,Thailand,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.55216608426647
+THA,Thailand,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),7057.20754802279
+THA,Thailand,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),31.8973264305607
+THA,Thailand,2021,SL.TLF.TOTL.IN,"Labor force, total",40439671.0
+THA,Thailand,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),106.6
+THA,Thailand,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3105.6
+THA,Thailand,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),41.8986110741223
+THA,Thailand,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",60.349920189306
+THA,Thailand,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",43217498445.584
+THA,Thailand,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.71945138441444
+THA,Thailand,2022,NY.GDP.MKTP.CD,GDP (current US$),495644697587.661
+THA,Thailand,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.58037874709827
+THA,Thailand,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),6909.35281815827
+THA,Thailand,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),30.4232397167292
+THA,Thailand,2022,SL.TLF.TOTL.IN,"Labor force, total",40754371.0
+THA,Thailand,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3071.7
+THA,Thailand,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),38.7070888237378
+THA,Thailand,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",61.1243613638526
+THA,Thailand,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",44175899395.2938
+THA,Thailand,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.5627759867239
+THA,Thailand,2023,NY.GDP.MKTP.CD,GDP (current US$),515906283940.933
+THA,Thailand,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.01775095328327
+THA,Thailand,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),7195.10130919449
+THA,Thailand,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),30.2203833465474
+THA,Thailand,2023,SL.TLF.TOTL.IN,"Labor force, total",41287040.0
+THA,Thailand,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),37.4891208226563
+THA,Thailand,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",62.1983655632713
+THA,Thailand,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",45865619933.0314
+THA,Thailand,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.7111266189882
+THA,Thailand,2024,NY.GDP.MKTP.CD,GDP (current US$),526517658841.684
+THA,Thailand,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.54182067735289
+THA,Thailand,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),7346.62022142185
+THA,Thailand,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),28.9863358878798
+THA,Thailand,2024,SL.TLF.TOTL.IN,"Labor force, total",41014040.0
+TZA,Tanzania,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),106.51
+TZA,Tanzania,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1869.5
+TZA,Tanzania,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),39.7693712686611
+TZA,Tanzania,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",16685594759.4038
+TZA,Tanzania,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",25.254901665343
+TZA,Tanzania,2020,NY.GDP.MKTP.CD,GDP (current US$),66068737786.0639
+TZA,Tanzania,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.99196460647855
+TZA,Tanzania,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1117.41528320313
+TZA,Tanzania,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),65.793951747757
+TZA,Tanzania,2020,SL.TLF.TOTL.IN,"Labor force, total",28601375.0
+TZA,Tanzania,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),104.72
+TZA,Tanzania,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1782.3
+TZA,Tanzania,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),41.4860546069249
+TZA,Tanzania,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",17514435490.7804
+TZA,Tanzania,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",24.7884506158783
+TZA,Tanzania,2021,NY.GDP.MKTP.CD,GDP (current US$),70655628147.8986
+TZA,Tanzania,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.32138429480482
+TZA,Tanzania,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),1159.85656738281
+TZA,Tanzania,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),65.9189768508938
+TZA,Tanzania,2021,SL.TLF.TOTL.IN,"Labor force, total",29917681.0
+TZA,Tanzania,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),100.37
+TZA,Tanzania,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1815.4
+TZA,Tanzania,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),40.9318313478855
+TZA,Tanzania,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",18374441349.3476
+TZA,Tanzania,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",24.2569694569552
+TZA,Tanzania,2022,NY.GDP.MKTP.CD,GDP (current US$),75749121842.9149
+TZA,Tanzania,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.56600576430955
+TZA,Tanzania,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),1207.52062988281
+TZA,Tanzania,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),65.5820823164579
+TZA,Tanzania,2022,SL.TLF.TOTL.IN,"Labor force, total",30944597.0
+TZA,Tanzania,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1961.1
+TZA,Tanzania,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),44.5950861063729
+TZA,Tanzania,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",18720174196.0901
+TZA,Tanzania,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",23.6871473778631
+TZA,Tanzania,2023,NY.GDP.MKTP.CD,GDP (current US$),79030935627.0781
+TZA,Tanzania,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.06952353203394
+TZA,Tanzania,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1224.00219726563
+TZA,Tanzania,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),65.1616409810771
+TZA,Tanzania,2023,SL.TLF.TOTL.IN,"Labor force, total",31961730.0
+TZA,Tanzania,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),47.3169345002777
+TZA,Tanzania,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",18385000013.8892
+TZA,Tanzania,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",23.3180780856465
+TZA,Tanzania,2024,NY.GDP.MKTP.CD,GDP (current US$),78844405385.2195
+TZA,Tanzania,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.5263138305945
+TZA,Tanzania,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1186.71691894531
+TZA,Tanzania,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),65.0897916276375
+TZA,Tanzania,2024,SL.TLF.TOTL.IN,"Labor force, total",32994873.0
+UGA,Uganda,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),153.38
+UGA,Uganda,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1616.9
+UGA,Uganda,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),48.062157782797
+UGA,Uganda,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",44.1859143089924
+UGA,Uganda,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8997404795.58423
+UGA,Uganda,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",23.9290337205103
+UGA,Uganda,2020,NY.GDP.MKTP.CD,GDP (current US$),37600368241.6657
+UGA,Uganda,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.95130642218098
+UGA,Uganda,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),845.766463890124
+UGA,Uganda,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),64.7499841005898
+UGA,Uganda,2020,SL.TLF.TOTL.IN,"Labor force, total",18996710.0
+UGA,Uganda,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),169.72
+UGA,Uganda,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1908.1
+UGA,Uganda,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),52.1424485431174
+UGA,Uganda,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",51.3026623500196
+UGA,Uganda,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",9663032725.04433
+UGA,Uganda,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",23.8418038272172
+UGA,Uganda,2021,NY.GDP.MKTP.CD,GDP (current US$),40529788748.6737
+UGA,Uganda,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.53658034070898
+UGA,Uganda,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),882.791717542504
+UGA,Uganda,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),66.6586155375027
+UGA,Uganda,2021,SL.TLF.TOTL.IN,"Labor force, total",20121421.0
+UGA,Uganda,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),148.35
+UGA,Uganda,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1964.8
+UGA,Uganda,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),47.1819700251541
+UGA,Uganda,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",53.890283064004
+UGA,Uganda,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",10941021163.1068
+UGA,Uganda,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",24.0117220529553
+UGA,Uganda,2022,NY.GDP.MKTP.CD,GDP (current US$),45565333210.9108
+UGA,Uganda,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.58802192181773
+UGA,Uganda,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),963.067314117178
+UGA,Uganda,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),66.3509508584538
+UGA,Uganda,2022,SL.TLF.TOTL.IN,"Labor force, total",21087767.0
+UGA,Uganda,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1958.2
+UGA,Uganda,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),42.6685823120186
+UGA,Uganda,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",53.1469350748667
+UGA,Uganda,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",11748234048.0943
+UGA,Uganda,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",24.0895746897278
+UGA,Uganda,2023,NY.GDP.MKTP.CD,GDP (current US$),48768955863.3175
+UGA,Uganda,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.33697295511469
+UGA,Uganda,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1002.30913917142
+UGA,Uganda,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),65.8927506516622
+UGA,Uganda,2023,SL.TLF.TOTL.IN,"Labor force, total",21821722.0
+UGA,Uganda,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1919.8
+UGA,Uganda,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),39.2169652098837
+UGA,Uganda,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",54.4305525836671
+UGA,Uganda,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",13272545772.3208
+UGA,Uganda,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",24.618950598633
+UGA,Uganda,2024,NY.GDP.MKTP.CD,GDP (current US$),53911907086.1525
+UGA,Uganda,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.05558075875589
+UGA,Uganda,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1077.91278452817
+UGA,Uganda,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),65.4114417356169
+UGA,Uganda,2024,SL.TLF.TOTL.IN,"Labor force, total",22581703.0
+VNM,Vietnam,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),106.01
+VNM,Vietnam,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5797.3
+VNM,Vietnam,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),39.0234679461042
+VNM,Vietnam,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",43865620544.0877
+VNM,Vietnam,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.6554035685556
+VNM,Vietnam,2020,NY.GDP.MKTP.CD,GDP (current US$),346615738537.796
+VNM,Vietnam,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.86541320912272
+VNM,Vietnam,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),3534.03953482647
+VNM,Vietnam,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),32.6123879661738
+VNM,Vietnam,2020,SL.TLF.TOTL.IN,"Labor force, total",55149609.0
+VNM,Vietnam,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),109.24
+VNM,Vietnam,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5947.1
+VNM,Vietnam,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),40.2192163533687
+VNM,Vietnam,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",46187144624.1214
+VNM,Vietnam,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.6030904652745
+VNM,Vietnam,2021,NY.GDP.MKTP.CD,GDP (current US$),366474752771.009
+VNM,Vietnam,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.55372852648131
+VNM,Vietnam,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),3704.1935590038
+VNM,Vietnam,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),29.0283266030004
+VNM,Vietnam,2021,SL.TLF.TOTL.IN,"Labor force, total",55299911.0
+VNM,Vietnam,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),109.55
+VNM,Vietnam,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5903.9
+VNM,Vietnam,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),37.2580281492659
+VNM,Vietnam,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",49118533037.331
+VNM,Vietnam,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.8802998302585
+VNM,Vietnam,2022,NY.GDP.MKTP.CD,GDP (current US$),413445230668.578
+VNM,Vietnam,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),8.53750046755788
+VNM,Vietnam,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),4147.69777213621
+VNM,Vietnam,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),33.4623722339218
+VNM,Vietnam,2022,SL.TLF.TOTL.IN,"Labor force, total",56475416.0
+VNM,Vietnam,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5995.3
+VNM,Vietnam,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),34.4790753177648
+VNM,Vietnam,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",51462771462.6317
+VNM,Vietnam,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.8616711588794
+VNM,Vietnam,2023,NY.GDP.MKTP.CD,GDP (current US$),433857681378.291
+VNM,Vietnam,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.06502391455075
+VNM,Vietnam,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),4323.35031982451
+VNM,Vietnam,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),26.9827056291982
+VNM,Vietnam,2023,SL.TLF.TOTL.IN,"Labor force, total",56381956.0
+VNM,Vietnam,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),28.849298110528
+VNM,Vietnam,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",56516273390.5477
+VNM,Vietnam,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.8634906983546
+VNM,Vietnam,2024,NY.GDP.MKTP.CD,GDP (current US$),476388230307.175
+VNM,Vietnam,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.09118746633975
+VNM,Vietnam,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),4717.29028732449
+VNM,Vietnam,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),25.8741334316538
+VNM,Vietnam,2024,SL.TLF.TOTL.IN,"Labor force, total",56703936.0

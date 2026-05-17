@@ -1,0 +1,12 @@
+name,country,capacity_mw,cost_usd_million,year,type,funding,cost_per_mw
+Rooppur Nuclear Power Plant,Bangladesh,2400,12650,2024,Nuclear,Russia (loan),5.270833333333333
+Payra Thermal Power Plant,Bangladesh,1320,1500,2020,Coal,China (loan),1.1363636363636365
+Rampal Power Station,Bangladesh,1320,1800,2022,Coal,India (loan),1.3636363636363635
+Matarbari Coal Power Plant,Bangladesh,1200,4500,2024,Coal,Japan (loan),3.75
+Kudankulam Nuclear Power Plant,India,2000,3500,2013,Nuclear,Russia (loan),1.75
+Mundra Ultra Mega Power Plant,India,4620,4000,2012,Coal,India (private),0.8658008658008658
+Yangjiang Nuclear Power Station,China,6000,11000,2019,Nuclear,China (domestic),1.8333333333333333
+Kashiwazaki-Kariwa Nuclear,Japan,8212,20000,1997,Nuclear,Japan (domestic),2.4354603019970775
+Shin Kori Nuclear Power Plant,South Korea,5600,10000,2016,Nuclear,South Korea (domestic),1.7857142857142858
+Vogtle Nuclear Plant (Units 3&4),USA,2234,30000,2023,Nuclear,USA (private),13.42882721575649
+Hinkley Point C,UK,3200,33000,2027,Nuclear,China-France (loan),10.3125

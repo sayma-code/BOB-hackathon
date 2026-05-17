@@ -1,0 +1,10 @@
+name,country,length_km,cost_usd_million,year,stations,funding,cost_per_km,cost_per_station
+Dhaka Metro Rail (MRT Line 6),Bangladesh,20.1,2800,2022,16,Japan (loan),139.30348258706468,175.0
+Delhi Metro Phase 1,India,65.0,2300,2006,59,Japan (loan),35.38461538461539,38.983050847457626
+Mumbai Metro Line 1,India,11.4,650,2014,12,India (domestic),57.01754385964912,54.166666666666664
+Beijing Subway Line 16,China,49.8,4500,2016,29,China (domestic),90.36144578313254,155.17241379310346
+Shanghai Metro Line 11,China,82.4,3200,2013,38,China (domestic),38.83495145631068,84.21052631578948
+Tokyo Metro Fukutoshin Line,Japan,20.2,5500,2008,16,Japan (domestic),272.2772277227723,343.75
+Seoul Metro Line 9,South Korea,40.6,2900,2009,38,South Korea (domestic),71.42857142857143,76.3157894736842
+Singapore MRT Circle Line,Singapore,35.5,6000,2011,30,Singapore (domestic),169.01408450704224,200.0
+Dubai Metro Red Line,UAE,52.1,7600,2009,29,UAE (domestic),145.87332053742801,262.0689655172414

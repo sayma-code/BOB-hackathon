@@ -1,0 +1,479 @@
+year,indicator_code,indicator_name,value
+2000,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),377.271681929373
+2000,NY.GDP.PCAP.CD,GDP per Capita (current US$),396.670730249751
+2000,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),3.38671358983686
+2000,SI.POV.GINI,GINI Index (World Bank estimate),33.4
+2000,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),67.5956893034896
+2000,SL.EMP.SELF.ZS,Self-employed (% of total employment),66.4240874789155
+2000,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),56.261
+2000,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),66.2249634576764
+2000,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),33.5759125210845
+2000,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),13.0892190327164
+2000,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),19.3150811251213
+2000,SL.TLF.TOTL.IN,"Labor Force, Total",49048139.0
+2000,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.27
+2000,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),37.3226802030851
+2000,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),59.2159179803854
+2000,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.46140181652951
+2000,SP.POP.GROW,Population Growth (annual %),1.82732806740512
+2000,SP.POP.TOTL,Total Population,134544304.0
+2000,SP.RUR.TOTL,Rural Population,103175957.0
+2000,SP.URB.TOTL,Urban Population,31368347.0
+2001,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),373.945462492766
+2001,NY.GDP.PCAP.CD,GDP per Capita (current US$),394.65641001891
+2001,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),3.34027882244948
+2001,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),63.6637662866904
+2001,SL.EMP.SELF.ZS,Self-employed (% of total employment),66.1141074913131
+2001,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),56.105
+2001,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),65.9019556492587
+2001,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),33.8858863126032
+2001,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),14.4051473429778
+2001,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),21.9310884356931
+2001,SL.TLF.TOTL.IN,"Labor Force, Total",50230500.0
+2001,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.609
+2001,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),36.9194877873992
+2001,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),59.5841764337926
+2001,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.49633577880817
+2001,SP.POP.GROW,Population Growth (annual %),1.66689324749509
+2001,SP.POP.TOTL,Total Population,136805810.0
+2001,SP.RUR.TOTL,Rural Population,104382940.0
+2001,SP.URB.TOTL,Urban Population,32422870.0
+2002,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),376.716240175324
+2002,NY.GDP.PCAP.CD,GDP per Capita (current US$),393.886422327628
+2002,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),2.24286058481829
+2002,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),59.4219802137688
+2002,SL.EMP.SELF.ZS,Self-employed (% of total employment),65.7921785968562
+2002,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.899
+2002,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),65.5713327248984
+2002,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),34.2078254671436
+2002,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),15.7360006499148
+2002,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),24.8420110083177
+2002,SL.TLF.TOTL.IN,"Labor Force, Total",51244757.0
+2002,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.966
+2002,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),36.6324742561662
+2002,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),59.8282267929633
+2002,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.53929895087049
+2002,SP.POP.GROW,Population Growth (annual %),1.54340635736975
+2002,SP.POP.TOTL,Total Population,138933658.0
+2002,SP.RUR.TOTL,Rural Population,105432254.0
+2002,SP.URB.TOTL,Urban Population,33501404.0
+2003,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),408.638010979128
+2003,NY.GDP.PCAP.CD,GDP per Capita (current US$),426.74880754362
+2003,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),3.22632477639362
+2003,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),54.813673700961
+2003,SL.EMP.SELF.ZS,Self-employed (% of total employment),65.4605106763364
+2003,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.674
+2003,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),65.246300716344
+2003,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),34.5394933273636
+2003,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),17.1419202198288
+2003,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),28.0444120847605
+2003,SL.TLF.TOTL.IN,"Labor Force, Total",52208969.0
+2003,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.32
+2003,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),36.3510312308472
+2003,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),60.0554642158213
+2003,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.59350455333156
+2003,SP.POP.GROW,Population Growth (annual %),1.45530530506763
+2003,SP.POP.TOTL,Total Population,140970351.0
+2003,SP.RUR.TOTL,Rural Population,106358527.0
+2003,SP.URB.TOTL,Urban Population,34611824.0
+2004,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),437.779663617171
+2004,NY.GDP.PCAP.CD,GDP per Capita (current US$),455.614016909798
+2004,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),3.81635685042457
+2004,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),53.1750741116125
+2004,SL.EMP.SELF.ZS,Self-employed (% of total employment),65.1105567752125
+2004,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.646
+2004,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),64.8913823515472
+2004,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),34.8894510914275
+2004,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),17.6220890679826
+2004,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),29.2028328870851
+2004,SL.TLF.TOTL.IN,"Labor Force, Total",53140734.0
+2004,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.316
+2004,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),36.0571318324706
+2004,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),60.2870409402001
+2004,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.65582722732927
+2004,SP.POP.GROW,Population Growth (annual %),1.36154790691024
+2004,SP.POP.TOTL,Total Population,142902856.0
+2004,SP.RUR.TOTL,Rural Population,107163593.0
+2004,SP.URB.TOTL,Urban Population,35739263.0
+2005,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),461.19293360395
+2005,NY.GDP.PCAP.CD,GDP per Capita (current US$),480.08585075452
+2005,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.20131368672413
+2005,SI.POV.GINI,GINI Index (World Bank estimate),33.2
+2005,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),51.359688830833
+2005,SL.EMP.SELF.ZS,Self-employed (% of total employment),64.722223972032
+2005,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.65
+2005,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),64.4914371632306
+2005,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),35.2777721633575
+2005,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),18.2007969329369
+2005,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),30.4395142362302
+2005,SL.TLF.TOTL.IN,"Labor Force, Total",54049068.0
+2005,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.25
+2005,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),35.7391159109622
+2005,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),60.5359621928184
+2005,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.72492189621939
+2005,SP.POP.GROW,Population Growth (annual %),1.2606651625389
+2005,SP.POP.TOTL,Total Population,144715786.0
+2005,SP.RUR.TOTL,Rural Population,107846612.0
+2005,SP.URB.TOTL,Urban Population,36869174.0
+2006,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),472.399016981675
+2006,NY.GDP.PCAP.CD,GDP per Capita (current US$),490.388026533289
+2006,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.44042881455881
+2006,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),50.4857268527338
+2006,SL.EMP.SELF.ZS,Self-employed (% of total employment),64.3531394997343
+2006,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.986
+2006,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),64.1843947113788
+2006,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),35.6468586112188
+2006,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),18.6372555412735
+2006,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),30.877011938852
+2006,SL.TLF.TOTL.IN,"Labor Force, Total",54908227.0
+2006,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.591
+2006,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),35.4168352973658
+2006,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),60.7813908631262
+2006,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.80177383950799
+2006,SP.POP.GROW,Population Growth (annual %),1.16116775095831
+2006,SP.POP.TOTL,Total Population,146405973.0
+2006,SP.RUR.TOTL,Rural Population,108416676.0
+2006,SP.URB.TOTL,Urban Population,37989297.0
+2007,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),523.447677871554
+2007,NY.GDP.PCAP.CD,GDP per Capita (current US$),537.955492792911
+2007,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.91320275589507
+2007,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),49.7149098023194
+2007,SL.EMP.SELF.ZS,Self-employed (% of total employment),63.869575118466
+2007,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.861
+2007,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),63.68530953012
+2007,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),36.1304286095314
+2007,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),18.9098240163507
+2007,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),31.3752643173313
+2007,SL.TLF.TOTL.IN,"Labor Force, Total",55892527.0
+2007,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.015
+2007,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),35.1043735749559
+2007,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),61.008240407795
+2007,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.88738601724917
+2007,SP.POP.GROW,Population Growth (annual %),1.07564253185597
+2007,SP.POP.TOTL,Total Population,147989278.0
+2007,SP.RUR.TOTL,Rural Population,108897461.0
+2007,SP.URB.TOTL,Urban Population,39091817.0
+2008,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),605.30816884109
+2008,NY.GDP.PCAP.CD,GDP per Capita (current US$),613.06204104124
+2008,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),4.96057170242533
+2008,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),48.9855434793339
+2008,SL.EMP.SELF.ZS,Self-employed (% of total employment),63.3615083723008
+2008,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.705
+2008,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),63.1649650606653
+2008,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),36.6384879440776
+2008,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),19.1872302391746
+2008,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),31.8272281233023
+2008,SL.TLF.TOTL.IN,"Labor Force, Total",56846810.0
+2008,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.49
+2008,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),34.793277305561
+2008,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),61.2236072332278
+2008,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),3.98311546121115
+2008,SP.POP.GROW,Population Growth (annual %),0.9984405660693
+2008,SP.POP.TOTL,Total Population,149474264.0
+2008,SP.RUR.TOTL,Rural Population,109307449.0
+2008,SP.URB.TOTL,Urban Population,40166815.0
+2009,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),672.110602481967
+2009,NY.GDP.PCAP.CD,GDP per Capita (current US$),679.211477428056
+2009,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),4.07076421640669
+2009,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),48.327755652912
+2009,SL.EMP.SELF.ZS,Self-employed (% of total employment),62.8552450353619
+2009,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.528
+2009,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),62.6404448858856
+2009,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),37.1447604274181
+2009,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),19.3863335157538
+2009,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),32.2859108313342
+2009,SL.TLF.TOTL.IN,"Labor Force, Total",57807404.0
+2009,SL.UEM.TOTL.ZS,Unemployment Rate (%),5.0
+2009,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),34.4480871598349
+2009,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),61.4616088790656
+2009,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),4.09030396109955
+2009,SP.POP.GROW,Population Growth (annual %),0.931892491457971
+2009,SP.POP.TOTL,Total Population,150873714.0
+2009,SP.RUR.TOTL,Rural Population,109668406.0
+2009,SP.URB.TOTL,Urban Population,41205308.0
+2010,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),749.617087690298
+2010,NY.GDP.PCAP.CD,GDP per Capita (current US$),757.385280361508
+2010,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),4.65046297355514
+2010,SI.POV.GINI,GINI Index (World Bank estimate),32.1
+2010,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),47.5925482341612
+2010,SL.EMP.SELF.ZS,Self-employed (% of total employment),62.3377918192947
+2010,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),56.597
+2010,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),62.1114634809614
+2010,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),37.6622117012158
+2010,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),19.6659443987482
+2010,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),32.7415073670905
+2010,SL.TLF.TOTL.IN,"Labor Force, Total",58796583.0
+2010,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.379
+2010,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),34.0504147772873
+2010,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),61.7403305619908
+2010,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),4.20925466072201
+2010,SP.POP.GROW,Population Growth (annual %),0.876530534249878
+2010,SP.POP.TOTL,Total Population,152201981.0
+2010,SP.RUR.TOTL,Rural Population,110003316.0
+2010,SP.URB.TOTL,Urban Population,42198665.0
+2011,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),826.613898000825
+2011,NY.GDP.PCAP.CD,GDP per Capita (current US$),837.336944695647
+2011,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.501503282369
+2011,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),46.7735957702428
+2011,SL.EMP.SELF.ZS,Self-employed (% of total employment),62.0991658575618
+2011,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.941
+2011,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),61.2768062357384
+2011,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),37.9008376471426
+2011,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.0336837102759
+2011,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),33.1927100053692
+2011,SL.TLF.TOTL.IN,"Labor Force, Total",59281113.0
+2011,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.737
+2011,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),33.5821917595726
+2011,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),62.0740346987153
+2011,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),4.34377354171206
+2011,SP.POP.GROW,Population Growth (annual %),0.908525895582217
+2011,SP.POP.TOTL,Total Population,153591076.0
+2011,SP.RUR.TOTL,Rural Population,110416600.0
+2011,SP.URB.TOTL,Urban Population,43174476.0
+2012,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),853.69080005025
+2012,NY.GDP.PCAP.CD,GDP per Capita (current US$),859.680536375497
+2012,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.50548020192592
+2012,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),45.9180677941619
+2012,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.8560248177031
+2012,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.3
+2012,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),60.4298109620797
+2012,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.1439786646426
+2012,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.4330171201156
+2012,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),33.6489046386861
+2012,SL.TLF.TOTL.IN,"Labor Force, Total",59869794.0
+2012,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.07
+2012,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),33.0265015658096
+2012,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),62.4844425603217
+2012,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),4.48905587386876
+2012,SP.POP.GROW,Population Growth (annual %),0.958355912717609
+2012,SP.POP.TOTL,Total Population,155070101.0
+2012,SP.RUR.TOTL,Rural Population,110908001.0
+2012,SP.URB.TOTL,Urban Population,44162100.0
+2013,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),949.520478634602
+2013,NY.GDP.PCAP.CD,GDP per Capita (current US$),958.262989798283
+2013,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.02341839695075
+2013,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),45.0991832486723
+2013,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.6191657687968
+2013,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),54.649
+2013,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),59.5723857040062
+2013,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.3808359610919
+2013,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.7888945857964
+2013,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),34.1119221655313
+2013,SL.TLF.TOTL.IN,"Labor Force, Total",60484221.0
+2013,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.426
+2013,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),32.4236999110096
+2013,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),62.9494570158261
+2013,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),4.62684307316426
+2013,SP.POP.GROW,Population Growth (annual %),0.938408350120779
+2013,SP.POP.TOTL,Total Population,156532141.0
+2013,SP.RUR.TOTL,Rural Population,111387170.0
+2013,SP.URB.TOTL,Urban Population,45144971.0
+2014,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),1068.92849745579
+2014,NY.GDP.PCAP.CD,GDP per Capita (current US$),1094.46199702838
+2014,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.09905460197942
+2014,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),44.4046216094801
+2014,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.3896169979304
+2014,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),54.308
+2014,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),58.7487925119881
+2014,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.6103830020695
+2014,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.5366959894489
+2014,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),35.0586926571988
+2014,SL.TLF.TOTL.IN,"Labor Force, Total",61204476.0
+2014,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.417
+2014,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),31.8063072462316
+2014,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),63.4371252223876
+2014,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),4.75656753138087
+2014,SP.POP.GROW,Population Growth (annual %),0.911167733810249
+2014,SP.POP.TOTL,Total Population,157964929.0
+2014,SP.RUR.TOTL,Rural Population,111847946.0
+2014,SP.URB.TOTL,Urban Population,46116983.0
+2015,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),1194.18010735624
+2015,NY.GDP.PCAP.CD,GDP per Capita (current US$),1224.38647668165
+2015,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.60449539732434
+2015,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),43.542342342038
+2015,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.1461867066605
+2015,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),53.972
+2015,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),57.902961981056
+2015,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.8538132933395
+2015,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.4796085575501
+2015,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),35.9780592358065
+2015,SL.TLF.TOTL.IN,"Labor Force, Total",61920877.0
+2015,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.397
+2015,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),31.1823407663365
+2015,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),63.9150578117155
+2015,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),4.90260142194805
+2015,SP.POP.GROW,Population Growth (annual %),0.89381937776758
+2015,SP.POP.TOTL,Total Population,159383179.0
+2015,SP.RUR.TOTL,Rural Population,112302169.0
+2015,SP.URB.TOTL,Urban Population,47081010.0
+2016,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),1580.77341984739
+2016,NY.GDP.PCAP.CD,GDP per Capita (current US$),1649.28380858601
+2016,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),6.16181560014782
+2016,SI.POV.GINI,GINI Index (World Bank estimate),32.4
+2016,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),42.6647464152912
+2016,SL.EMP.SELF.ZS,Self-employed (% of total employment),60.9023559488776
+2016,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),53.65
+2016,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),57.0356746745533
+2016,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),39.0976407124836
+2016,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.4595245408049
+2016,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),36.8757190279881
+2016,SL.TLF.TOTL.IN,"Labor Force, Total",62629015.0
+2016,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.35
+2016,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),30.5660498794143
+2016,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),64.3617117778247
+2016,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),5.07223834276104
+2016,SP.POP.GROW,Population Growth (annual %),0.892432416039535
+2016,SP.POP.TOTL,Total Population,160811932.0
+2016,SP.RUR.TOTL,Rural Population,112768738.0
+2016,SP.URB.TOTL,Urban Population,48043194.0
+2017,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),1712.10431001292
+2017,NY.GDP.PCAP.CD,GDP per Capita (current US$),1811.08221668646
+2017,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),5.68710307010265
+2017,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),40.5973044110147
+2017,SL.EMP.SELF.ZS,Self-employed (% of total employment),60.6569011830301
+2017,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),55.778
+2017,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),56.1806275900299
+2017,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),39.3430972360868
+2017,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.4193241705984
+2017,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),38.9833714183869
+2017,SL.TLF.TOTL.IN,"Labor Force, Total",66147765.0
+2017,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.372
+2017,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),30.0763108025382
+2017,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),64.6648001467869
+2017,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),5.25888905067487
+2017,SP.POP.GROW,Population Growth (annual %),0.850917315689336
+2017,SP.POP.TOTL,Total Population,162186147.0
+2017,SP.RUR.TOTL,Rural Population,113203368.0
+2017,SP.URB.TOTL,Urban Population,48982779.0
+2018,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),1869.93574257226
+2018,NY.GDP.PCAP.CD,GDP per Capita (current US$),1965.24372731467
+2018,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),6.44197494702485
+2018,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),40.7657978851531
+2018,SL.EMP.SELF.ZS,Self-employed (% of total employment),60.6330406208968
+2018,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),56.3
+2018,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),56.2930050778402
+2018,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),39.3669624712557
+2018,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),20.0532607831866
+2018,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),39.180939785584
+2018,SL.TLF.TOTL.IN,"Labor Force, Total",67683856.0
+2018,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.439
+2018,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),29.7445382083272
+2018,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),64.7973177686173
+2018,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),5.45814402305543
+2018,SP.POP.GROW,Population Growth (annual %),0.820955197842845
+2018,SP.POP.TOTL,Total Population,163523103.0
+2018,SP.RUR.TOTL,Rural Population,113619833.0
+2018,SP.URB.TOTL,Urban Population,49903270.0
+2019,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),2186.77189399317
+2019,NY.GDP.PCAP.CD,GDP per Capita (current US$),2129.79896954606
+2019,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),6.97264399779152
+2019,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),40.84013231722
+2019,SL.EMP.SELF.ZS,Self-employed (% of total employment),60.5904572387325
+2019,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),56.791
+2019,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),56.3883787871261
+2019,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),39.4095382192166
+2019,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),19.8048029254686
+2019,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),39.355073841414
+2019,SL.TLF.TOTL.IN,"Labor Force, Total",69165404.0
+2019,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.504
+2019,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),29.4761618478294
+2019,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),64.8612797816401
+2019,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),5.66255837053046
+2019,SP.POP.GROW,Population Growth (annual %),0.84641125179804
+2019,SP.POP.TOTL,Total Population,164913055.0
+2019,SP.RUR.TOTL,Rural Population,114082169.0
+2019,SP.URB.TOTL,Urban Population,50830886.0
+2020,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),2305.85834488129
+2020,NY.GDP.PCAP.CD,GDP per Capita (current US$),2248.85078828233
+2020,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),2.58647816564581
+2020,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),42.5476764075219
+2020,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.4694696018516
+2020,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),56.459
+2020,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),57.4001952008227
+2020,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.5305258814231
+2020,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),18.970086947415
+2020,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),38.482235139488
+2020,SL.TLF.TOTL.IN,"Labor Force, Total",70314500.0
+2020,SL.UEM.TOTL.ZS,Unemployment Rate (%),5.539
+2020,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),29.2584546885536
+2020,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),64.9064095313604
+2020,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),5.835135780086
+2020,SP.POP.GROW,Population Growth (annual %),0.836310836229073
+2020,SP.POP.TOTL,Total Population,166298024.0
+2020,SP.RUR.TOTL,Rural Population,114551246.0
+2020,SP.URB.TOTL,Urban Population,51746778.0
+2021,NY.ADJ.NNTY.PC.CD,Adjusted Net National Income per Capita (current US$),2567.44432056871
+2021,NY.GDP.PCAP.CD,GDP per Capita (current US$),2482.84917843357
+2021,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),6.07069417020969
+2021,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),43.4657157854774
+2021,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.656976495284
+2021,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),57.751
+2021,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),57.7138400623424
+2021,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.3430176800705
+2021,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),18.2957657271552
+2021,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),38.2385272243361
+2021,SL.TLF.TOTL.IN,"Labor Force, Total",72637932.0
+2021,SL.UEM.TOTL.ZS,Unemployment Rate (%),5.457
+2021,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),29.0745008042507
+2021,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),64.9516858651805
+2021,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),5.97381333056883
+2021,SP.POP.GROW,Population Growth (annual %),0.814977993693211
+2021,SP.POP.TOTL,Total Population,167658854.0
+2021,SP.RUR.TOTL,Rural Population,115015289.0
+2021,SP.URB.TOTL,Urban Population,52643565.0
+2022,NY.GDP.PCAP.CD,GDP per Capita (current US$),2716.48592780431
+2022,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),6.00847462887278
+2022,SI.POV.GINI,GINI Index (World Bank estimate),30.9
+2022,SI.POV.NAHC,Poverty Headcount Ratio at National Poverty Lines (% of population),18.7
+2022,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),43.6687012820915
+2022,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.6373954529726
+2022,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),59.031
+2022,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),57.8403806625567
+2022,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.3626059510853
+2022,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),17.9688209597631
+2022,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),38.3624693337989
+2022,SL.TLF.TOTL.IN,"Labor Force, Total",74651451.0
+2022,SL.UEM.TOTL.ZS,Unemployment Rate (%),4.593
+2022,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),28.7700900252928
+2022,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),65.0947523228864
+2022,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),6.13515765182076
+2022,SP.POP.GROW,Population Growth (annual %),1.02423384746683
+2022,SP.POP.TOTL,Total Population,169384897.0
+2022,SP.RUR.TOTL,Rural Population,115734374.0
+2022,SP.URB.TOTL,Urban Population,53650523.0
+2023,NY.GDP.PCAP.CD,GDP per Capita (current US$),2551.01773827307
+2023,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),4.4907040939439
+2023,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),45.3663393707013
+2023,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.8739430707616
+2023,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),58.845
+2023,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),58.1775397771731
+2023,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.1260527788908
+2023,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),17.625867147727
+2023,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),37.0078031657165
+2023,SL.TLF.TOTL.IN,"Labor Force, Total",74789575.0
+2023,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.352
+2023,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),28.3608821732976
+2023,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),65.3185697725259
+2023,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),6.32054805417649
+2023,SP.POP.GROW,Population Growth (annual %),1.22171475464107
+2023,SP.POP.TOTL,Total Population,171466990.0
+2023,SP.RUR.TOTL,Rural Population,116326899.0
+2023,SP.URB.TOTL,Urban Population,55140091.0
+2024,NY.GDP.PCAP.CD,GDP per Capita (current US$),2593.41611680774
+2024,NY.GDP.PCAP.KD.ZG,GDP per Capita Growth (annual %),2.96499837954917
+2024,SL.AGR.EMPL.ZS,Employment in Agriculture (% of total employment),44.7360340472385
+2024,SL.EMP.SELF.ZS,Self-employed (% of total employment),61.4253013127452
+2024,SL.EMP.TOTL.SP.ZS,Employment to Population Ratio (%),56.762
+2024,SL.EMP.VULN.ZS,Vulnerable Employment (% of total employment),57.7382491923305
+2024,SL.EMP.WORK.ZS,Wage and Salaried Workers (% of total employment),38.5746986872547
+2024,SL.IND.EMPL.ZS,Employment in Industry (% of total employment),17.8924001804483
+2024,SL.SRV.EMPL.ZS,Employment in Services (% of total employment),37.3715657723132
+2024,SL.TLF.TOTL.IN,"Labor Force, Total",73619393.0
+2024,SL.UEM.TOTL.ZS,Unemployment Rate (%),3.635
+2024,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total),27.9889305379593
+2024,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total),65.5126064657658
+2024,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total),6.49846299627493
+2024,SP.POP.GROW,Population Growth (annual %),1.21462115417186
+2024,SP.POP.TOTL,Total Population,173562364.0
+2024,SP.RUR.TOTL,Rural Population,116845100.0
+2024,SP.URB.TOTL,Urban Population,56717264.0

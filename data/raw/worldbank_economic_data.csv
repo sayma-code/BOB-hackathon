@@ -1,0 +1,218 @@
+year,indicator_code,indicator_name,value
+2000,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-305831650.647999
+2000,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1515788656.4122
+2000,NE.EXP.GNFS.CD,Exports of goods and services (current US$),6588073941.56231
+2000,NE.IMP.GNFS.CD,Imports of goods and services (current US$),9060862651.56033
+2000,NY.GDP.MKTP.CD,GDP (current US$),53369787318.6245
+2000,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.29329471892532
+2000,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",52.1416666666666
+2001,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-535424727.721444
+2001,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1305630681.37667
+2001,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.55508912359227
+2001,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),7.85279247057531
+2001,NE.EXP.GNFS.CD,Exports of goods and services (current US$),7227575982.20904
+2001,NE.IMP.GNFS.CD,Imports of goods and services (current US$),10102557449.9629
+2001,NY.GDP.MKTP.CD,GDP (current US$),53991289844.3291
+2001,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.07728777526728
+2001,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",55.8066666666666
+2002,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",739250272.000126
+2002,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1721734791.67036
+2002,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.87465110773691
+2002,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),7.88712372772849
+2002,NE.EXP.GNFS.CD,Exports of goods and services (current US$),6791241511.40519
+2002,NE.IMP.GNFS.CD,Imports of goods and services (current US$),9060891520.11144
+2002,NY.GDP.MKTP.CD,GDP (current US$),54724081490.5102
+2002,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.83312393993225
+2002,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",57.888
+2003,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",131637632.009357
+2003,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2624623706.05726
+2003,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.71578966709367
+2003,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),7.83605027787651
+2003,NE.EXP.GNFS.CD,Exports of goods and services (current US$),6876856649.39551
+2003,NE.IMP.GNFS.CD,Imports of goods and services (current US$),9761830742.65976
+2003,NY.GDP.MKTP.CD,GDP (current US$),60158929188.2556
+2003,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.73956739963045
+2003,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",58.15004
+2004,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-278679383.745514
+2004,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",3221759632.8579
+2004,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.65675173626511
+2004,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),7.60497659759871
+2004,NE.EXP.GNFS.CD,Exports of goods and services (current US$),7257329709.52947
+2004,NE.IMP.GNFS.CD,Imports of goods and services (current US$),10229675556.3105
+2004,NY.GDP.MKTP.CD,GDP (current US$),65108544250.0425
+2004,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.23953291029852
+2004,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",59.5126583333333
+2005,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-173741535.952961
+2005,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2825004863.68236
+2005,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.9489913342907
+2005,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),8.1426283401405
+2005,NE.EXP.GNFS.CD,Exports of goods and services (current US$),9999571015.39225
+2005,NE.IMP.GNFS.CD,Imports of goods and services (current US$),13898043877.3656
+2005,NY.GDP.MKTP.CD,GDP (current US$),69476001239.419
+2005,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.53594493875502
+2005,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",64.3274749999999
+2006,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",1196063083.00571
+2006,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",3877163419.29565
+2006,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.77841193665516
+2006,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),8.33493730155715
+2006,NE.EXP.GNFS.CD,Exports of goods and services (current US$),11741089556.3444
+2006,NE.IMP.GNFS.CD,Imports of goods and services (current US$),15621647159.4109
+2006,NY.GDP.MKTP.CD,GDP (current US$),71795736172.1561
+2006,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.67190498576788
+2006,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",68.9332333333333
+2007,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",856792635.005174
+2007,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",5277479281.25888
+2007,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.81075448022252
+2007,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),8.66279314084748
+2007,NE.EXP.GNFS.CD,Exports of goods and services (current US$),13530265640.2252
+2007,NE.IMP.GNFS.CD,Imports of goods and services (current US$),18268522231.9984
+2007,NY.GDP.MKTP.CD,GDP (current US$),79611644974.5571
+2007,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.05859935449848
+2007,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",68.874875
+2008,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",926185438.562718
+2008,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",5787356027.09449
+2008,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",9.51289063059205
+2008,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.42878117115452
+2008,NE.EXP.GNFS.CD,Exports of goods and services (current US$),16182047682.9643
+2008,NE.IMP.GNFS.CD,Imports of goods and services (current US$),22874478188.5382
+2008,NY.GDP.MKTP.CD,GDP (current US$),91636997370.9772
+2008,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.01378975738535
+2008,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",68.598275
+2009,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",3556126394.04663
+2009,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",10341543873.7536
+2009,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",9.64307267713728
+2009,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.87158360325856
+2009,NE.EXP.GNFS.CD,Exports of goods and services (current US$),17359427992.7925
+2009,NE.IMP.GNFS.CD,Imports of goods and services (current US$),23725728359.9447
+2009,NY.GDP.MKTP.CD,GDP (current US$),102475158190.998
+2009,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.04512479919337
+2009,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",69.0390666666666
+2010,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",2108502536.74166
+2010,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",11174828666.952
+2010,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",9.74382934646306
+2010,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.26625106718959
+2010,NE.EXP.GNFS.CD,Exports of goods and services (current US$),18471882436.8538
+2010,NE.IMP.GNFS.CD,Imports of goods and services (current US$),25105548606.6769
+2010,NY.GDP.MKTP.CD,GDP (current US$),115275540051.262
+2010,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.57178818533122
+2010,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",69.6492916666666
+2011,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-161842538.678824
+2011,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",9174749651.1268
+2011,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",10.4626574311705
+2011,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.84388457755423
+2011,NE.EXP.GNFS.CD,Exports of goods and services (current US$),25621279024.2428
+2011,NE.IMP.GNFS.CD,Imports of goods and services (current US$),35365482039.6129
+2011,NY.GDP.MKTP.CD,GDP (current US$),128607482310.357
+2011,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.46437912497728
+2011,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",74.1524
+2012,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",2575500680.61049
+2012,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",12754226899.6071
+2012,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",11.1452302743835
+2012,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.63853873285246
+2012,NE.EXP.GNFS.CD,Exports of goods and services (current US$),26877564843.4222
+2012,NE.IMP.GNFS.CD,Imports of goods and services (current US$),37259465952.266
+2012,NY.GDP.MKTP.CD,GDP (current US$),133310747603.483
+2012,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.52145877906443
+2012,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",81.8626583333333
+2013,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",2058473420.43086
+2013,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",18087689200.0619
+2013,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",11.1604123713742
+2013,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.50711961128958
+2013,NE.EXP.GNFS.CD,Exports of goods and services (current US$),29306607469.6236
+2013,NE.IMP.GNFS.CD,Imports of goods and services (current US$),40137513944.1348
+2013,NY.GDP.MKTP.CD,GDP (current US$),149998957434.186
+2013,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.01360565834344
+2013,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",78.103235
+2014,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",755790761.66014
+2014,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",22319788312.4797
+2014,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",10.8668856085968
+2014,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.50443649145954
+2014,NE.EXP.GNFS.CD,Exports of goods and services (current US$),32830579729.9485
+2014,NE.IMP.GNFS.CD,Imports of goods and services (current US$),44128305231.1645
+2014,NY.GDP.MKTP.CD,GDP (current US$),172886611653.786
+2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.0610593588495
+2014,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",77.6414083333333
+2015,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",2579621008.7762
+2015,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",27493077971.9949
+2015,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",9.84448413886165
+2015,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),9.00588487034226
+2015,NE.EXP.GNFS.CD,Exports of goods and services (current US$),33831931004.0501
+2015,NE.IMP.GNFS.CD,Imports of goods and services (current US$),48297463643.7965
+2015,NY.GDP.MKTP.CD,GDP (current US$),195146608978.131
+2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.55263987816197
+2015,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",77.9469083333333
+2016,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",931393867.987116
+2016,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",32283838538.9037
+2016,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.52279611186147
+2016,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),7.86276813546215
+2016,NE.EXP.GNFS.CD,Exports of goods and services (current US$),36922447162.046
+2016,NE.IMP.GNFS.CD,Imports of goods and services (current US$),46183400773.3724
+2016,NY.GDP.MKTP.CD,GDP (current US$),265224515675.034
+2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.11347821270093
+2016,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",78.4680916666666
+2017,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-5984992475.63151
+2017,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",33431482893.1712
+2017,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.0712626971168
+2017,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),7.63987436772557
+2017,NE.EXP.GNFS.CD,Exports of goods and services (current US$),37655756192.841
+2017,NE.IMP.GNFS.CD,Imports of goods and services (current US$),50463186692.0898
+2017,NY.GDP.MKTP.CD,GDP (current US$),293732446624.596
+2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.59024999794057
+2017,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",80.4375416666666
+2018,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-7095172568.14977
+2018,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",32028383716.5949
+2018,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.70480535725308
+2018,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),7.4941450180451
+2018,NE.EXP.GNFS.CD,Exports of goods and services (current US$),40732047404.0872
+2018,NE.IMP.GNFS.CD,Imports of goods and services (current US$),63757868050.7515
+2018,NY.GDP.MKTP.CD,GDP (current US$),321362752441.78
+2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.31941263014136
+2018,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",83.4662019166666
+2019,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-2948537074.51493
+2019,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",32696936140.2925
+2019,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.85578039462247
+2019,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),8.27231587687115
+2019,NE.EXP.GNFS.CD,Exports of goods and services (current US$),45992932855.1263
+2019,NE.IMP.GNFS.CD,Imports of goods and services (current US$),64919190426.113
+2019,NY.GDP.MKTP.CD,GDP (current US$),351231654603.692
+2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.88191515117722
+2019,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",84.4535225
+2020,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",1192771686.32568
+2020,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",43171735335.8
+2020,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",8.64089809540505
+2020,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),8.14832024557625
+2020,NE.EXP.GNFS.CD,Exports of goods and services (current US$),39053880559.8514
+2020,NE.IMP.GNFS.CD,Imports of goods and services (current US$),59195931838.1946
+2020,NY.GDP.MKTP.CD,GDP (current US$),373979442362.193
+2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.44801755122445
+2020,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",84.8713916666666
+2021,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-15775415833.0742
+2021,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",46165532457.1555
+2021,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",9.53881335234034
+2021,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),8.3242513417429
+2021,NE.EXP.GNFS.CD,Exports of goods and services (current US$),44386125441.8587
+2021,NE.IMP.GNFS.CD,Imports of goods and services (current US$),71021045805.0068
+2021,NY.GDP.MKTP.CD,GDP (current US$),416271647911.014
+2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.93867912442445
+2021,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",85.08376325
+2022,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-17531514896.3582
+2022,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",33747202271.7021
+2022,NE.EXP.GNFS.CD,Exports of goods and services (current US$),59275206086.406
+2022,NE.IMP.GNFS.CD,Imports of goods and services (current US$),96157127887.3964
+2022,NY.GDP.MKTP.CD,GDP (current US$),460131689083.083
+2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.09982877575158
+2022,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",91.7454544396961
+2023,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-7199979887.6317
+2023,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",21859709190.8892
+2023,NE.EXP.GNFS.CD,Exports of goods and services (current US$),57551452000.7801
+2023,NE.IMP.GNFS.CD,Imports of goods and services (current US$),77972815573.2438
+2023,NY.GDP.MKTP.CD,GDP (current US$),437415333018.291
+2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.77511237007889
+2023,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",106.309484297483
+2024,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",-3013399293.76544
+2024,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",21394795733.0405
+2024,NE.EXP.GNFS.CD,Exports of goods and services (current US$),47087839244.3229
+2024,NE.IMP.GNFS.CD,Imports of goods and services (current US$),73445483483.8237
+2024,NY.GDP.MKTP.CD,GDP (current US$),450119432068.852
+2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.22325911250161
+2024,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",115.603653796648

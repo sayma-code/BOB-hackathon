@@ -1,0 +1,1394 @@
+country_code,country_name,year,indicator_code,indicator_name,value
+AUS,Australia,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),102.938193447331
+AUS,Australia,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),3557750.0
+AUS,Australia,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),76.66
+AUS,Australia,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2515.9
+AUS,Australia,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",69.0656538994855
+AUS,Australia,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",26868425092.3914
+AUS,Australia,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.01512715396535
+AUS,Australia,2020,NY.GDP.MKTP.CD,GDP (current US$),1333336461648.09
+AUS,Australia,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.133531904304775
+AUS,Australia,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),51983.4523666382
+AUS,Australia,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.7659977760499
+AUS,Australia,2020,SL.TLF.TOTL.IN,"Labor force, total",13583584.0
+AUS,Australia,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),120.125219894451
+AUS,Australia,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),3635190.0
+AUS,Australia,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),129.02
+AUS,Australia,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2817.0
+AUS,Australia,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",69.836773674895
+AUS,Australia,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",35978144132.001
+AUS,Australia,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.30537875480088
+AUS,Australia,2021,NY.GDP.MKTP.CD,GDP (current US$),1560617493202.69
+AUS,Australia,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.00694844335034
+AUS,Australia,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),60758.9044397144
+AUS,Australia,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.4984121870069
+AUS,Australia,2021,SL.TLF.TOTL.IN,"Labor force, total",13859964.0
+AUS,Australia,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),106.569550615704
+AUS,Australia,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),3635190.0
+AUS,Australia,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),146.08
+AUS,Australia,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3277.8
+AUS,Australia,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",57.8834285733848
+AUS,Australia,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",45314408069.1166
+AUS,Australia,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.67242699950618
+AUS,Australia,2022,NY.GDP.MKTP.CD,GDP (current US$),1695627535475.8
+AUS,Australia,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.25304559238732
+AUS,Australia,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),65169.5191118657
+AUS,Australia,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.1974275768901
+AUS,Australia,2022,SL.TLF.TOTL.IN,"Labor force, total",14230223.0
+AUS,Australia,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),102.688610687155
+AUS,Australia,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),3632436.782
+AUS,Australia,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2690.9
+AUS,Australia,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",44604854016.0724
+AUS,Australia,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.57169831894523
+AUS,Australia,2023,NY.GDP.MKTP.CD,GDP (current US$),1734451264655.6
+AUS,Australia,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.58382100798981
+AUS,Australia,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),65058.3773146674
+AUS,Australia,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.14974802026124
+AUS,Australia,2023,SL.TLF.TOTL.IN,"Labor force, total",14646578.0
+AUS,Australia,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2689.7
+AUS,Australia,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",35766874141.9844
+AUS,Australia,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.03565265249391
+AUS,Australia,2024,NY.GDP.MKTP.CD,GDP (current US$),1757022451652.83
+AUS,Australia,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.37340773365975
+AUS,Australia,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),64603.9856308464
+AUS,Australia,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.2305246861444
+AUS,Australia,2024,SL.TLF.TOTL.IN,"Labor force, total",14907959.0
+AUT,Austria,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),137.971279983855
+AUT,Austria,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),26026.653
+AUT,Austria,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),103.38
+AUT,Austria,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7386.4
+AUT,Austria,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4654053944.11519
+AUT,Austria,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.07138113272871
+AUT,Austria,2020,NY.GDP.MKTP.CD,GDP (current US$),434397601557.696
+AUT,Austria,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-6.31825509209936
+AUT,Austria,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),48716.4098900349
+AUT,Austria,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.86383142689978
+AUT,Austria,2020,SL.TLF.TOTL.IN,"Labor force, total",4607777.0
+AUT,Austria,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),128.259330316928
+AUT,Austria,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),26024.884
+AUT,Austria,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),100.74
+AUT,Austria,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7112.4
+AUT,Austria,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5838813982.17432
+AUT,Austria,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.2152388657488
+AUT,Austria,2021,NY.GDP.MKTP.CD,GDP (current US$),480466363176.806
+AUT,Austria,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.92309171717903
+AUT,Austria,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),53648.6437976214
+AUT,Austria,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.73480929883985
+AUT,Austria,2021,SL.TLF.TOTL.IN,"Labor force, total",4650207.0
+AUT,Austria,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),97.4183567533676
+AUT,Austria,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),25974.477
+AUT,Austria,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),100.31
+AUT,Austria,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6895.5
+AUT,Austria,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6371905694.10703
+AUT,Austria,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.34649596457301
+AUT,Austria,2022,NY.GDP.MKTP.CD,GDP (current US$),473221298968.216
+AUT,Austria,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.33096379400371
+AUT,Austria,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),52336.7725223758
+AUT,Austria,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.5385595444138
+AUT,Austria,2022,SL.TLF.TOTL.IN,"Labor force, total",4715201.0
+AUT,Austria,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),106.416218836758
+AUT,Austria,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),25972.63
+AUT,Austria,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7051.0
+AUT,Austria,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6415816609.11188
+AUT,Austria,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.24176172038934
+AUT,Austria,2023,NY.GDP.MKTP.CD,GDP (current US$),516670509628.876
+AUT,Austria,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.786244288594673
+AUT,Austria,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),56579.504175468
+AUT,Austria,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.11719371426899
+AUT,Austria,2023,SL.TLF.TOTL.IN,"Labor force, total",4762160.0
+AUT,Austria,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6721.8
+AUT,Austria,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6506444439.44687
+AUT,Austria,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.21663375792448
+AUT,Austria,2024,NY.GDP.MKTP.CD,GDP (current US$),534790720466.822
+AUT,Austria,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.659089573171372
+AUT,Austria,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),58268.8787651601
+AUT,Austria,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.82710899447365
+AUT,Austria,2024,SL.TLF.TOTL.IN,"Labor force, total",4763195.0
+BEL,Belgium,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),257.64369159716
+BEL,Belgium,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),13646.093
+BEL,Belgium,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.28
+BEL,Belgium,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8430.6
+BEL,Belgium,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",3775757677.3541
+BEL,Belgium,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.712818023641571
+BEL,Belgium,2020,NY.GDP.MKTP.CD,GDP (current US$),529694473501.791
+BEL,Belgium,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.7929839083518
+BEL,Belgium,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),45906.2875805246
+BEL,Belgium,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.00750729784374
+BEL,Belgium,2020,SL.TLF.TOTL.IN,"Labor force, total",5124712.0
+BEL,Belgium,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),252.75403169909
+BEL,Belgium,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),13656.7
+BEL,Belgium,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),98.11
+BEL,Belgium,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7906.2
+BEL,Belgium,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",3919719661.62784
+BEL,Belgium,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.654899384879513
+BEL,Belgium,2021,NY.GDP.MKTP.CD,GDP (current US$),598522422241.851
+BEL,Belgium,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.25445686466593
+BEL,Belgium,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),51658.238294958
+BEL,Belgium,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.09125389898035
+BEL,Belgium,2021,SL.TLF.TOTL.IN,"Labor force, total",5217415.0
+BEL,Belgium,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),198.273406287997
+BEL,Belgium,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),13590.0
+BEL,Belgium,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.86
+BEL,Belgium,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8603.5
+BEL,Belgium,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",3968729707.39301
+BEL,Belgium,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.671430411514796
+BEL,Belgium,2022,NY.GDP.MKTP.CD,GDP (current US$),591085783326.267
+BEL,Belgium,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.9562379757933
+BEL,Belgium,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),50605.7496677086
+BEL,Belgium,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.07141281082723
+BEL,Belgium,2022,SL.TLF.TOTL.IN,"Labor force, total",5320892.0
+BEL,Belgium,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),191.6622951002
+BEL,Belgium,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),13533.0
+BEL,Belgium,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8485.7
+BEL,Belgium,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5044983161.96087
+BEL,Belgium,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.774565666013089
+BEL,Belgium,2023,NY.GDP.MKTP.CD,GDP (current US$),651330595110.011
+BEL,Belgium,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.71412195515242
+BEL,Belgium,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),55291.4754541329
+BEL,Belgium,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.08549455456598
+BEL,Belgium,2023,SL.TLF.TOTL.IN,"Labor force, total",5365023.0
+BEL,Belgium,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5314812815.70312
+BEL,Belgium,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.791636827597192
+BEL,Belgium,2024,NY.GDP.MKTP.CD,GDP (current US$),671370081636.406
+BEL,Belgium,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.07045413019414
+BEL,Belgium,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),56614.5679499036
+BEL,Belgium,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.00894917887808
+BEL,Belgium,2024,SL.TLF.TOTL.IN,"Labor force, total",5432908.0
+BGD,Bangladesh,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),325.386565272497
+BGD,Bangladesh,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),94300.0
+BGD,Bangladesh,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),111.84
+BGD,Bangladesh,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4885.9
+BGD,Bangladesh,2020,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),18.8853836099419
+BGD,Bangladesh,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",44876362005.1668
+BGD,Bangladesh,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.9996868602485
+BGD,Bangladesh,2020,NY.GDP.MKTP.CD,GDP (current US$),373979442362.193
+BGD,Bangladesh,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.44801755122445
+BGD,Bangladesh,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),2248.85078828233
+BGD,Bangladesh,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),42.5476764075219
+BGD,Bangladesh,2020,SL.TLF.TOTL.IN,"Labor force, total",70314500.0
+BGD,Bangladesh,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),395.72014579444
+BGD,Bangladesh,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),94180.0
+BGD,Bangladesh,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.46
+BGD,Bangladesh,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4964.4
+BGD,Bangladesh,2021,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),20.8766117836117
+BGD,Bangladesh,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48424291473.762
+BGD,Bangladesh,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.6328584271282
+BGD,Bangladesh,2021,NY.GDP.MKTP.CD,GDP (current US$),416271647911.014
+BGD,Bangladesh,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.93867912442445
+BGD,Bangladesh,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),2482.84917843357
+BGD,Bangladesh,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),43.4657157854774
+BGD,Bangladesh,2021,SL.TLF.TOTL.IN,"Labor force, total",72637932.0
+BGD,Bangladesh,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),388.941232933807
+BGD,Bangladesh,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),94270.0
+BGD,Bangladesh,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),119.1
+BGD,Bangladesh,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5089.7
+BGD,Bangladesh,2022,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),20.2659753173734
+BGD,Bangladesh,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",51615737117.6808
+BGD,Bangladesh,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.2176010351595
+BGD,Bangladesh,2022,NY.GDP.MKTP.CD,GDP (current US$),460131689083.083
+BGD,Bangladesh,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.09982877575158
+BGD,Bangladesh,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),2716.48592780431
+BGD,Bangladesh,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),43.6687012820915
+BGD,Bangladesh,2022,SL.TLF.TOTL.IN,"Labor force, total",74651451.0
+BGD,Bangladesh,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),391.888102126796
+BGD,Bangladesh,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),93990.0
+BGD,Bangladesh,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5320.9
+BGD,Bangladesh,2023,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),22.285488486933
+BGD,Bangladesh,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48131827349.4816
+BGD,Bangladesh,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.0036900209598
+BGD,Bangladesh,2023,NY.GDP.MKTP.CD,GDP (current US$),437415333018.291
+BGD,Bangladesh,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.77511237007889
+BGD,Bangladesh,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),2551.01773827307
+BGD,Bangladesh,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),45.3663393707013
+BGD,Bangladesh,2023,SL.TLF.TOTL.IN,"Labor force, total",74789575.0
+BGD,Bangladesh,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5408.0
+BGD,Bangladesh,2024,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),22.2547977203389
+BGD,Bangladesh,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",50254940777.9345
+BGD,Bangladesh,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.1648014276903
+BGD,Bangladesh,2024,NY.GDP.MKTP.CD,GDP (current US$),450119432068.852
+BGD,Bangladesh,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.22325911250161
+BGD,Bangladesh,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),2593.41611680774
+BGD,Bangladesh,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),44.7360340472385
+BGD,Bangladesh,2024,SL.TLF.TOTL.IN,"Labor force, total",73619393.0
+CAN,Canada,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),129.488688374526
+CAN,Canada,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),571174.0
+CAN,Canada,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),111.22
+CAN,Canada,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4091.9
+CAN,Canada,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",74.5544073791525
+CAN,Canada,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",30461110689.4033
+CAN,Canada,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.83978931118122
+CAN,Canada,2020,NY.GDP.MKTP.CD,GDP (current US$),1655684730000.19
+CAN,Canada,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-5.03823343468899
+CAN,Canada,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),43537.839298904
+CAN,Canada,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.55065027703378
+CAN,Canada,2020,SL.TLF.TOTL.IN,"Labor force, total",20505333.0
+CAN,Canada,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),126.061841658172
+CAN,Canada,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),569910.0
+CAN,Canada,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),84.04
+CAN,Canada,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3119.8
+CAN,Canada,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",68.7795713723483
+CAN,Canada,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",32317366984.9627
+CAN,Canada,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.59798786504057
+CAN,Canada,2021,NY.GDP.MKTP.CD,GDP (current US$),2022378748423.23
+CAN,Canada,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.95052802804381
+CAN,Canada,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),52886.6616372703
+CAN,Canada,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.36487110992612
+CAN,Canada,2021,SL.TLF.TOTL.IN,"Labor force, total",21005652.0
+CAN,Canada,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),117.039586919105
+CAN,Canada,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),570770.0
+CAN,Canada,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),107.97
+CAN,Canada,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4078.7
+CAN,Canada,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",59.704132672031
+CAN,Canada,2022,NY.GDP.MKTP.CD,GDP (current US$),2190411080134.32
+CAN,Canada,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.18903628100851
+CAN,Canada,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),56256.8007264015
+CAN,Canada,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.30655614451438
+CAN,Canada,2022,SL.TLF.TOTL.IN,"Labor force, total",21454656.0
+CAN,Canada,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),132.840554638148
+CAN,Canada,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),568750.0
+CAN,Canada,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3694.7
+CAN,Canada,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",61.1023208728582
+CAN,Canada,2023,NY.GDP.MKTP.CD,GDP (current US$),2173339670064.33
+CAN,Canada,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.52874550838358
+CAN,Canada,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),54220.3285039875
+CAN,Canada,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.27154303625992
+CAN,Canada,2023,SL.TLF.TOTL.IN,"Labor force, total",22189334.0
+CAN,Canada,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",64.8871578917218
+CAN,Canada,2024,NY.GDP.MKTP.CD,GDP (current US$),2243636826633.76
+CAN,Canada,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.55479521049516
+CAN,Canada,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),54340.3477224733
+CAN,Canada,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.12952160290491
+CAN,Canada,2024,SL.TLF.TOTL.IN,"Labor force, total",22690597.0
+CHE,Switzerland,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),175.129395022778
+CHE,Switzerland,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),15024.369
+CHE,Switzerland,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),104.23
+CHE,Switzerland,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6978.0
+CHE,Switzerland,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",20.8521076737596
+CHE,Switzerland,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5234639848.74979
+CHE,Switzerland,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.705477633321729
+CHE,Switzerland,2020,NY.GDP.MKTP.CD,GDP (current US$),741999406005.627
+CHE,Switzerland,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.14173712008038
+CHE,Switzerland,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),85897.7843338323
+CHE,Switzerland,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.50319286415389
+CHE,Switzerland,2020,SL.TLF.TOTL.IN,"Labor force, total",4988638.0
+CHE,Switzerland,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),177.186529464331
+CHE,Switzerland,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),14993.783
+CHE,Switzerland,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),80.53
+CHE,Switzerland,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5515.8
+CHE,Switzerland,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",19.9391907506215
+CHE,Switzerland,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5116615767.61215
+CHE,Switzerland,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.627567424184859
+CHE,Switzerland,2021,NY.GDP.MKTP.CD,GDP (current US$),815309330986.719
+CHE,Switzerland,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.55962020605844
+CHE,Switzerland,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),93664.7736696111
+CHE,Switzerland,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.33431832389331
+CHE,Switzerland,2021,SL.TLF.TOTL.IN,"Labor force, total",5007036.0
+CHE,Switzerland,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),132.59747634133
+CHE,Switzerland,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),14962.808
+CHE,Switzerland,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),97.36
+CHE,Switzerland,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6081.1
+CHE,Switzerland,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",17.5861857642239
+CHE,Switzerland,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5106761657.14929
+CHE,Switzerland,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.616379798814859
+CHE,Switzerland,2022,NY.GDP.MKTP.CD,GDP (current US$),828508926958.393
+CHE,Switzerland,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.04406102969423
+CHE,Switzerland,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),94394.5106803525
+CHE,Switzerland,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.21838938288233
+CHE,Switzerland,2022,SL.TLF.TOTL.IN,"Labor force, total",5000225.0
+CHE,Switzerland,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),142.696815430266
+CHE,Switzerland,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),14932.228
+CHE,Switzerland,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5706.0
+CHE,Switzerland,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",19.8822985282172
+CHE,Switzerland,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5589372168.86109
+CHE,Switzerland,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.624912461460987
+CHE,Switzerland,2023,NY.GDP.MKTP.CD,GDP (current US$),894424821645.205
+CHE,Switzerland,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.683328174376044
+CHE,Switzerland,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),100623.549627296
+CHE,Switzerland,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.24192024656799
+CHE,Switzerland,2023,SL.TLF.TOTL.IN,"Labor force, total",5095827.0
+CHE,Switzerland,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",23.0721464329694
+CHE,Switzerland,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5888174200.61352
+CHE,Switzerland,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.628699475474558
+CHE,Switzerland,2024,NY.GDP.MKTP.CD,GDP (current US$),936564198048.516
+CHE,Switzerland,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.30233332541106
+CHE,Switzerland,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),103998.186685604
+CHE,Switzerland,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.29534355215188
+CHE,Switzerland,2024,SL.TLF.TOTL.IN,"Labor force, total",5139536.0
+CZE,Czech Republic,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),144.216501875488
+CZE,Czech Republic,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),35238.71
+CZE,Czech Republic,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),92.93
+CZE,Czech Republic,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6042.7
+CZE,Czech Republic,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4881550177.18465
+CZE,Czech Republic,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.94399138825301
+CZE,Czech Republic,2020,NY.GDP.MKTP.CD,GDP (current US$),251109660602.536
+CZE,Czech Republic,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-5.30487955463876
+CZE,Czech Republic,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),23472.8915454417
+CZE,Czech Republic,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.61002349042564
+CZE,Czech Republic,2020,SL.TLF.TOTL.IN,"Labor force, total",5343016.0
+CZE,Czech Republic,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),148.624327616262
+CZE,Czech Republic,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),35297.97
+CZE,Czech Republic,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),92.26
+CZE,Czech Republic,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6113.0
+CZE,Czech Republic,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5117822079.05034
+CZE,Czech Republic,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.75886666492278
+CZE,Czech Republic,2021,NY.GDP.MKTP.CD,GDP (current US$),290972714482.313
+CZE,Czech Republic,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.02901832055149
+CZE,Czech Republic,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),27696.4619527544
+CZE,Czech Republic,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.54754783664319
+CZE,Czech Republic,2021,SL.TLF.TOTL.IN,"Labor force, total",5242069.0
+CZE,Czech Republic,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),152.13994504936
+CZE,Czech Republic,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),35304.23
+CZE,Czech Republic,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),93.98
+CZE,Czech Republic,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5929.6
+CZE,Czech Republic,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6267071969.85914
+CZE,Czech Republic,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.07634975500264
+CZE,Czech Republic,2022,NY.GDP.MKTP.CD,GDP (current US$),301831228325.556
+CZE,Czech Republic,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.8471706583814
+CZE,Czech Republic,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),28282.2236715857
+CZE,Czech Republic,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.67637748085955
+CZE,Czech Republic,2022,SL.TLF.TOTL.IN,"Labor force, total",5369986.0
+CZE,Czech Republic,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),113.434505577045
+CZE,Czech Republic,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),35344.14
+CZE,Czech Republic,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6070.1
+CZE,Czech Republic,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7388475731.76364
+CZE,Czech Republic,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.14121915412639
+CZE,Czech Republic,2023,NY.GDP.MKTP.CD,GDP (current US$),345059295659.911
+CZE,Czech Republic,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.0475803308973752
+CZE,Czech Republic,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),31761.5944102491
+CZE,Czech Republic,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.90760214870837
+CZE,Czech Republic,2023,SL.TLF.TOTL.IN,"Labor force, total",5536510.0
+CZE,Czech Republic,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6590993603.77888
+CZE,Czech Republic,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.89923535118143
+CZE,Czech Republic,2024,NY.GDP.MKTP.CD,GDP (current US$),347034062928.479
+CZE,Czech Republic,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.23308611983484
+CZE,Czech Republic,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),31823.3078290564
+CZE,Czech Republic,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.81581103871465
+CZE,Czech Republic,2024,SL.TLF.TOTL.IN,"Labor force, total",5593139.0
+DEU,Germany,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),163.242026748971
+DEU,Germany,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),165950.0
+DEU,Germany,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),90.66
+DEU,Germany,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7133.3
+DEU,Germany,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",28719378963.4242
+DEU,Germany,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.728659526127881
+DEU,Germany,2020,NY.GDP.MKTP.CD,GDP (current US$),3941398957073.94
+DEU,Germany,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.13191443239947
+DEU,Germany,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),47394.8734504469
+DEU,Germany,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.11355468975483
+DEU,Germany,2020,SL.TLF.TOTL.IN,"Labor force, total",43372704.0
+DEU,Germany,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),130.141019042717
+DEU,Germany,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),165910.0
+DEU,Germany,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),90.39
+DEU,Germany,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6998.1
+DEU,Germany,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",32834053748.0615
+DEU,Germany,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.753895620719434
+DEU,Germany,2021,NY.GDP.MKTP.CD,GDP (current US$),4355251953410.78
+DEU,Germany,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.90999994204108
+DEU,Germany,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),52349.2459994422
+DEU,Germany,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.21183428547171
+DEU,Germany,2021,SL.TLF.TOTL.IN,"Labor force, total",43283278.0
+DEU,Germany,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),116.870120957365
+DEU,Germany,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),165950.0
+DEU,Germany,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),91.48
+DEU,Germany,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7126.1
+DEU,Germany,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",41784969961.0897
+DEU,Germany,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.994638278032481
+DEU,Germany,2022,NY.GDP.MKTP.CD,GDP (current US$),4201021706478.62
+DEU,Germany,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.8092581243061
+DEU,Germany,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),50506.5179638543
+DEU,Germany,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.27225858221331
+DEU,Germany,2022,SL.TLF.TOTL.IN,"Labor force, total",43561312.0
+DEU,Germany,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),128.575550038524
+DEU,Germany,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),165860.0
+DEU,Germany,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7007.3
+DEU,Germany,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",42390055270.589
+DEU,Germany,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.929156663056282
+DEU,Germany,2023,NY.GDP.MKTP.CD,GDP (current US$),4562207532490.28
+DEU,Germany,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.869647578573321
+DEU,Germany,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),54776.7668235491
+DEU,Germany,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.21168390188867
+DEU,Germany,2023,SL.TLF.TOTL.IN,"Labor force, total",43771247.0
+DEU,Germany,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",42844948475.0
+DEU,Germany,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.914397651173374
+DEU,Germany,2024,NY.GDP.MKTP.CD,GDP (current US$),4685592577804.69
+DEU,Germany,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.495851897260366
+DEU,Germany,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),56103.7323182554
+DEU,Germany,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.09309527721912
+DEU,Germany,2024,SL.TLF.TOTL.IN,"Labor force, total",43801773.0
+DNK,Denmark,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),151.279455740996
+DNK,Denmark,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),26199.87
+DNK,Denmark,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),103.05
+DNK,Denmark,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6926.3
+DNK,Denmark,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4756636352.81684
+DNK,Denmark,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.33752008668451
+DNK,Denmark,2020,NY.GDP.MKTP.CD,GDP (current US$),355631021931.621
+DNK,Denmark,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.78010601831291
+DNK,Denmark,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),60985.4885601514
+DNK,Denmark,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.10275058939704
+DNK,Denmark,2020,SL.TLF.TOTL.IN,"Labor force, total",3032944.0
+DNK,Denmark,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),139.422571064913
+DNK,Denmark,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),26180.0
+DNK,Denmark,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),96.3
+DNK,Denmark,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6355.0
+DNK,Denmark,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4390177596.2688
+DNK,Denmark,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.08103120928969
+DNK,Denmark,2021,NY.GDP.MKTP.CD,GDP (current US$),406110162088.054
+DNK,Denmark,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.50025445756295
+DNK,Denmark,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),69340.7334922138
+DNK,Denmark,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.03932108222848
+DNK,Denmark,2021,SL.TLF.TOTL.IN,"Labor force, total",3076617.0
+DNK,Denmark,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),120.870762711864
+DNK,Denmark,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),26240.0
+DNK,Denmark,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),107.01
+DNK,Denmark,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7241.4
+DNK,Denmark,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4010287024.84266
+DNK,Denmark,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.00228533729664
+DNK,Denmark,2022,NY.GDP.MKTP.CD,GDP (current US$),400114306337.077
+DNK,Denmark,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.443832614908331
+DNK,Denmark,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),67781.0940939514
+DNK,Denmark,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.11706685887241
+DNK,Denmark,2022,SL.TLF.TOTL.IN,"Labor force, total",3147518.0
+DNK,Denmark,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),113.644820295983
+DNK,Denmark,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),26210.0
+DNK,Denmark,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5671.7
+DNK,Denmark,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4199760967.83867
+DNK,Denmark,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.03787056976317
+DNK,Denmark,2023,NY.GDP.MKTP.CD,GDP (current US$),404651706117.557
+DNK,Denmark,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.604587766175584
+DNK,Denmark,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),68043.5466971243
+DNK,Denmark,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.02027441199317
+DNK,Denmark,2023,SL.TLF.TOTL.IN,"Labor force, total",3189737.0
+DNK,Denmark,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6096.3
+DNK,Denmark,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",3938410354.45536
+DNK,Denmark,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.927722262099888
+DNK,Denmark,2024,NY.GDP.MKTP.CD,GDP (current US$),424524722037.047
+DNK,Denmark,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.47783593140312
+DNK,Denmark,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),71026.4832271897
+DNK,Denmark,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.66649581675606
+DNK,Denmark,2024,SL.TLF.TOTL.IN,"Labor force, total",3277500.0
+ESP,Spain,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),167.144467719512
+ESP,Spain,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),261426.381
+ESP,Spain,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),116.68
+ESP,Spain,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4501.5
+ESP,Spain,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",138.955245532848
+ESP,Spain,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",35916356645.9145
+ESP,Spain,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.78468031745976
+ESP,Spain,2020,NY.GDP.MKTP.CD,GDP (current US$),1289783836971.21
+ESP,Spain,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-10.9400706350371
+ESP,Spain,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),27233.9426461608
+ESP,Spain,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.90507713594839
+ESP,Spain,2020,SL.TLF.TOTL.IN,"Labor force, total",22918332.0
+ESP,Spain,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),157.991217599046
+ESP,Spain,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),262284.464
+ESP,Spain,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),114.78
+ESP,Spain,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4227.4
+ESP,Spain,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",132.547539168518
+ESP,Spain,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",40450901344.9606
+ESP,Spain,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.76824927112995
+ESP,Spain,2021,NY.GDP.MKTP.CD,GDP (current US$),1461244901852.69
+ESP,Spain,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.68314420473001
+ESP,Spain,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),30799.4775937775
+ESP,Spain,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.07538475596877
+ESP,Spain,2021,SL.TLF.TOTL.IN,"Labor force, total",23392854.0
+ESP,Spain,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),110.60258773099
+ESP,Spain,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),266633.633
+ESP,Spain,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),87.04
+ESP,Spain,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3307.4
+ESP,Spain,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",109.021131387118
+ESP,Spain,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",34332544749.0274
+ESP,Spain,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.36964000049424
+ESP,Spain,2022,NY.GDP.MKTP.CD,GDP (current US$),1448850658406.62
+ESP,Spain,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.37031712129601
+ESP,Spain,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),30319.4987196616
+ESP,Spain,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.0145333294218
+ESP,Spain,2022,SL.TLF.TOTL.IN,"Labor force, total",23770575.0
+ESP,Spain,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),115.13935888866
+ESP,Spain,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),247726.62
+ESP,Spain,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2190.9
+ESP,Spain,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",107.392919205272
+ESP,Spain,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",42207320872.5498
+ESP,Spain,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.6062235563618
+ESP,Spain,2023,NY.GDP.MKTP.CD,GDP (current US$),1619481980719.64
+ESP,Spain,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.46085796805582
+ESP,Spain,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),33493.2225409111
+ESP,Spain,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.49782243390975
+ESP,Spain,2023,SL.TLF.TOTL.IN,"Labor force, total",24153349.0
+ESP,Spain,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3785.9
+ESP,Spain,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",105.639074777338
+ESP,Spain,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",47507843534.375
+ESP,Spain,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.75300596488807
+ESP,Spain,2024,NY.GDP.MKTP.CD,GDP (current US$),1725671652742.19
+ESP,Spain,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.45525405630191
+ESP,Spain,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),35326.7683069278
+ESP,Spain,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.47329157547218
+ESP,Spain,2024,SL.TLF.TOTL.IN,"Labor force, total",24604513.0
+FIN,Finland,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),92.7917967008471
+FIN,Finland,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),22700.0
+FIN,Finland,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),92.98
+FIN,Finland,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3589.3
+FIN,Finland,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6049070592.99613
+FIN,Finland,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.24039393029227
+FIN,Finland,2020,NY.GDP.MKTP.CD,GDP (current US$),270000311606.226
+FIN,Finland,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.49103605535707
+FIN,Finland,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),48828.6846862799
+FIN,Finland,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.71764921514363
+FIN,Finland,2020,SL.TLF.TOTL.IN,"Labor force, total",2744434.0
+FIN,Finland,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),98.0842621489077
+FIN,Finland,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),22680.0
+FIN,Finland,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),78.32
+FIN,Finland,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2777.3
+FIN,Finland,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6352498205.42625
+FIN,Finland,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.15907446415076
+FIN,Finland,2021,NY.GDP.MKTP.CD,GDP (current US$),294223210496.119
+FIN,Finland,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.67634641498897
+FIN,Finland,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),53099.1351400148
+FIN,Finland,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.95042809255165
+FIN,Finland,2021,SL.TLF.TOTL.IN,"Labor force, total",2799945.0
+FIN,Finland,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),69.5314591700134
+FIN,Finland,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),22660.0
+FIN,Finland,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),98.69
+FIN,Finland,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3770.1
+FIN,Finland,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6281435126.45917
+FIN,Finland,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.24134367895993
+FIN,Finland,2022,NY.GDP.MKTP.CD,GDP (current US$),280253099309.34
+FIN,Finland,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.763041912763526
+FIN,Finland,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),50440.560224974
+FIN,Finland,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.90347487010525
+FIN,Finland,2022,SL.TLF.TOTL.IN,"Labor force, total",2846126.0
+FIN,Finland,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),87.1675579322638
+FIN,Finland,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),22620.0
+FIN,Finland,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3310.5
+FIN,Finland,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6897412574.50993
+FIN,Finland,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.33793174221545
+FIN,Finland,2023,NY.GDP.MKTP.CD,GDP (current US$),295021982462.75
+FIN,Finland,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.939093459613758
+FIN,Finland,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),52834.2916752703
+FIN,Finland,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.61668081097713
+FIN,Finland,2023,SL.TLF.TOTL.IN,"Labor force, total",2863035.0
+FIN,Finland,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7369928611.71875
+FIN,Finland,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.46735975474973
+FIN,Finland,2024,NY.GDP.MKTP.CD,GDP (current US$),298696961297.656
+FIN,Finland,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.416171964862073
+FIN,Finland,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),53149.7671934051
+FIN,Finland,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.56978485895752
+FIN,Finland,2024,SL.TLF.TOTL.IN,"Labor force, total",2871471.0
+FRA,France,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),179.540121660326
+FRA,France,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),284186.56
+FRA,France,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),89.97
+FRA,France,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6394.9
+FRA,France,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",38671219441.0896
+FRA,France,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.4604342657704
+FRA,France,2020,NY.GDP.MKTP.CD,GDP (current US$),2647926055110.05
+FRA,France,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-7.44064589948231
+FRA,France,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),39169.8606000707
+FRA,France,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.35004825828845
+FRA,France,2020,SL.TLF.TOTL.IN,"Labor force, total",30289755.0
+FRA,France,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),171.652047698957
+FRA,France,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),284251.539
+FRA,France,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),96.52
+FRA,France,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7171.3
+FRA,France,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",43409171408.5264
+FRA,France,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.46334541457898
+FRA,France,2021,NY.GDP.MKTP.CD,GDP (current US$),2966433692008.09
+FRA,France,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.88233783360239
+FRA,France,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),43725.0999521245
+FRA,France,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.51483563043554
+FRA,France,2021,SL.TLF.TOTL.IN,"Labor force, total",31188658.0
+FRA,France,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),130.618577422308
+FRA,France,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),283885.926
+FRA,France,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),94.72
+FRA,France,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6654.9
+FRA,France,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",48075145391.2453
+FRA,France,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.72017137018833
+FRA,France,2022,NY.GDP.MKTP.CD,GDP (current US$),2794788137066.94
+FRA,France,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.71676264185913
+FRA,France,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),40988.6396406579
+FRA,France,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.59254288928259
+FRA,France,2022,SL.TLF.TOTL.IN,"Labor force, total",31586796.0
+FRA,France,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),131.322782093355
+FRA,France,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),282972.45
+FRA,France,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7274.0
+FRA,France,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",45377924868.8243
+FRA,France,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.48475796304424
+FRA,France,2023,NY.GDP.MKTP.CD,GDP (current US$),3056250648138.29
+FRA,France,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.43921494437743
+FRA,France,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),44700.1384177544
+FRA,France,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.50551207357095
+FRA,France,2023,SL.TLF.TOTL.IN,"Labor force, total",31826568.0
+FRA,France,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6280.8
+FRA,France,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",41079261216.3281
+FRA,France,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.29979455802577
+FRA,France,2024,NY.GDP.MKTP.CD,GDP (current US$),3160442622465.08
+FRA,France,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.19046798275883
+FRA,France,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),46103.0840855884
+FRA,France,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.39137797232537
+FRA,France,2024,SL.TLF.TOTL.IN,"Labor force, total",31859898.0
+GBR,United Kingdom,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),233.168769261304
+GBR,United Kingdom,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),172592.981
+GBR,United Kingdom,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),83.04
+GBR,United Kingdom,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6241.0
+GBR,United Kingdom,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",194.682828796265
+GBR,United Kingdom,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",18625651133.7066
+GBR,United Kingdom,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.683760683760684
+GBR,United Kingdom,2020,NY.GDP.MKTP.CD,GDP (current US$),2724001478304.59
+GBR,United Kingdom,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-10.047896637362
+GBR,United Kingdom,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),40812.6794663879
+GBR,United Kingdom,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),0.981318894168257
+GBR,United Kingdom,2020,SL.TLF.TOTL.IN,"Labor force, total",34260316.0
+GBR,United Kingdom,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),241.438814262867
+GBR,United Kingdom,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),172151.41
+GBR,United Kingdom,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),90.1
+GBR,United Kingdom,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6966.8
+GBR,United Kingdom,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",183.804848939919
+GBR,United Kingdom,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",22304747489.8572
+GBR,United Kingdom,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.698210493866494
+GBR,United Kingdom,2021,NY.GDP.MKTP.CD,GDP (current US$),3194559188925.93
+GBR,United Kingdom,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),8.5431118453255
+GBR,United Kingdom,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),47691.3768799404
+GBR,United Kingdom,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),0.89635908345731
+GBR,United Kingdom,2021,SL.TLF.TOTL.IN,"Labor force, total",34108417.0
+GBR,United Kingdom,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),193.50748455168
+GBR,United Kingdom,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),174145.186
+GBR,United Kingdom,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),94.33
+GBR,United Kingdom,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7720.1
+GBR,United Kingdom,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",138.215904304967
+GBR,United Kingdom,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",21667647999.5659
+GBR,United Kingdom,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.681106058275464
+GBR,United Kingdom,2022,NY.GDP.MKTP.CD,GDP (current US$),3181244350465.41
+GBR,United Kingdom,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.14970388522993
+GBR,United Kingdom,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),47057.043229179
+GBR,United Kingdom,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),0.755797614735619
+GBR,United Kingdom,2022,SL.TLF.TOTL.IN,"Labor force, total",34472367.0
+GBR,United Kingdom,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),191.439285220973
+GBR,United Kingdom,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),170094.506
+GBR,United Kingdom,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7137.9
+GBR,United Kingdom,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",136.142431919028
+GBR,United Kingdom,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",22172948816.6197
+GBR,United Kingdom,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.648180849687737
+GBR,United Kingdom,2023,NY.GDP.MKTP.CD,GDP (current US$),3420796653789.08
+GBR,United Kingdom,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.271650048355255
+GBR,United Kingdom,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),49944.4702124201
+GBR,United Kingdom,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),0.876663094174889
+GBR,United Kingdom,2023,SL.TLF.TOTL.IN,"Labor force, total",34965327.0
+GBR,United Kingdom,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",131.073062954793
+GBR,United Kingdom,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",23519500335.4917
+GBR,United Kingdom,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.638070794582258
+GBR,United Kingdom,2024,NY.GDP.MKTP.CD,GDP (current US$),3686033044482.13
+GBR,United Kingdom,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.1264226705118
+GBR,United Kingdom,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),53246.3676145108
+GBR,United Kingdom,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),0.872993243912147
+GBR,United Kingdom,2024,SL.TLF.TOTL.IN,"Labor force, total",35289735.0
+GRC,Greece,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),177.258998119491
+GRC,Greece,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),56246.605
+GRC,Greece,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),104.47
+GRC,Greece,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4197.1
+GRC,Greece,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7508757243.36967
+GRC,Greece,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.9238294812332
+GRC,Greece,2020,NY.GDP.MKTP.CD,GDP (current US$),191362985554.861
+GRC,Greece,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-9.19623149726978
+GRC,Greece,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),17886.733165236
+GRC,Greece,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),10.2879128741699
+GRC,Greece,2020,SL.TLF.TOTL.IN,"Labor force, total",4596339.0
+GRC,Greece,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),188.187692114327
+GRC,Greece,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),57119.286
+GRC,Greece,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),101.56
+GRC,Greece,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4194.7
+GRC,Greece,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7709911518.19755
+GRC,Greece,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.53173488105093
+GRC,Greece,2021,NY.GDP.MKTP.CD,GDP (current US$),218303801895.326
+GRC,Greece,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),8.65449786002131
+GRC,Greece,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),20654.7001960815
+GRC,Greece,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),11.3577118058213
+GRC,Greece,2021,SL.TLF.TOTL.IN,"Labor force, total",4573547.0
+GRC,Greece,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),142.778689190051
+GRC,Greece,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),53720.386
+GRC,Greece,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),94.17
+GRC,Greece,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4142.6
+GRC,Greece,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8250726641.94945
+GRC,Greece,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.78490731948212
+GRC,Greece,2022,NY.GDP.MKTP.CD,GDP (current US$),217990189600.69
+GRC,Greece,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.52198580589408
+GRC,Greece,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),20886.5243087629
+GRC,Greece,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),11.1562557643557
+GRC,Greece,2022,SL.TLF.TOTL.IN,"Labor force, total",4659964.0
+GRC,Greece,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),142.180135529957
+GRC,Greece,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),53720.387
+GRC,Greece,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4139.9
+GRC,Greece,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",9091581261.83938
+GRC,Greece,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.74222017907683
+GRC,Greece,2023,NY.GDP.MKTP.CD,GDP (current US$),242946187738.269
+GRC,Greece,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.13591131996631
+GRC,Greece,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),23343.7103964562
+GRC,Greece,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),11.4759495085773
+GRC,Greece,2023,SL.TLF.TOTL.IN,"Labor force, total",4658631.0
+GRC,Greece,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4052.9
+GRC,Greece,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",9648688024.94843
+GRC,Greece,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.765512541308
+GRC,Greece,2024,NY.GDP.MKTP.CD,GDP (current US$),256238371778.118
+GRC,Greece,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.0865743380603
+GRC,Greece,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),24626.1481858973
+GRC,Greece,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),10.9883381519467
+GRC,Greece,2024,SL.TLF.TOTL.IN,"Labor force, total",4725479.0
+HUN,Hungary,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),162.616731199777
+HUN,Hungary,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),49166.726
+HUN,Hungary,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),90.38
+HUN,Hungary,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6659.1
+HUN,Hungary,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",97.2770501317352
+HUN,Hungary,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5328577149.10334
+HUN,Hungary,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.36254685371176
+HUN,Hungary,2020,NY.GDP.MKTP.CD,GDP (current US$),158468487754.196
+HUN,Hungary,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.33872540024058
+HUN,Hungary,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),16386.9308821258
+HUN,Hungary,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.74154083828292
+HUN,Hungary,2020,SL.TLF.TOTL.IN,"Labor force, total",4829178.0
+HUN,Hungary,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),165.491767962949
+HUN,Hungary,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),50436.886
+HUN,Hungary,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),85.88
+HUN,Hungary,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5920.0
+HUN,Hungary,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",88.7340289766468
+HUN,Hungary,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6337107340.09771
+HUN,Hungary,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.45755919325803
+HUN,Hungary,2021,NY.GDP.MKTP.CD,GDP (current US$),183282685440.486
+HUN,Hungary,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.22291580811137
+HUN,Hungary,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),19030.628130329
+HUN,Hungary,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.38082265138894
+HUN,Hungary,2021,SL.TLF.TOTL.IN,"Labor force, total",4864077.0
+HUN,Hungary,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),108.325791049845
+HUN,Hungary,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),50760.12
+HUN,Hungary,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),62.75
+HUN,Hungary,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4032.1
+HUN,Hungary,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",77.9862613165307
+HUN,Hungary,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5563368708.27416
+HUN,Hungary,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.14310033852095
+HUN,Hungary,2022,NY.GDP.MKTP.CD,GDP (current US$),177002580544.155
+HUN,Hungary,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.15238057779229
+HUN,Hungary,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),18428.028825614
+HUN,Hungary,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.34783428051302
+HUN,Hungary,2022,SL.TLF.TOTL.IN,"Labor force, total",4912669.0
+HUN,Hungary,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),89.5252991749569
+HUN,Hungary,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),50830.46
+HUN,Hungary,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6252.0
+HUN,Hungary,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",82.2901905933258
+HUN,Hungary,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6233700726.44712
+HUN,Hungary,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.92332182995561
+HUN,Hungary,2023,NY.GDP.MKTP.CD,GDP (current US$),213240316634.648
+HUN,Hungary,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.817107370513455
+HUN,Hungary,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),22230.6277875187
+HUN,Hungary,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.42777980045488
+HUN,Hungary,2023,SL.TLF.TOTL.IN,"Labor force, total",4971665.0
+HUN,Hungary,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5629.7
+HUN,Hungary,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",82.0347002217277
+HUN,Hungary,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6038283705.04229
+HUN,Hungary,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.71112134044753
+HUN,Hungary,2024,NY.GDP.MKTP.CD,GDP (current US$),222722738925.641
+HUN,Hungary,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.560117843140432
+HUN,Hungary,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),23292.3263882478
+HUN,Hungary,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.24429856499696
+HUN,Hungary,2024,SL.TLF.TOTL.IN,"Labor force, total",4965018.0
+IRL,Ireland,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1220.25675675676
+IRL,Ireland,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),45120.0
+IRL,Ireland,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),79.1
+IRL,Ireland,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7124.8
+IRL,Ireland,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4399210574.87472
+IRL,Ireland,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.00897235932956
+IRL,Ireland,2020,NY.GDP.MKTP.CD,GDP (current US$),436009027818.948
+IRL,Ireland,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.15369505735335
+IRL,Ireland,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),86514.0706108754
+IRL,Ireland,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.47968889076715
+IRL,Ireland,2020,SL.TLF.TOTL.IN,"Labor force, total",2459907.0
+IRL,Ireland,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1303.10550458716
+IRL,Ireland,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),43370.0
+IRL,Ireland,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.17
+IRL,Ireland,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8606.5
+IRL,Ireland,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5479631125.62782
+IRL,Ireland,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.03312440304987
+IRL,Ireland,2021,NY.GDP.MKTP.CD,GDP (current US$),530394123829.763
+IRL,Ireland,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),16.2581881158197
+IRL,Ireland,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),103783.446284479
+IRL,Ireland,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.81198871473877
+IRL,Ireland,2021,SL.TLF.TOTL.IN,"Labor force, total",2604356.0
+IRL,Ireland,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1056.15919282511
+IRL,Ireland,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),43480.0
+IRL,Ireland,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),99.43
+IRL,Ireland,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8701.5
+IRL,Ireland,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6431036481.23543
+IRL,Ireland,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.17281530326124
+IRL,Ireland,2022,NY.GDP.MKTP.CD,GDP (current US$),548341794599.09
+IRL,Ireland,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.51113888415304
+IRL,Ireland,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),105190.685952731
+IRL,Ireland,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.86204408972643
+IRL,Ireland,2022,SL.TLF.TOTL.IN,"Labor force, total",2705770.0
+IRL,Ireland,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),895.870159453303
+IRL,Ireland,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),41890.0
+IRL,Ireland,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7062.8
+IRL,Ireland,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4805140480.0942
+IRL,Ireland,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.846910710164401
+IRL,Ireland,2023,NY.GDP.MKTP.CD,GDP (current US$),567372737459.116
+IRL,Ireland,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.53637409313261
+IRL,Ireland,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),106818.917130804
+IRL,Ireland,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.63227712600625
+IRL,Ireland,2023,SL.TLF.TOTL.IN,"Labor force, total",2846866.0
+IRL,Ireland,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7324.7
+IRL,Ireland,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6220377775.83906
+IRL,Ireland,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.02114448018423
+IRL,Ireland,2024,NY.GDP.MKTP.CD,GDP (current US$),609157459747.205
+IRL,Ireland,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.59946721553708
+IRL,Ireland,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),112894.953240805
+IRL,Ireland,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.95409935551031
+IRL,Ireland,2024,SL.TLF.TOTL.IN,"Labor force, total",2857089.0
+ITA,Italy,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),129.283438902111
+ITA,Italy,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),125183.7
+ITA,Italy,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),97.24
+ITA,Italy,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5626.5
+ITA,Italy,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",36776544535.5643
+ITA,Italy,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.9280162015612
+ITA,Italy,2020,NY.GDP.MKTP.CD,GDP (current US$),1907481094079.23
+ITA,Italy,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-8.86822122185345
+ITA,Italy,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),32091.4866621366
+ITA,Italy,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.01161495625894
+ITA,Italy,2020,SL.TLF.TOTL.IN,"Labor force, total",24984272.0
+ITA,Italy,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),112.800112111925
+ITA,Italy,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),124030.309
+ITA,Italy,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.16
+ITA,Italy,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5562.8
+ITA,Italy,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",39953440770.542
+ITA,Italy,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.83339290794707
+ITA,Italy,2021,NY.GDP.MKTP.CD,GDP (current US$),2179207773596.09
+ITA,Italy,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),8.93106210800055
+ITA,Italy,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),36852.5425414951
+ITA,Italy,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),4.05017313104733
+ITA,Italy,2021,SL.TLF.TOTL.IN,"Labor force, total",25032297.0
+ITA,Italy,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),113.921324044104
+ITA,Italy,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),130007.82
+ITA,Italy,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),93.95
+ITA,Italy,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4750.0
+ITA,Italy,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",39774700110.8951
+ITA,Italy,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.89037175125669
+ITA,Italy,2022,NY.GDP.MKTP.CD,GDP (current US$),2104067630319.46
+ITA,Italy,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.82117669913565
+ITA,Italy,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),35653.9042103495
+ITA,Italy,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.78769583793762
+ITA,Italy,2022,SL.TLF.TOTL.IN,"Labor force, total",25351560.0
+ITA,Italy,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),114.107223440771
+ITA,Italy,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),130875.57
+ITA,Italy,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5059.4
+ITA,Italy,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",43085527251.7655
+ITA,Italy,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.85975769551569
+ITA,Italy,2023,NY.GDP.MKTP.CD,GDP (current US$),2316727999333.18
+ITA,Italy,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.975694840127005
+ITA,Italy,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),39277.0838783918
+ITA,Italy,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.59437585162293
+ITA,Italy,2023,SL.TLF.TOTL.IN,"Labor force, total",25806816.0
+ITA,Italy,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",47551679943.3594
+ITA,Italy,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.99727734716288
+ITA,Italy,2024,NY.GDP.MKTP.CD,GDP (current US$),2380825077243.59
+ITA,Italy,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.692676948440536
+ITA,Italy,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),40385.3413957669
+ITA,Italy,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.42591242403986
+ITA,Italy,2024,SL.TLF.TOTL.IN,"Labor force, total",25756934.0
+JPN,Japan,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),216.008771929825
+JPN,Japan,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),46820.0
+JPN,Japan,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.99
+JPN,Japan,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6230.1
+JPN,Japan,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",53895785664.1926
+JPN,Japan,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.06638425931073
+JPN,Japan,2020,NY.GDP.MKTP.CD,GDP (current US$),5054068005376.28
+JPN,Japan,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.16876457146743
+JPN,Japan,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),40028.7341726762
+JPN,Japan,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.25705691945571
+JPN,Japan,2020,SL.TLF.TOTL.IN,"Labor force, total",68656452.0
+JPN,Japan,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),209.813999021047
+JPN,Japan,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),46590.0
+JPN,Japan,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.82
+JPN,Japan,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6417.0
+JPN,Japan,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",50916445061.2107
+JPN,Japan,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.01041770067097
+JPN,Japan,2021,NY.GDP.MKTP.CD,GDP (current US$),5039148168861.22
+JPN,Japan,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.69657404187188
+JPN,Japan,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),40094.5599795288
+JPN,Japan,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.16651807349569
+JPN,Japan,2021,SL.TLF.TOTL.IN,"Labor force, total",68592854.0
+JPN,Japan,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),201.746187899656
+JPN,Japan,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),46350.0
+JPN,Japan,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),94.6
+JPN,Japan,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6319.9
+JPN,Japan,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",39294852250.8559
+JPN,Japan,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.921881300110971
+JPN,Japan,2022,NY.GDP.MKTP.CD,GDP (current US$),4262463317796.53
+JPN,Japan,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.941998775483285
+JPN,Japan,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),34065.6438962526
+JPN,Japan,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.09502610392424
+JPN,Japan,2022,SL.TLF.TOTL.IN,"Labor force, total",68931266.0
+JPN,Japan,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),202.84371909001
+JPN,Japan,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),46070.0
+JPN,Japan,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6245.1
+JPN,Japan,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",39496452070.8984
+JPN,Japan,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.937452748505902
+JPN,Japan,2023,NY.GDP.MKTP.CD,GDP (current US$),4213167237905.83
+JPN,Japan,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.47503481053384
+JPN,Japan,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),33836.1756271617
+JPN,Japan,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.00513467595088
+JPN,Japan,2023,SL.TLF.TOTL.IN,"Labor force, total",69197135.0
+JPN,Japan,2024,NY.GDP.MKTP.CD,GDP (current US$),4027597523550.58
+JPN,Japan,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.104309021773304
+JPN,Japan,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),32487.0778047567
+JPN,Japan,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.88245007613386
+JPN,Japan,2024,SL.TLF.TOTL.IN,"Labor force, total",69501768.0
+KOR,South Korea,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),304.810650887574
+KOR,South Korea,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),16210.0
+KOR,South Korea,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),90.26
+KOR,South Korea,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6211.6
+KOR,South Korea,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",43.775799174588
+KOR,South Korea,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",27520580533.6391
+KOR,South Korea,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.57795135359259
+KOR,South Korea,2020,NY.GDP.MKTP.CD,GDP (current US$),1744070276373.34
+KOR,South Korea,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.700242317542106
+KOR,South Korea,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),33645.7719545073
+KOR,South Korea,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),5.37120678440121
+KOR,South Korea,2020,SL.TLF.TOTL.IN,"Labor force, total",28369827.0
+KOR,South Korea,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),281.478034251675
+KOR,South Korea,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),16030.0
+KOR,South Korea,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.82
+KOR,South Korea,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6826.1
+KOR,South Korea,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",45.8328934501884
+KOR,South Korea,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",32342624255.9017
+KOR,South Korea,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.66515978191584
+KOR,South Korea,2021,NY.GDP.MKTP.CD,GDP (current US$),1942313560965.9
+KOR,South Korea,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.61296795454287
+KOR,South Korea,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),37518.4635305697
+KOR,South Korea,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),5.34699533496314
+KOR,South Korea,2021,SL.TLF.TOTL.IN,"Labor force, total",28560792.0
+KOR,South Korea,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),325.433333333333
+KOR,South Korea,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),15840.0
+KOR,South Korea,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),93.62
+KOR,South Korea,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6612.2
+KOR,South Korea,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",47.6110651856141
+KOR,South Korea,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",26061006513.0936
+KOR,South Korea,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.4483461547482
+KOR,South Korea,2022,NY.GDP.MKTP.CD,GDP (current US$),1799363116866.52
+KOR,South Korea,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.72756456708991
+KOR,South Korea,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),34822.4048404971
+KOR,South Korea,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),5.43180170278522
+KOR,South Korea,2022,SL.TLF.TOTL.IN,"Labor force, total",29201402.0
+KOR,South Korea,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),262.3125
+KOR,South Korea,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),15680.0
+KOR,South Korea,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6615.2
+KOR,South Korea,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",48.5543799702909
+KOR,South Korea,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",26707897331.8143
+KOR,South Korea,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.44773871445502
+KOR,South Korea,2023,NY.GDP.MKTP.CD,GDP (current US$),1844800934391.54
+KOR,South Korea,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.58301467403629
+KOR,South Korea,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),35674.095995632
+KOR,South Korea,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),5.32432842202518
+KOR,South Korea,2023,SL.TLF.TOTL.IN,"Labor force, total",29587631.0
+KOR,South Korea,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",27347868341.4321
+KOR,South Korea,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.45825105459538
+KOR,South Korea,2024,NY.GDP.MKTP.CD,GDP (current US$),1875388209406.8
+KOR,South Korea,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.00361101838986
+KOR,South Korea,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),36238.639908315
+KOR,South Korea,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),5.19680870662354
+KOR,South Korea,2024,SL.TLF.TOTL.IN,"Labor force, total",29835657.0
+NLD,Netherlands,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),276.613954599285
+NLD,Netherlands,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),18144.5
+NLD,Netherlands,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),103.19
+NLD,Netherlands,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7944.3
+NLD,Netherlands,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",16202051805.4475
+NLD,Netherlands,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.73737205482673
+NLD,Netherlands,2020,NY.GDP.MKTP.CD,GDP (current US$),932560861701.17
+NLD,Netherlands,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.86795333823223
+NLD,Netherlands,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),53467.9277413737
+NLD,Netherlands,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.05038103102265
+NLD,Netherlands,2020,SL.TLF.TOTL.IN,"Labor force, total",9793423.0
+NLD,Netherlands,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),273.255234297109
+NLD,Netherlands,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),18120.0
+NLD,Netherlands,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),103.94
+NLD,Netherlands,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),7850.7
+NLD,Netherlands,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",17447785054.2633
+NLD,Netherlands,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.65464640233302
+NLD,Netherlands,2021,NY.GDP.MKTP.CD,GDP (current US$),1054472123449.6
+NLD,Netherlands,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.2768306708326
+NLD,Netherlands,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),60141.9880911492
+NLD,Netherlands,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.14689767197521
+NLD,Netherlands,2021,SL.TLF.TOTL.IN,"Labor force, total",9858813.0
+NLD,Netherlands,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),240.26593625498
+NLD,Netherlands,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),18040.0
+NLD,Netherlands,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),100.37
+NLD,Netherlands,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8860.0
+NLD,Netherlands,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",17183647677.0429
+NLD,Netherlands,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.64194723390554
+NLD,Netherlands,2022,NY.GDP.MKTP.CD,GDP (current US$),1046540797548.64
+NLD,Netherlands,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.00723455159611
+NLD,Netherlands,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),59123.318556487
+NLD,Netherlands,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.84526703405779
+NLD,Netherlands,2022,SL.TLF.TOTL.IN,"Labor force, total",10073395.0
+NLD,Netherlands,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),238.01982160555
+NLD,Netherlands,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),18030.0
+NLD,Netherlands,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8079.5
+NLD,Netherlands,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",19887773864.7062
+NLD,Netherlands,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.75149243000648
+NLD,Netherlands,2023,NY.GDP.MKTP.CD,GDP (current US$),1135475867551.0
+NLD,Netherlands,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.598096167209832
+NLD,Netherlands,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),63515.6030780019
+NLD,Netherlands,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.81273534650406
+NLD,Netherlands,2023,SL.TLF.TOTL.IN,"Labor force, total",10269843.0
+NLD,Netherlands,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6805.7
+NLD,Netherlands,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",21014416800.7812
+NLD,Netherlands,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.72968455863421
+NLD,Netherlands,2024,NY.GDP.MKTP.CD,GDP (current US$),1214927698572.66
+NLD,Netherlands,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.08100584845663
+NLD,Netherlands,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),67520.4218956281
+NLD,Netherlands,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.74627745051382
+NLD,Netherlands,2024,SL.TLF.TOTL.IN,"Labor force, total",10314837.0
+NOR,Norway,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),208.41096983581
+NOR,Norway,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),9859.62
+NOR,Norway,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),100.21
+NOR,Norway,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4683.8
+NOR,Norway,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6778900787.68033
+NOR,Norway,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.8439294251894
+NOR,Norway,2020,NY.GDP.MKTP.CD,GDP (current US$),367633418886.627
+NOR,Norway,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.27817177234034
+NOR,Norway,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),68340.0181033702
+NOR,Norway,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.02745169161186
+NOR,Norway,2020,SL.TLF.TOTL.IN,"Labor force, total",2925043.0
+NOR,Norway,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),210.72263681592
+NOR,Norway,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),9850.0
+NOR,Norway,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),95.01
+NOR,Norway,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4183.7
+NOR,Norway,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8048195576.25146
+NOR,Norway,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.59886917714459
+NOR,Norway,2021,NY.GDP.MKTP.CD,GDP (current US$),503367986030.268
+NOR,Norway,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.90868676830634
+NOR,Norway,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),93072.8925119571
+NOR,Norway,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.4175483600096
+NOR,Norway,2021,SL.TLF.TOTL.IN,"Labor force, total",2948722.0
+NOR,Norway,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),210.912935323383
+NOR,Norway,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),9850.0
+NOR,Norway,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),101.79
+NOR,Norway,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4728.0
+NOR,Norway,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",9746034497.70304
+NOR,Norway,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.63442443229044
+NOR,Norway,2022,NY.GDP.MKTP.CD,GDP (current US$),596297651035.798
+NOR,Norway,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.24622860260932
+NOR,Norway,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),109269.520580298
+NOR,Norway,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.31782127629038
+NOR,Norway,2022,SL.TLF.TOTL.IN,"Labor force, total",2995482.0
+NOR,Norway,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),205.144458281445
+NOR,Norway,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),9820.0
+NOR,Norway,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),2767.9
+NOR,Norway,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",10046071315.8725
+NOR,Norway,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.08014844089816
+NOR,Norway,2023,NY.GDP.MKTP.CD,GDP (current US$),482949731776.587
+NOR,Norway,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.0721204806030329
+NOR,Norway,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),87497.2179649556
+NOR,Norway,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.39527456618795
+NOR,Norway,2023,SL.TLF.TOTL.IN,"Labor force, total",3039025.0
+NOR,Norway,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4219.6
+NOR,Norway,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",10039146956.1846
+NOR,Norway,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.07595111116756
+NOR,Norway,2024,NY.GDP.MKTP.CD,GDP (current US$),483592648313.301
+NOR,Norway,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.09723059960317
+NOR,Norway,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),86785.4334489176
+NOR,Norway,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.56321282638943
+NOR,Norway,2024,SL.TLF.TOTL.IN,"Labor force, total",3074577.0
+NZL,New Zealand,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1725.8880455408
+NZL,New Zealand,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),101540.0
+NZL,New Zealand,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),108.93
+NZL,New Zealand,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),9039.3
+NZL,New Zealand,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",45.7367082288191
+NZL,New Zealand,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",12152588261.3609
+NZL,New Zealand,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",5.70464895404622
+NZL,New Zealand,2020,NY.GDP.MKTP.CD,GDP (current US$),213029554653.687
+NZL,New Zealand,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.307246896026541
+NZL,New Zealand,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),41997.7830324279
+NZL,New Zealand,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),6.01205539121553
+NZL,New Zealand,2020,SL.TLF.TOTL.IN,"Labor force, total",2869748.0
+NZL,New Zealand,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1445.04545454545
+NZL,New Zealand,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),101750.0
+NZL,New Zealand,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),104.93
+NZL,New Zealand,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8809.4
+NZL,New Zealand,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",51.305380228031
+NZL,New Zealand,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",14650587070.307
+NZL,New Zealand,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",5.76844884341389
+NZL,New Zealand,2021,NY.GDP.MKTP.CD,GDP (current US$),253977931814.967
+NZL,New Zealand,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.53540565716095
+NZL,New Zealand,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),49950.4251691316
+NZL,New Zealand,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),6.06790738697123
+NZL,New Zealand,2021,SL.TLF.TOTL.IN,"Labor force, total",2904263.0
+NZL,New Zealand,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1633.43339587242
+NZL,New Zealand,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),97470.0
+NZL,New Zealand,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),108.2
+NZL,New Zealand,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8381.7
+NZL,New Zealand,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",53.9638193955627
+NZL,New Zealand,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",11400069744.5869
+NZL,New Zealand,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",4.56898326146121
+NZL,New Zealand,2022,NY.GDP.MKTP.CD,GDP (current US$),249509991440.438
+NZL,New Zealand,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.49638686458842
+NZL,New Zealand,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),49099.7090423358
+NZL,New Zealand,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),6.0121339864762
+NZL,New Zealand,2022,SL.TLF.TOTL.IN,"Labor force, total",2932530.0
+NZL,New Zealand,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1291.13076923077
+NZL,New Zealand,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),97110.0
+NZL,New Zealand,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8488.8
+NZL,New Zealand,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",50.1080559619605
+NZL,New Zealand,2023,NY.GDP.MKTP.CD,GDP (current US$),255194972673.122
+NZL,New Zealand,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.39425181563566
+NZL,New Zealand,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),49075.9562832927
+NZL,New Zealand,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),5.61135048894207
+NZL,New Zealand,2023,SL.TLF.TOTL.IN,"Labor force, total",3034955.0
+NZL,New Zealand,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),9101.9
+NZL,New Zealand,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",52.2498447259151
+NZL,New Zealand,2024,NY.GDP.MKTP.CD,GDP (current US$),260172385097.616
+NZL,New Zealand,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.28862004711685
+NZL,New Zealand,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),49205.1792146792
+NZL,New Zealand,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),5.5332832249452
+NZL,New Zealand,2024,SL.TLF.TOTL.IN,"Labor force, total",3054575.0
+POL,Poland,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),155.067264573991
+POL,Poland,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),147330.0
+POL,Poland,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),107.75
+POL,Poland,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4691.7
+POL,Poland,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",15562569315.3558
+POL,Poland,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.56844423547416
+POL,Poland,2020,NY.GDP.MKTP.CD,GDP (current US$),605914237903.742
+POL,Poland,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.03556882399977
+POL,Poland,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),16150.9304813473
+POL,Poland,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),9.58676149341363
+POL,Poland,2020,SL.TLF.TOTL.IN,"Labor force, total",18197725.0
+POL,Poland,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),156.061016337215
+POL,Poland,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),144997.0
+POL,Poland,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),107.9
+POL,Poland,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4562.5
+POL,Poland,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",15475476339.3352
+POL,Poland,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.24552304361646
+POL,Poland,2021,NY.GDP.MKTP.CD,GDP (current US$),689170230665.35
+POL,Poland,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.92718266052501
+POL,Poland,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),18635.5104895754
+POL,Poland,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),9.0964773184197
+POL,Poland,2021,SL.TLF.TOTL.IN,"Labor force, total",18351011.0
+POL,Poland,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),160.680698611733
+POL,Poland,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),141760.0
+POL,Poland,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),110.01
+POL,Poland,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4861.5
+POL,Poland,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",19519227713.6268
+POL,Poland,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.80606930357805
+POL,Poland,2022,NY.GDP.MKTP.CD,GDP (current US$),695607470875.276
+POL,Poland,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.25545697386036
+POL,Poland,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),18891.2121169279
+POL,Poland,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),8.9306995040908
+POL,Poland,2022,SL.TLF.TOTL.IN,"Labor force, total",18378935.0
+POL,Poland,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),155.600785574005
+POL,Poland,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),145800.0
+POL,Poland,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4894.7
+POL,Poland,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",22467290460.5307
+POL,Poland,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.76537109467644
+POL,Poland,2023,NY.GDP.MKTP.CD,GDP (current US$),812451193396.143
+POL,Poland,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.249610834017872
+POL,Poland,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),22145.2660647429
+POL,Poland,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),8.48668356607559
+POL,Poland,2023,SL.TLF.TOTL.IN,"Labor force, total",18449404.0
+POL,Poland,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",23314255569.6602
+POL,Poland,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.54032372848325
+POL,Poland,2024,NY.GDP.MKTP.CD,GDP (current US$),917767106146.761
+POL,Poland,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.02841630700273
+POL,Poland,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),25103.565661423
+POL,Poland,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),6.50230719636268
+POL,Poland,2024,SL.TLF.TOTL.IN,"Labor force, total",18269205.0
+PRT,Portugal,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),181.521545739156
+PRT,Portugal,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),39542.556
+PRT,Portugal,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),110.11
+PRT,Portugal,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4881.3
+PRT,Portugal,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4915901259.89573
+PRT,Portugal,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.14089692520428
+PRT,Portugal,2020,NY.GDP.MKTP.CD,GDP (current US$),229618773422.577
+PRT,Portugal,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-8.20463159324387
+PRT,Portugal,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),22299.4044062173
+PRT,Portugal,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.86634832641125
+PRT,Portugal,2020,SL.TLF.TOTL.IN,"Labor force, total",5138884.0
+PRT,Portugal,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),184.54629978464
+PRT,Portugal,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),39622.955
+PRT,Portugal,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),144.08
+PRT,Portugal,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5379.7
+PRT,Portugal,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",5536046655.67821
+PRT,Portugal,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.16204629838151
+PRT,Portugal,2021,NY.GDP.MKTP.CD,GDP (current US$),256055879091.139
+PRT,Portugal,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.55875672070374
+PRT,Portugal,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),24711.4510062111
+PRT,Portugal,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.82638786857103
+PRT,Portugal,2021,SL.TLF.TOTL.IN,"Labor force, total",5114630.0
+PRT,Portugal,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),128.54849014314
+PRT,Portugal,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),39197.575
+PRT,Portugal,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),113.88
+PRT,Portugal,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5137.4
+PRT,Portugal,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",4895041835.82881
+PRT,Portugal,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.90543676193935
+PRT,Portugal,2022,NY.GDP.MKTP.CD,GDP (current US$),256898677175.024
+PRT,Portugal,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.98584137580278
+PRT,Portugal,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),24620.5197587181
+PRT,Portugal,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.0976522765187
+PRT,Portugal,2022,SL.TLF.TOTL.IN,"Labor force, total",5245513.0
+PRT,Portugal,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),179.157408234214
+PRT,Portugal,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),39699.597
+PRT,Portugal,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5520.7
+PRT,Portugal,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6247575535.75501
+PRT,Portugal,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.13721069426312
+PRT,Portugal,2023,NY.GDP.MKTP.CD,GDP (current US$),292323800948.839
+PRT,Portugal,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.09997909018263
+PRT,Portugal,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),27634.6183139773
+PRT,Portugal,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),3.10706416299277
+PRT,Portugal,2023,SL.TLF.TOTL.IN,"Labor force, total",5395411.0
+PRT,Portugal,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5308.8
+PRT,Portugal,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6333313353.94844
+PRT,Portugal,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.02167120867754
+PRT,Portugal,2024,NY.GDP.MKTP.CD,GDP (current US$),313271185085.102
+PRT,Portugal,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.13967177177636
+PRT,Portugal,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),29292.242104753
+PRT,Portugal,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),2.85584874666838
+PRT,Portugal,2024,SL.TLF.TOTL.IN,"Labor force, total",5450166.0
+ROU,Romania,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),87.0509253801721
+ROU,Romania,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),130490.0
+ROU,Romania,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),87.26
+ROU,Romania,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3398.6
+ROU,Romania,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",10205061649.5036
+ROU,Romania,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",4.07184426240682
+ROU,Romania,2020,NY.GDP.MKTP.CD,GDP (current US$),250625048303.578
+ROU,Romania,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.59802546034757
+ROU,Romania,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),13009.1770573223
+ROU,Romania,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),12.2550899409496
+ROU,Romania,2020,SL.TLF.TOTL.IN,"Labor force, total",8404862.0
+ROU,Romania,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),98.3148579413135
+ROU,Romania,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),130790.0
+ROU,Romania,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),115.92
+ROU,Romania,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5187.8
+ROU,Romania,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",13159858735.3143
+ROU,Romania,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",4.616339720378
+ROU,Romania,2021,NY.GDP.MKTP.CD,GDP (current US$),285071280114.469
+ROU,Romania,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.58735072538869
+ROU,Romania,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),14907.9803652143
+ROU,Romania,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),11.7517661369975
+ROU,Romania,2021,SL.TLF.TOTL.IN,"Labor force, total",8417695.0
+ROU,Romania,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),90.26354889782
+ROU,Romania,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),126780.0
+ROU,Romania,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),85.41
+ROU,Romania,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),3634.1
+ROU,Romania,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",11275393384.8426
+ROU,Romania,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.8180329334627
+ROU,Romania,2022,NY.GDP.MKTP.CD,GDP (current US$),295319437556.988
+ROU,Romania,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.18771305104109
+ROU,Romania,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),15503.551804598
+ROU,Romania,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),11.2520933619747
+ROU,Romania,2022,SL.TLF.TOTL.IN,"Labor force, total",8420718.0
+ROU,Romania,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),91.5666706316165
+ROU,Romania,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),127150.0
+ROU,Romania,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4020.8
+ROU,Romania,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",11560063834.9037
+ROU,Romania,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3.32416909916798
+ROU,Romania,2023,NY.GDP.MKTP.CD,GDP (current US$),347757995758.914
+ROU,Romania,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.25773416555121
+ROU,Romania,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),18244.4186876321
+ROU,Romania,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),11.914744119708
+ROU,Romania,2023,SL.TLF.TOTL.IN,"Labor force, total",8296265.0
+ROU,Romania,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",10755545407.0981
+ROU,Romania,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2.81143528363417
+ROU,Romania,2024,NY.GDP.MKTP.CD,GDP (current US$),382564217988.866
+ROU,Romania,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.916003764382594
+ROU,Romania,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),20080.2096215595
+ROU,Romania,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),11.2639125663001
+ROU,Romania,2024,SL.TLF.TOTL.IN,"Labor force, total",8263437.0
+SWE,Sweden,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),116.948798739661
+SWE,Sweden,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),30060.0
+SWE,Sweden,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),102.54
+SWE,Sweden,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5994.4
+SWE,Sweden,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",6510639308.0799
+SWE,Sweden,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.19622450679304
+SWE,Sweden,2020,NY.GDP.MKTP.CD,GDP (current US$),544265668451.678
+SWE,Sweden,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.93379704032216
+SWE,Sweden,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),52568.5726980146
+SWE,Sweden,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.72893248925529
+SWE,Sweden,2020,SL.TLF.TOTL.IN,"Labor force, total",5463932.0
+SWE,Sweden,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),112.910453648915
+SWE,Sweden,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),30030.0
+SWE,Sweden,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),91.72
+SWE,Sweden,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),5064.7
+SWE,Sweden,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7324026277.58672
+SWE,Sweden,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.15942751247748
+SWE,Sweden,2021,NY.GDP.MKTP.CD,GDP (current US$),631693331300.776
+SWE,Sweden,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.2258643028773
+SWE,Sweden,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),60647.5416365347
+SWE,Sweden,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.98350781851788
+SWE,Sweden,2021,SL.TLF.TOTL.IN,"Labor force, total",5504637.0
+SWE,Sweden,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),102.668512658228
+SWE,Sweden,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),29950.0
+SWE,Sweden,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),103.06
+SWE,Sweden,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),6107.4
+SWE,Sweden,2022,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7123809565.60075
+SWE,Sweden,2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.23876992958721
+SWE,Sweden,2022,NY.GDP.MKTP.CD,GDP (current US$),575071237640.921
+SWE,Sweden,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.25543620445816
+SWE,Sweden,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),54836.8907235124
+SWE,Sweden,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.87893378014702
+SWE,Sweden,2022,SL.TLF.TOTL.IN,"Labor force, total",5586140.0
+SWE,Sweden,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),93.520190023753
+SWE,Sweden,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),29820.0
+SWE,Sweden,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),4456.5
+SWE,Sweden,2023,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",7424298066.57012
+SWE,Sweden,2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.28228230721285
+SWE,Sweden,2023,NY.GDP.MKTP.CD,GDP (current US$),578990915246.07
+SWE,Sweden,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.204061304891439
+SWE,Sweden,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),54950.2834725622
+SWE,Sweden,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.76882294206255
+SWE,Sweden,2023,SL.TLF.TOTL.IN,"Labor force, total",5661389.0
+SWE,Sweden,2024,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",8586593659.10392
+SWE,Sweden,2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1.4222920532684
+SWE,Sweden,2024,NY.GDP.MKTP.CD,GDP (current US$),603715224265.798
+SWE,Sweden,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.820071806703865
+SWE,Sweden,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),57117.4877440616
+SWE,Sweden,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.81311485582453
+SWE,Sweden,2024,SL.TLF.TOTL.IN,"Labor force, total",5680083.0
+USA,United States,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),134.602541285667
+USA,United States,2020,AG.LND.AGRI.K2,Agricultural land (sq. km),4238214.373
+USA,United States,2020,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),98.43
+USA,United States,2020,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8144.8
+USA,United States,2020,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",126.370405951231
+USA,United States,2020,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",199831763000.0
+USA,United States,2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.948847431791134
+USA,United States,2020,NY.GDP.MKTP.CD,GDP (current US$),21060473613000.0
+USA,United States,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.16302914036166
+USA,United States,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),63515.9491807833
+USA,United States,2020,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.74639361793943
+USA,United States,2020,SL.TLF.TOTL.IN,"Labor force, total",166565059.0
+USA,United States,2021,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),130.586361634967
+USA,United States,2021,AG.LND.AGRI.K2,Agricultural land (sq. km),4226809.024
+USA,United States,2021,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),101.0
+USA,United States,2021,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8246.5
+USA,United States,2021,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",120.367733355153
+USA,United States,2021,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",223723739000.0
+USA,United States,2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",0.959566656543433
+USA,United States,2021,NY.GDP.MKTP.CD,GDP (current US$),23315080560000.0
+USA,United States,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.05505293244555
+USA,United States,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),70205.050916026
+USA,United States,2021,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.6624029464832
+USA,United States,2021,SL.TLF.TOTL.IN,"Labor force, total",167182196.0
+USA,United States,2022,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),127.804790577231
+USA,United States,2022,AG.LND.AGRI.K2,Agricultural land (sq. km),4215403.674
+USA,United States,2022,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),92.96
+USA,United States,2022,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8065.8
+USA,United States,2022,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",114.694842004206
+USA,United States,2022,NY.GDP.MKTP.CD,GDP (current US$),25604848907611.0
+USA,United States,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.51237531986017
+USA,United States,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),76657.2488844403
+USA,United States,2022,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.62054352999574
+USA,United States,2022,SL.TLF.TOTL.IN,"Labor force, total",169494100.0
+USA,United States,2023,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),127.796948422916
+USA,United States,2023,AG.LND.AGRI.K2,Agricultural land (sq. km),4215403.674
+USA,United States,2023,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8330.0
+USA,United States,2023,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",116.918808847311
+USA,United States,2023,NY.GDP.MKTP.CD,GDP (current US$),27292170793214.4
+USA,United States,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.88755600749487
+USA,United States,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),81032.262117545
+USA,United States,2023,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.5696095192715
+USA,United States,2023,SL.TLF.TOTL.IN,"Labor force, total",172300802.0
+USA,United States,2024,AG.YLD.CREL.KG,Cereal yield (kg per hectare),8413.5
+USA,United States,2024,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",117.973234857902
+USA,United States,2024,NY.GDP.MKTP.CD,GDP (current US$),28750956130731.2
+USA,United States,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.79300127716779
+USA,United States,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),84534.0407841548
+USA,United States,2024,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),1.5689918084039
+USA,United States,2024,SL.TLF.TOTL.IN,"Labor force, total",174221396.0
