@@ -1,0 +1,432 @@
+Year,Value,Indicator,Indicator_Code,Country
+YR2000,6.06528061041339,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2000,-2472788709.99801,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2000,16.4762017933808,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2000,7.28179748336201,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2000,8165875911.27849,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2000,9060862651.56033,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2000,2.37527192847551,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2000,67.7427738243997,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2000,17.2388102820024,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2000,0.668806872826536,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2000,1.53100475812183,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2000,0.739162139139737,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2000,14.1660055239442,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2000,0.929479533962698,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2000,6.1199884679938,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2000,64.7267308900026,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2000,8883000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2000,7474709820.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2000,-2458878888.10142,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2001,6.44575506994615,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2001,-2874981467.75389,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2001,17.3900891315011,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2001,4.83111832766778,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2001,9215079005.25739,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2001,10102557449.9629,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2001,2.41562491895759,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2001,68.9110867287064,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2001,17.6609388411068,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2001,0.581699639066683,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2001,1.11602385657707,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2001,0.590466203988144,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2001,16.8860359259367,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2001,0.788222680396205,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2001,5.55650558336777,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2001,62.3766128529283,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2001,9018000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2001,7693423890.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2001,-2817985657.31352,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2002,5.64804343279805,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2002,-2269650008.70625,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2002,14.6012765701751,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2002,6.78923563149681,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2002,8768385060.35743,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2002,9060891520.11144,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2002,1.92479898290548,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2002,56.7599981519571,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2002,20.9939104506997,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2002,0.946202215989257,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2002,1.07344808099003,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2002,0.450361529061175,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2002,17.5124104148488,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2002,0.406990220154494,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2002,5.7547727380937,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2002,58.5856890710947,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2002,8592000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2002,6972653296.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2002,-2234843547.53365,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2003,7.46485520934452,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2003,-2884974093.26425,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2003,19.1883894625947,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2003,11.0987893062241,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2003,9518042380.41675,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2003,9761830742.65976,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2003,1.92737016029291,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2003,60.317204445499,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2003,20.4075331403459,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2003,1.8714785700874,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2003,1.40618872513327,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2003,0.376450466512733,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2003,18.6891556068454,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2003,0.751362261421494,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2003,6.85622071289537,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2003,56.4978312296538,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2003,10434000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2003,8623932466.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2003,-3141653816.41339,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2004,8.46970712228047,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2004,-2972345846.78104,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2004,15.6096305442988,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2004,8.29717956189146,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2004,17584534494.4188,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2004,10229675556.3105,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2004,2.08477068964326,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2004,65.5213424328879,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2004,22.2493162603307,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2004,1.81262567762613,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2004,1.82294387656281,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2004,0.316528487210814,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2004,17.9704073806913,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2004,0.743145278633269,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2004,10.108348493391,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2004,55.0850330389449,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2004,12036000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2004,10469230208.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2004,-3854880482.14049,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2005,7.34670876932395,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2005,-3898472861.97333,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2005,13.8972198613441,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2005,10.2104592142642,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2005,24277698362.6253,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2005,13898043877.3656,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2005,2.94056839989021,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2005,65.6015221996257,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2005,22.656037995919,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2005,2.57609892058729,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2005,1.54408956736864,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2005,0.38099536711354,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2005,16.8733502993802,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2005,0.424395347933294,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2005,14.9389465955131,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2005,55.545032501698,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2005,13889000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2005,12575480212.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2005,-4156759716.05123,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2006,7.0104951220935,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2006,-3880557603.06654,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2006,16.6996245220718,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2006,12.7500359072175,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2006,28693920636.0907,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2006,15621647159.4109,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2006,3.1644501304716,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2006,60.3752050016738,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2006,23.3359688641801,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2006,3.09986636041791,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2006,1.32760818277718,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2006,0.653386661938276,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2006,15.3197824648383,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2006,0.404172149516755,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2006,14.4725731285863,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2006,55.8592153163315,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2006,16034000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2006,14791096089.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2006,-3896303860.1296,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2007,7.83069523636506,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2007,-4738256591.77323,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2007,22.4621296974454,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2007,10.4864954081135,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2007,33280940870.7871,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2007,18268522231.9984,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2007,3.3587091644902,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2007,54.3044951529368,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2007,23.4422797620986,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2007,2.76672693274765,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2007,2.1976875802674,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2007,0.544556396228803,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2007,16.8732489216548,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2007,0.599671517082158,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2007,13.7746977455441,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2007,53.5758288899206,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2007,18596000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2007,17113178478.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2007,-5462928581.36725,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2008,7.35179947219679,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2008,-6692430505.57389,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2008,18.3229853149513,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2008,7.41205503993909,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2008,32648192800.3489,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2008,22874478188.5382,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2008,3.00214265497531,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2008,63.5254982261883,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2008,24.1204604134884,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2008,2.86107727379539,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2008,1.57969508722893,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2008,0.9672796122741,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2008,17.5608491581796,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2008,0.535687683125363,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2008,14.6416075031624,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2008,52.3749507719081,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2008,23860000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2008,22297319644.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2008,-7672641808.74828,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2009,6.48020320667721,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2009,-6366300367.15218,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2009,18.6780564304749,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2009,12.2352971759758,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2009,31799452432.3593,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2009,23725728359.9447,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2009,2.34767425079487,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2009,60.0774086196632,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2009,28.6295533893095,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2009,4.63028253122805,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2009,2.63100815762919,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2009,0.930540495929075,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2009,15.1806132030646,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2009,0.523669742652935,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2009,6.75556355338465,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2009,47.4743324801866,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2009,21833000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2009,20492005220.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2009,-6025299151.95923,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2010,8.11112077116772,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2010,-6633666169.82309,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2010,17.4240481119914,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2010,8.29586577808838,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2010,32017741357.5566,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2010,25105548606.6769,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2010,1.99784694308339,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2010,64.170092721373,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2010,30.4435982716337,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2010,4.18362829292884,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2010,2.62533453700915,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2010,0.913310755750842,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2010,16.900279417356,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2010,0.726039082652842,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2010,9.20644094092719,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2010,44.2078096426686,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2010,27821000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2010,25891491862.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2010,-7816344792.83922,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2011,7.30561438439996,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2011,-9744203015.37006,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2011,19.4937925236267,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2011,7.58430549219529,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2011,41351862193.7416,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2011,35365482039.6129,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2011,1.94424686390031,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2011,63.6705608461265,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2011,33.2195466674598,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2011,3.01435726257451,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2011,3.53650524910474,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2011,2.32695244575352,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2011,16.7234185877231,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2011,0.713607204847139,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2011,11.1022116250255,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2011,40.4656125825372,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2011,36214000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2011,33794072476.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2011,-10888026891.2585,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2012,7.5898588243114,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2012,-10381901108.8438,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2012,14.4704238243695,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2012,8.84373444837354,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2012,45701482286.5825,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2012,37259465952.266,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2012,2.1539003634854,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2012,64.060096485815,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2012,31.6857605674113,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2012,3.1324522700363,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2012,4.69659716887118,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2012,1.80881709889602,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2012,16.6657848751843,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2012,0.775283968499513,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2012,11.3253084650587,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2012,41.2353040511014,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2012,34173000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2012,31793003856.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2012,-10157899098.9677,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2013,7.78124819469518,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2013,-10830906474.5112,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2013,16.8657778641165,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2013,8.05278075015461,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2013,46258195599.4075,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2013,40137513944.1348,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2013,2.21304183453315,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2013,65.0837691340119,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2013,32.7422997796562,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2013,4.09665528216582,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2013,4.20184967812108,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2013,1.49822239276549,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2013,16.8741564530415,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2013,1.00646944565137,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2013,9.73455490902989,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2013,39.5803469685985,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2013,37085000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2013,34608666811.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2013,-9933198074.62347,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2014,-11297725501.216,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2014,46798641138.9714,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2014,44128305231.1645,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2014,32.8137257595778,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2014,3.31104757627396,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2014,4.2712269676574,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2014,0.928707805401443,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2014,17.7018446704355,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2014,1.22284647577346,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2014,9.84001136660625,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2014,39.7506007448804,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2014,41119000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2014,38252114167.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2014,-12119389611.999,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2015,6.41256931026831,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2015,-14465532639.7464,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2015,16.561579168916,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2015,10.8615857469889,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2015,48297463643.7965,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2015,48297463643.7965,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2015,2.68270211560005,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2015,63.4804306877422,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2015,34.2032737961835,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2015,3.49004537580605,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2015,3.71551924955602,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2015,0.965738744692808,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2015,17.0363865750579,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2015,1.48951883681997,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2015,7.24862860171446,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2015,39.0995174218838,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2015,42047000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2015,36101387556.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2015,-10606498175.2762,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2016,5.86643136722568,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2016,-9260953611.32638,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2016,15.2417870221937,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2016,10.5391560814814,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2016,44872263246.7544,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2016,46183400773.3724,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2016,3.09919831568451,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2016,65.252558547916,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2016,34.8558214128331,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2016,3.44276246750405,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2016,4.14720168637998,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2016,0.906660997775734,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2016,16.1411646673373,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2016,1.61288553695797,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2016,6.20342817468727,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2016,38.8935032312119,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2016,44772000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2016,37987301080.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2016,-10505302542.1777,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2017,6.69003528747864,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2017,-12807430499.2488,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2017,18.9346180073446,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2017,10.4207487146544,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2017,47189556671.898,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2017,50463186692.0898,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2017,3.67703500830579,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2017,60.2531091786662,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2017,33.2700893084063,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2017,2.77245141724497,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2017,5.02860242063973,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2017,0.527515359445114,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2017,17.7513811306045,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2017,2.29862386313213,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2017,6.03736082936381,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2017,38.3513365005273,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2017,52836000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2017,44248899453.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2017,-17594487835.4603,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2018,6.03484299147945,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Bangladesh
+YR2018,-23025820646.6643,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2018,13.0022763018655,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Bangladesh
+YR2018,10.1215316760637,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Bangladesh
+YR2018,58484366550.2845,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2018,63757868050.7515,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2018,3.79181935483022,Machinery and transport equipment imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Bangladesh
+YR2018,67.0490057753522,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Bangladesh
+YR2018,35.8803637433437,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2018,1.95101527950808,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2018,3.6484148251279,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2018,0.538271445834576,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2018,18.2484208500019,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2018,2.92137998320315,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2018,7.36693226913497,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2018,36.8112756066929,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2018,60495000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2018,51428560839.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2018,-21457169885.0705,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2019,-18926257570.9868,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2019,58779996314.8178,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2019,64919190426.113,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2019,36.0015805739046,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2019,2.02825834744472,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2019,4.09377338870366,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2019,0.838232967367791,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2019,14.9223550418579,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2019,2.90661237383677,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2019,9.80817221923446,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2019,39.1965399402316,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2019,59094000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2019,51303304301.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2019,-19272605860.584,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2020,-20142051278.3432,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2020,52073456218.9652,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2020,59195931838.1946,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2020,35.2379096145837,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2020,2.23922145221123,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2020,5.23073605189549,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2020,0.901923098941599,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2020,16.1497693922047,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2020,3.08781642192995,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2020,7.9310382264002,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2020,37.1476178868783,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2020,52804000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2020,43053874821.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2020,-18300384906.6326,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2021,-26634920363.1482,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2021,60022959705.004,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2021,71021045805.0068,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2021,37.1176360148608,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2021,1.54297713784969,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2021,4.80165935054913,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2021,1.19465033461108,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2021,18.2071363223105,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2021,2.61542271517777,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2021,8.04985752333436,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2021,34.5193505617975,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2021,80448000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2021,64639175885.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2021,-36008206263.1851,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2022,-36881921800.9904,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2022,78739971067.3165,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2022,96157127887.3964,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2022,37.1765617000227,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2022,0.973262926397095,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2022,4.55136474005147,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2022,2.53281383727112,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2022,17.3217745449468,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2022,3.60339316502735,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2022,11.360363852477,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2022,33.7651607035299,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2022,88234000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2022,79915840407.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2022,-36662353267.6817,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2023,-20421363572.4637,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2023,71044199703.4452,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2023,77972815573.2438,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2023,39.9328612743048,Merchandise imports from developing economies in East Asia & Pacific (% of total),TM.VAL.MRCH.R1.ZS,Bangladesh
+YR2023,1.55040411635694,Merchandise imports from developing economies in Europe & Central Asia (% of total),TM.VAL.MRCH.R2.ZS,Bangladesh
+YR2023,4.86282929526692,Merchandise imports from developing economies in Latin America & the Caribbean (% of total),TM.VAL.MRCH.R3.ZS,Bangladesh
+YR2023,1.36074829173992,Merchandise imports from developing economies in Middle East & North Africa (% of total),TM.VAL.MRCH.R4.ZS,Bangladesh
+YR2023,15.4103768633673,Merchandise imports from developing economies in South Asia (% of total),TM.VAL.MRCH.R5.ZS,Bangladesh
+YR2023,2.87447615364177,Merchandise imports from developing economies in Sub-Saharan Africa (% of total),TM.VAL.MRCH.R6.ZS,Bangladesh
+YR2023,9.88010941057253,Merchandise imports from economies in the Arab World (% of total),TM.VAL.MRCH.AL.ZS,Bangladesh
+YR2023,34.0079629592279,Merchandise imports from high income economies (% of total),TM.VAL.MRCH.HI.ZS,Bangladesh
+YR2023,66863000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2023,61311067158.0,Total Merchandise Imports (current US$) - Alternative,TM.VAL.MRCH.WL.CD,Bangladesh
+YR2023,-25709127628.1774,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh
+YR2024,-26357644239.5008,External balance on goods and services (current US$),NE.RSB.GNFS.CD,Bangladesh
+YR2024,67776851244.9799,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Bangladesh
+YR2024,73445483483.8237,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Bangladesh
+YR2024,67880000000.0,Total Merchandise Imports (current US$),TM.VAL.MRCH.CD.WT,Bangladesh
+YR2024,-25745430607.2451,Trade in goods and services (current US$),BN.GSR.GNFS.CD,Bangladesh

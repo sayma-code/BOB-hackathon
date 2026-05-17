@@ -1,0 +1,28 @@
+Resource_Type,Field_Name,Location,Status,Operator,Operator_Type,Country_of_Operator,Discovered_Year,Production_Start,Estimated_Reserves,Current_Production,Notes
+Natural Gas,Titas Gas Field,Brahmanbaria District,Active,"Petrobangla (Bangladesh Oil, Gas and Mineral Corporation)",State-Owned,Bangladesh,1968,1968,Depleting - Major field,Declining,"Largest gas field in Bangladesh, supplies to Dhaka and industrial areas"
+Natural Gas,Habiganj Gas Field,Habiganj District,Active,Petrobangla,State-Owned,Bangladesh,1963,1963,Moderate,Active,One of the oldest gas fields
+Natural Gas,Bakhrabad Gas Field,Comilla District,Active,Petrobangla,State-Owned,Bangladesh,1964,1964,Moderate,Active,Supplies gas to Dhaka and Chittagong
+Natural Gas,Rashidpur Gas Field,Narsingdi District,Active,Petrobangla,State-Owned,Bangladesh,1960,1960,Low - Depleting,Declining,One of the first gas fields discovered
+Natural Gas,Kailashtila Gas Field,Sylhet District,Active,Petrobangla,State-Owned,Bangladesh,1959,1960,Moderate,Active,Supplies to Sylhet region
+Natural Gas,Jalalabad Gas Field,Sylhet District,Active,Petrobangla,State-Owned,Bangladesh,1989,1994,Moderate,Active,Important field in Sylhet basin
+Natural Gas,Bibiyana Gas Field,Habiganj District,Active,Chevron Bangladesh,Foreign Private,United States,1998,2007,2.4 TCF (Trillion Cubic Feet),High - Largest producing field,"Largest gas field, produces ~50% of Bangladesh total gas production"
+Natural Gas,Jalalabad Gas Field (Chevron operated),Sylhet District,Active,Chevron Bangladesh,Foreign Private,United States,1989,1994,Moderate,Active,Operated by Chevron under PSC
+Natural Gas,Moulvibazar Gas Field,Moulvibazar District,Active,Chevron Bangladesh,Foreign Private,United States,1997,2007,Moderate,Active,Part of Chevron operations
+Natural Gas,Sangu Gas Field,Bay of Bengal (Offshore),Depleted,"Santos (formerly), now Petrobangla",Foreign Private (now State-Owned),Australia (formerly),1996,1998,Depleted,Ceased,"First offshore gas field, now depleted"
+Natural Gas,Bhola Gas Field,Bhola District (Offshore),Under Development,Gazprom (Russia),Foreign State-Owned,Russia,2012,Planned,Significant,Not yet producing,Offshore field under development
+Natural Gas,Shahbazpur Gas Field,Bhola District,Active,Petrobangla,State-Owned,Bangladesh,1995,1998,Moderate,Active,Supplies to southern region
+Natural Gas,Semutang Gas Field,Sylhet District,Active,Petrobangla,State-Owned,Bangladesh,1960,1960,Low,Declining,Old field with declining production
+Natural Gas,Fenchuganj Gas Field,Sylhet District,Active,Petrobangla,State-Owned,Bangladesh,1960,1960,Low,Declining,Old field with declining production
+Coal,Barapukuria Coal Mine,Dinajpur District,Active,Barapukuria Coal Mining Company Limited (BCMCL),State-Owned (Chinese assistance),Bangladesh (with China),1985,2005,390 million tons,Active - Underground mining,"Only operational coal mine in Bangladesh, Chinese assistance in development"
+Coal,Phulbari Coal Field,Dinajpur District,Undeveloped - Controversial,GCM Resources (UK) - License suspended,Foreign Private,United Kingdom,1997,Not started,572 million tons,None,"Largest coal reserve, open-pit mining proposed but suspended due to environmental and displacement concerns"
+Coal,Khalashpir Coal Field,Rangpur District,Undeveloped,Not assigned,N/A,N/A,1995,Not started,1.3 billion tons,None,"Largest coal reserve in Bangladesh, undeveloped"
+Coal,Dighipara Coal Field,Dinajpur District,Undeveloped,Not assigned,N/A,N/A,1995,Not started,750 million tons,None,Undeveloped reserve
+Coal,Baramasia Coal Field,Nawabganj District,Undeveloped,Not assigned,N/A,N/A,1995,Not started,300 million tons,None,Undeveloped reserve
+Crude Oil,Haripur Oil Field,Sylhet District,Active,Petrobangla,State-Owned,Bangladesh,1986,1987,Small - Declining,Very low - ~200 barrels/day,"Only producing oil field, minimal production"
+Crude Oil,Salda Oil Field,Sylhet District,Inactive,Petrobangla,State-Owned,Bangladesh,1980s,Limited,Minimal,Ceased,"Small field, production ceased"
+LNG Import,Summit LNG Terminal,"Maheshkhali, Cox's Bazar",Active,Summit Group (Bangladesh),Private Domestic,Bangladesh,N/A,2019,N/A - Import facility,500 MMCFD capacity,"First LNG terminal, imports from Qatar and other sources"
+LNG Import,Excelerate Energy LNG Terminal,"Moheshkhali, Cox's Bazar",Active,Excelerate Energy (USA) & Petrobangla,Foreign Private & State Partnership,United States & Bangladesh,N/A,2018,N/A - Import facility,500 MMCFD capacity,Floating Storage Regasification Unit (FSRU)
+LNG Import,Payra LNG Terminal,"Payra, Patuakhali",Under Construction,Reliance Power (India) & Petrobangla,Foreign Private & State Partnership,India & Bangladesh,N/A,Planned,N/A - Import facility,Not yet operational,Third LNG terminal under development
+Solar Power,Teknaf Solar Power Plant,"Teknaf, Cox's Bazar",Active,Bangladesh Power Development Board (BPDB),State-Owned,Bangladesh,N/A,2017,N/A - Renewable,28 MW,Largest solar power plant in Bangladesh
+Solar Power,Mymensingh Solar Park,Mymensingh,Active,BPDB,State-Owned,Bangladesh,N/A,2016,N/A - Renewable,8 MW,Solar power facility
+Wind Power,Feni Wind Power Project,Feni District,Planned,Various private developers,Private,Bangladesh/Foreign,N/A,Planned,N/A - Renewable,Not yet operational,Wind power potential being explored
